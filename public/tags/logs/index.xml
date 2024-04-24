@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logs on 长街短梦</title>
+    <link>//localhost:1313/tags/logs/</link>
+    <description>Recent content in Logs on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 13 Nov 2022 11:30:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/logs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>常用命令合集</title>
+      <link>//localhost:1313/posts/commands/</link>
+      <pubDate>Sun, 13 Nov 2022 11:30:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/commands/</guid>
+      <description>mangodb的twikoo评论数据上传和下载 下载数据命令 mongoexport --uri mongodb+srv://xxx:xxx@cluster0.z5rsya3.mongodb.net/ --collection comment --type json --out twikoo-comments.json 上传数据命令 mongoimport --uri mongodb+srv://xxx:xxx@cluster0.z5rsya3.mongodb.net/test --collection comment --type json --file twikoo-comments.json --mode upsert 说明： 第一个xxx：数据名称 第二个xxx：密码 test是指mangodb数据库的名称 git</description>
+    </item>
+  </channel>
+</rss>

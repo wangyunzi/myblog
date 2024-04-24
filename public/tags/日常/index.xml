@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日常 on 长街短梦</title>
+    <link>//localhost:1313/tags/%E6%97%A5%E5%B8%B8/</link>
+    <description>Recent content in 日常 on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 13 Dec 2022 17:23:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>这些日子我干了什么</title>
+      <link>//localhost:1313/posts/34/</link>
+      <pubDate>Tue, 13 Dec 2022 17:23:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/34/</guid>
+      <description>就是这样匆匆忙忙的度过一天又一天，偶尔会遇见一些意想不到的美好。 ——题记 计划永远也赶不上变化，本来前几天我还准备好好复习期末考试，但是伴随着前几天杭州突然公布彻底放开，于是杭州各高校开始纷纷恐慌，掀起</description>
+    </item>
+  </channel>
+</rss>

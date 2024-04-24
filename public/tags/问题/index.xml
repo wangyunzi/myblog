@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>问题 on 长街短梦</title>
+    <link>//localhost:1313/tags/%E9%97%AE%E9%A2%98/</link>
+    <description>Recent content in 问题 on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 18 Mar 2024 21:56:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E9%97%AE%E9%A2%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>面试难题</title>
+      <link>//localhost:1313/posts/101/</link>
+      <pubDate>Mon, 18 Mar 2024 21:56:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/101/</guid>
+      <description>面试的时候遇到一个问题我确实不知道，想留下疑惑请各位博友出谋划策。 公司召开股东大会，董事长在念公司重要数据的时候出现了错误，而这个数据又是特别重要的，你作为证券事务专员应该怎么做？</description>
+    </item>
+  </channel>
+</rss>

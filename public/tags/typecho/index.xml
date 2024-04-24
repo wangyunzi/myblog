@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Typecho on 长街短梦</title>
+    <link>//localhost:1313/tags/typecho/</link>
+    <description>Recent content in Typecho on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 22 Jan 2024 14:18:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/typecho/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>近期博客</title>
+      <link>//localhost:1313/posts/93/</link>
+      <pubDate>Mon, 22 Jan 2024 14:18:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/93/</guid>
+      <description>其实我还是蛮专一的，小时候喜欢洋娃娃换装，长大喜欢给博客换主题。 最近有小伙伴发现我这两天主题一直在变化，几秒钟估计就变了，额，无关其他，其实我就是闲的慌，不想开始写论文。我最近换过的几个主题都很好看，</description>
+    </item>
+  </channel>
+</rss>

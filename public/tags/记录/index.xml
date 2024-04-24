@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>记录 on 长街短梦</title>
+    <link>//localhost:1313/tags/%E8%AE%B0%E5%BD%95/</link>
+    <description>Recent content in 记录 on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 19 Mar 2023 18:04:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E8%AE%B0%E5%BD%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新主题</title>
+      <link>//localhost:1313/posts/47/</link>
+      <pubDate>Sun, 19 Mar 2023 18:04:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/47/</guid>
+      <description>我又又又又又换主题啦，这个主题是西瓜撞地球这位仁兄推荐的，当时第一眼就喜欢上了，但是这个主题年久失修，作者最后一次提交依然停留在四年前，当时对于hexo主题的结构又不太熟悉，还不知道怎么改动，中途还小</description>
+    </item>
+    <item>
+      <title>一周三餐记录</title>
+      <link>//localhost:1313/posts/42/</link>
+      <pubDate>Sun, 26 Feb 2023 11:44:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/42/</guid>
+      <description>算作对这篇文章这些日子我都干了什么的填坑吧！记录自己一周的三餐（大部分在食堂），准确来说是两餐，不太爱吃早餐。 2023/02/20 周一 早餐：一个茶叶蛋、一个肉包 晚餐：麻辣烫 2023/02/21 周二 早餐：一个肉包、一个茶叶蛋 午餐：蛋羹和莴</description>
+    </item>
+    <item>
+      <title>先秦文化最后一堂课</title>
+      <link>//localhost:1313/posts/24/</link>
+      <pubDate>Thu, 03 Nov 2022 15:44:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/24/</guid>
+      <description>白马非马 [原文] “白马非马”，可乎？ 曰：可。 曰：何哉？ 曰：马者，所以命形也；白者，所以命色也。命色者非命形也。故曰：“白马非马”。 曰：有白马，不可谓无马也。不可谓无马者，非马也？有白马为有马，白之，非</description>
+    </item>
+  </channel>
+</rss>

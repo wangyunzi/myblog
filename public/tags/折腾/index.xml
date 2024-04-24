@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>折腾 on 长街短梦</title>
+    <link>//localhost:1313/tags/%E6%8A%98%E8%85%BE/</link>
+    <description>Recent content in 折腾 on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 20 Feb 2023 18:58:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E6%8A%98%E8%85%BE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>瞎折腾</title>
+      <link>//localhost:1313/posts/39/</link>
+      <pubDate>Mon, 20 Feb 2023 18:58:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/39/</guid>
+      <description>如诸位所见，我的博客样式换了又换回来了，我喜欢折腾，而且是瞎折腾，但是到最后也没折腾明白。 想换主题的想法是临时起意，开始是西瓜撞地球这位仁兄发给我几个好看的hexo主题，然后莫名心动了，恰巧自己那几天</description>
+    </item>
+    <item>
+      <title>折腾博客的尾声</title>
+      <link>//localhost:1313/posts/10/</link>
+      <pubDate>Mon, 22 Aug 2022 17:43:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/10/</guid>
+      <description>这几天十分纠结要不要买一个服务器给我的域名备案，但是自己并没有使用服务器的需求，其次是一个 服务器的价格真的贵的离谱，而且在阿里云购买服务器甚至需要购买三个月以上的。我起初认为像我这样的小博客，没有几个</description>
+    </item>
+  </channel>
+</rss>

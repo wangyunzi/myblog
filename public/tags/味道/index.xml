@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>味道 on 长街短梦</title>
+    <link>//localhost:1313/tags/%E5%91%B3%E9%81%93/</link>
+    <description>Recent content in 味道 on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 18 Mar 2024 19:57:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E5%91%B3%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>嗅觉</title>
+      <link>//localhost:1313/posts/100/</link>
+      <pubDate>Mon, 18 Mar 2024 19:57:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/100/</guid>
+      <description>昨天和室友偶然聊天才发现了一个有趣的事情，以前我说我晕车是因为每个车上都会有汽油的味道，所以坐车的时候闻到这样的味道就很想吐，室友当时不是很理解我为什么会这样，直到昨天我们聊起来，我说，每一个人身上都</description>
+    </item>
+  </channel>
+</rss>

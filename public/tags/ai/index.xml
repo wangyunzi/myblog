@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on 长街短梦</title>
+    <link>//localhost:1313/tags/ai/</link>
+    <description>Recent content in AI on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 10 Apr 2023 20:37:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用AI为自己的博客取一个名称</title>
+      <link>//localhost:1313/posts/56/</link>
+      <pubDate>Mon, 10 Apr 2023 20:37:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/56/</guid>
+      <description>前言 因为这段时间博客其实小小变动了一些，突然就想起来自己的博客名称和头像都不是自己原创的，当时做博客也是一个偶然的机会，什么都是网上找的，现在想起来既然是属于自己的一片天地，还是尽量全部用自己的东西最</description>
+    </item>
+    <item>
+      <title>浅浅尝试一下Notion Ai</title>
+      <link>//localhost:1313/posts/41/</link>
+      <pubDate>Fri, 24 Feb 2023 12:13:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/41/</guid>
+      <description>什么是Notion AI Notion AI是一款人工智能工具，可以自动识别文本中的关键字并根据关键字自动生成相关的标签，自动识别文本中的日期和时间并在日历中自动创建相应的事件，自动分类文档并将其分配到正确的文件夹中。</description>
+    </item>
+  </channel>
+</rss>

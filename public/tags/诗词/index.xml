@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>诗词 on 长街短梦</title>
+    <link>//localhost:1313/tags/%E8%AF%97%E8%AF%8D/</link>
+    <description>Recent content in 诗词 on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Feb 2023 21:38:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E8%AF%97%E8%AF%8D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>姐姐，我在德令哈</title>
+      <link>//localhost:1313/posts/43/</link>
+      <pubDate>Tue, 28 Feb 2023 21:38:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/43/</guid>
+      <description>偶然想起来高中时期在广播中听到的海子1的一首小诗，当时就被深深吸引，到至今仍然念念不忘，今日得以记录，我是一个不太爱记事的，大概看过就过去了，才懒得去记录这些悲春伤秋。 姐姐，今夜我在德令哈，夜色笼罩 姐</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+baseURL: /
+buildFuture: true
+defaultContentLanguage: zh-cn
+title: 长街短梦
+theme: zozo
+hasCJKLanguage: true
+summaryLength: 100
+paginate: 6
+enableEmoji: true
+googleAnalytics: ""
+pygmentsUseClasses: true
+pygmentCodeFences: true
+pygmentscodefencesguesssyntax: true
+author:
+  name: 王云子
+blackfriday:
+  smartypants: false
+menu:
+  main:
+    - name: 首页
+      weight: 10
+      identifier: home
+      url: /
+    - name: 时间线
+      weight: 20
+      identifier: archive
+      url: /posts
+    # - name: Tags
+    #   weight: 30
+    #   identifier: tags
+    #   url: /tags/
+    - name: 瞬间
+      weight: 30
+      identifier: memos
+      url: /memos
+    - name: 友链
+      weight: 40
+      identifier: friend
+      url: /friend
+    - name: 友圈
+      weight: 50
+      identifier: links
+      url: /links
+    - name: 相册
+      weight: 60
+      identifier: album
+      url: /album
+    - name: 关于
+      weight: 70
+      identifier: about
+      url: /about
+
+params:
+  fancybox: true
+  subTitle: 此行山高路远，我只剩口袋玫瑰一片
+  footerSlogan: My spiritual home
+  keywords:
+    - 生活
+    - 学习
+    - 博客
+  description: 此行山高路远，我只剩口袋玫瑰一片
+  enableMathJax: true
+  enableSummary: true
+  mainSections:
+    - posts
+    - post
+social:
+  github: "https://github.com/wangyunzi/"
+  twitter: "https://twitter.com/YunziWang/"
+  # facebook: " "
+  # weibo: " "
+  # instagram: " "
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    renderHooks:
+      link:
+        enableDefault: true

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>总结 on 长街短梦</title>
+    <link>//localhost:1313/tags/%E6%80%BB%E7%BB%93/</link>
+    <description>Recent content in 总结 on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 28 May 2022 11:49:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hexo博客错误锦集</title>
+      <link>//localhost:1313/posts/5/</link>
+      <pubDate>Sat, 28 May 2022 11:49:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/5/</guid>
+      <description>最近刚把博客搭建成功，自己松了一口气，准备美美的为自己博客送上几篇文章欣赏一番，却不料后面的情况又层出不穷，真就是“一波未平，一波又起”，但咱也算是见过大场面的人了，所以冷静了一下，上网迅速一搜，事情</description>
+    </item>
+  </channel>
+</rss>

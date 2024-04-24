@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>软件 on 长街短梦</title>
+    <link>//localhost:1313/tags/%E8%BD%AF%E4%BB%B6/</link>
+    <description>Recent content in 软件 on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 24 May 2023 10:52:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>千帆历尽，归来仍是word</title>
+      <link>//localhost:1313/posts/71/</link>
+      <pubDate>Wed, 24 May 2023 10:52:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/71/</guid>
+      <description>前面每天折腾了那么多笔记软件，结果现在还是觉得 word 是最好的，配合着 onedrive 同步或备份，在电脑上记笔记毫无压力。但是发现一个小 bug，因为一直开着代理，onedrive 同步其实超级废流量，平时一天一个 G 都用不到</description>
+    </item>
+    <item>
+      <title>手机端上传图片</title>
+      <link>//localhost:1313/posts/46/</link>
+      <pubDate>Thu, 16 Mar 2023 18:38:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/46/</guid>
+      <description>前言碎碎念 昨天心血来潮去折腾那个hexo博客，最后就是倔强的折腾了昨天一天之后彻底心灰意冷，无奈放弃，记住，是无奈、无奈。 最近木木大佬更新了一篇文章Hugo 「近期」短代码（基于 Memos Docker），将me</description>
+    </item>
+    <item>
+      <title>小众且好用的软件</title>
+      <link>//localhost:1313/posts/35/</link>
+      <pubDate>Tue, 13 Dec 2022 22:03:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/35/</guid>
+      <description>我的白日梦 在我很小很小的时候，多么渴望有自己的一个日记本，每天记录自己的生活，后来我买了很多漂亮的笔记本却没能坚持记录。 eDiary3（英文名称）是我偶然冲浪的时候发现的，那时候看到介绍的网页图片就感</description>
+    </item>
+  </channel>
+</rss>

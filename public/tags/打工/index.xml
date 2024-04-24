@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>打工 on 长街短梦</title>
+    <link>//localhost:1313/tags/%E6%89%93%E5%B7%A5/</link>
+    <description>Recent content in 打工 on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 21 Mar 2024 20:25:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E6%89%93%E5%B7%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>打工人一天</title>
+      <link>//localhost:1313/posts/102/</link>
+      <pubDate>Thu, 21 Mar 2024 20:25:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/102/</guid>
+      <description>打工人早上在寝室楼下面拍了一张桃花照片，本来会以为今天也是平平无奇的一天，结果没想到今天就累成了牛马，忙了一天，无论是心理还是身体都很累，到最后竟然忘记带回自己的水杯和手机充电器哈哈哈。 最近睡眠不好，</description>
+    </item>
+  </channel>
+</rss>

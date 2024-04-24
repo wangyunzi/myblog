@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>博客 on 长街短梦</title>
+    <link>//localhost:1313/categories/%E5%8D%9A%E5%AE%A2/</link>
+    <description>Recent content in 博客 on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Apr 2024 16:10:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>docker项目记录</title>
+      <link>//localhost:1313/posts/113/</link>
+      <pubDate>Mon, 15 Apr 2024 16:10:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/113/</guid>
+      <description>2024/4/17 问题再现 执行sudo docker compose up -d命令的时候出现这个报错： WARN[0000] /www/wwwroot/memos.wangyunzi.com/docker-compose.yml: `version` is obsolete 这个是说版本过期，因为最新版本的docker不支持版本这种（其实我也是因为一个报错才知道的，所以compose里面的代码第一样关于ve</description>
+    </item>
+    <item>
+      <title>近期博客</title>
+      <link>//localhost:1313/posts/93/</link>
+      <pubDate>Mon, 22 Jan 2024 14:18:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/93/</guid>
+      <description>其实我还是蛮专一的，小时候喜欢洋娃娃换装，长大喜欢给博客换主题。 最近有小伙伴发现我这两天主题一直在变化，几秒钟估计就变了，额，无关其他，其实我就是闲的慌，不想开始写论文。我最近换过的几个主题都很好看，</description>
+    </item>
+    <item>
+      <title>这是一个bug</title>
+      <link>//localhost:1313/posts/81/</link>
+      <pubDate>Mon, 10 Jul 2023 00:04:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/81/</guid>
+      <description>因为迁移主题的问题，有好多小伙伴反映我使用两个主题，其实我也很茫然不知道怎么回事，很多小伙伴访问首页直接跳转至原先一个主题的首页，甚至前几天我还收到了前面一个主题的文章留言。 首先我很肯定我没有给博客套</description>
+    </item>
+    <item>
+      <title>Hexo和Notion的神级联动</title>
+      <link>//localhost:1313/posts/64/</link>
+      <pubDate>Mon, 17 Apr 2023 14:01:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/64/</guid>
+      <description>完成目标 notion 文章转化为 markdown 格式 在 notion 上写博客 发布 notion 文章到 hexo 项目起源 初代：项目由@Mo Huishou 最初创建使用，但只支持阿里云图床，且不支持文章修改。 目前：由@Doradx 大佬改造后支持多种图床，且支持文章修改 项目教程</description>
+    </item>
+    <item>
+      <title>五分钟拥有一个在线博客</title>
+      <link>//localhost:1313/posts/61/</link>
+      <pubDate>Wed, 12 Apr 2023 13:53:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/61/</guid>
+      <description>写作。拥有。赚取。 xLog 是面向所有人的最棒 链上 开源 博客社区。 话说很早就有看到我的推圈有大佬在推荐这个项目了，但是刚开始一看到区块链这个东西就感觉是陌生的领域，并且登录什么的都是需要拥有钱包账户，就打了退堂</description>
+    </item>
+    <item>
+      <title>PC使用obsidian发布博客</title>
+      <link>//localhost:1313/posts/59/</link>
+      <pubDate>Tue, 11 Apr 2023 11:45:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/59/</guid>
+      <description>这是一篇obsidian发布的博客，会不会与qexo发布博客冲突呢？让我测试一下。 测试了一下，总之在obsidian上写博客之前必须pull一下，要不然会冲突，所以到底应不应该选择这两个作为移动端和电</description>
+    </item>
+    <item>
+      <title>用Qexo写博客</title>
+      <link>//localhost:1313/posts/58/</link>
+      <pubDate>Tue, 11 Apr 2023 11:40:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/58/</guid>
+      <description>这是一篇用qexo发布的文章。 正在测试中。 测试完毕。 Qexo官方文档：https://www.oplog.cn/qexo/ 最让我震惊的是还支持hugo框架博客，真的是一个大惊喜，只不过我现在不用hug</description>
+    </item>
+    <item>
+      <title>用AI为自己的博客取一个名称</title>
+      <link>//localhost:1313/posts/56/</link>
+      <pubDate>Mon, 10 Apr 2023 20:37:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/56/</guid>
+      <description>前言 因为这段时间博客其实小小变动了一些，突然就想起来自己的博客名称和头像都不是自己原创的，当时做博客也是一个偶然的机会，什么都是网上找的，现在想起来既然是属于自己的一片天地，还是尽量全部用自己的东西最</description>
+    </item>
+    <item>
+      <title>hexo博客安装PWA</title>
+      <link>//localhost:1313/posts/54/</link>
+      <pubDate>Thu, 06 Apr 2023 20:15:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/54/</guid>
+      <description>随着移动设备的普及，越来越多的人开始使用移动设备浏览网页。为了提高用户的体验，许多网站都已经实现了PWA（渐进式Web应用程序）功能。 安装hexo-pwa插件 在Hexo博客中，我们可以使用hexo-p</description>
+    </item>
+    <item>
+      <title>新主题</title>
+      <link>//localhost:1313/posts/47/</link>
+      <pubDate>Sun, 19 Mar 2023 18:04:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/47/</guid>
+      <description>我又又又又又换主题啦，这个主题是西瓜撞地球这位仁兄推荐的，当时第一眼就喜欢上了，但是这个主题年久失修，作者最后一次提交依然停留在四年前，当时对于hexo主题的结构又不太熟悉，还不知道怎么改动，中途还小</description>
+    </item>
+    <item>
+      <title>常用命令合集</title>
+      <link>//localhost:1313/posts/commands/</link>
+      <pubDate>Sun, 13 Nov 2022 11:30:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/commands/</guid>
+      <description>mangodb的twikoo评论数据上传和下载 下载数据命令 mongoexport --uri mongodb+srv://xxx:xxx@cluster0.z5rsya3.mongodb.net/ --collection comment --type json --out twikoo-comments.json 上传数据命令 mongoimport --uri mongodb+srv://xxx:xxx@cluster0.z5rsya3.mongodb.net/test --collection comment --type json --file twikoo-comments.json --mode upsert 说明： 第一个xxx：数据名称 第二个xxx：密码 test是指mangodb数据库的名称 git</description>
+    </item>
+    <item>
+      <title>折腾博客的尾声</title>
+      <link>//localhost:1313/posts/10/</link>
+      <pubDate>Mon, 22 Aug 2022 17:43:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/10/</guid>
+      <description>这几天十分纠结要不要买一个服务器给我的域名备案，但是自己并没有使用服务器的需求，其次是一个 服务器的价格真的贵的离谱，而且在阿里云购买服务器甚至需要购买三个月以上的。我起初认为像我这样的小博客，没有几个</description>
+    </item>
+    <item>
+      <title>我的博客搭建历程——hugo</title>
+      <link>//localhost:1313/posts/6/</link>
+      <pubDate>Sat, 28 May 2022 15:44:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/6/</guid>
+      <description>继hexo搭建博客之后，完成hugo搭建博客就相对简单多了，因为hugo博客的搭建环境和hexo博客搭建环境是一样的，而且两个博客的部署都是一样的只需要记住一些简单常用的命令即可。 如果非要我选择一个博</description>
+    </item>
+    <item>
+      <title>hexo博客错误锦集</title>
+      <link>//localhost:1313/posts/5/</link>
+      <pubDate>Sat, 28 May 2022 11:49:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/5/</guid>
+      <description>最近刚把博客搭建成功，自己松了一口气，准备美美的为自己博客送上几篇文章欣赏一番，却不料后面的情况又层出不穷，真就是“一波未平，一波又起”，但咱也算是见过大场面的人了，所以冷静了一下，上网迅速一搜，事情</description>
+    </item>
+    <item>
+      <title>我的博客搭建历程——hexo</title>
+      <link>//localhost:1313/posts/4/</link>
+      <pubDate>Fri, 27 May 2022 15:36:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/4/</guid>
+      <description>hexo搭建博客学习经过只是作为自己的经验总结，并不作为教程使用，主要是将博客搭建在github上。里面包含自己搭建博客的一些踩的坑，虽然不是很全面，但是可以大概了解。 前言 如果大家想要了解hexo，可</description>
+    </item>
+    <item>
+      <title>我的博客搭建历程</title>
+      <link>//localhost:1313/posts/3/</link>
+      <pubDate>Fri, 27 May 2022 14:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/3/</guid>
+      <description>在此之前的几个月，我还是一个对博客搭建一窍不通的小白，已经忘记具体是什么时候开始一步步学会把博客搭建成功的。 最开始的初心其实很简单，只是想要一个可以供自己随心所欲写作或是属于自己的小空间，于是不断地上</description>
+    </item>
+  </channel>
+</rss>

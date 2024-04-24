@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="zh-cn" >
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="王云子" />
+	
+	
+	
+	<title>手机端上传图片 ｜ 长街短梦</title>
+	
+    
+    
+    <meta name="description" content="前言碎碎念 昨天心血来潮去折腾那个hexo博客，最后就是倔强的折腾了昨天一天之后彻底心灰意冷，无奈放弃，记住，是无奈、无奈。 最近木木大佬更新了一篇文章Hugo 「近期」短代码（基于 Memos Docker），将me" />
+    
+
+    
+    
+    <meta name="keywords" content="生活, 学习, 博客" />
+    
+
+	
+    
+    <link rel="shortcut icon" href="//localhost:1313/images/favicon.ico" />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="//localhost:1313/css/normalize.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.0/animate.min.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="//localhost:1313/css/zozo.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="//localhost:1313/css/highlight.css" />
+
+
+    <script src="//localhost:1313/js/jquery-3.5.1.min.js"></script>
+    <script src="//localhost:1313/js/zozo.js"></script>
+    <script src="//localhost:1313/js/view-image.js"></script>
+
+
+    
+    <script type="text/javascript" async
+    src="https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        MathJax.Hub.Config({
+            tex2jax: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\[\[', '\]\]']],
+                processEscapes: true,
+                processEnvironments: true,
+                skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+                TeX: {
+                    equationNumbers: { autoNumber: "AMS" },
+                    extensions: ["AMSmath.js", "AMSsymbols.js"]
+                }
+            }
+        });
+
+        MathJax.Hub.Queue(function () {
+            
+            
+            
+            var all = MathJax.Hub.getAllJax(), i;
+            for (i = 0; i < all.length; i += 1) {
+                all[i].SourceElement().parentNode.className += ' has-jax';
+            }
+        });
+    </script>
+
+<style>
+    code.has-jax {
+        font: inherit;
+        font-size: 100%;
+        background: inherit;
+        border: inherit;
+        color: #515151;
+    }
+</style>
+    
+    
+    
+</head>
+
+<body>
+    <div class="main animate__animated animate__fadeInDown">
+        <div class="nav_container animated fadeInDown">
+    <div class="site_nav" id="site_nav">
+        <ul>
+            
+            <li>
+                <a href="/">首页</a>
+            </li>
+            
+            <li>
+                <a href="/posts">时间线</a>
+            </li>
+            
+            <li>
+                <a href="/memos">瞬间</a>
+            </li>
+            
+            <li>
+                <a href="/friend">友链</a>
+            </li>
+            
+            <li>
+                <a href="/links">友圈</a>
+            </li>
+            
+            <li>
+                <a href="/album">相册</a>
+            </li>
+            
+            <li>
+                <a href="/about">关于</a>
+            </li>
+            
+        </ul>
+    </div>
+    <div class="menu_icon">
+        <a id="menu_icon"><i class="ri-menu-line"></i></a>
+    </div>
+</div>
+        <div class="header animated fadeInDown">
+    <div class="site_title_container">
+        <div class="site_title">
+            <h1>
+                <a href="//localhost:1313/">
+                    <span>长街短梦</span>
+                </a>
+            </h1>
+        </div>
+        <div class="description">
+            <p class="sub_title">此行山高路远，我只剩口袋玫瑰一片</p>
+            <div class="my_socials">
+                
+                
+                <a href="https://github.com/wangyunzi/" title="github" target="_blank"><i class="ri-github-fill"></i></a>
+                
+                
+                
+                <a href="https://twitter.com/YunziWang/" title="twitter" target="_blank"><i class="ri-twitter-fill"></i></a>
+                
+                
+                <a href="//localhost:1313/index.xml" type="application/rss+xml" title="rss" target="_blank"><i
+                        class="ri-rss-fill"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+        <div class="content">
+            <div class="post_page">
+                <div class="post animate__animated animate__fadeInDown">
+                    <div class="post_title post_detail_title">
+                        <h2><a href='/posts/46/'>手机端上传图片</a></h2>
+                        <span class="date">2023.03.16</span>
+                    </div>
+                    <div class="post_content markdown"><h4 id="前言碎碎念">前言碎碎念</h4>
+<p>昨天心血来潮去折腾那个hexo博客，最后就是倔强的折腾了昨天一天之后彻底心灰意冷，无奈放弃，记住，是无奈、无奈。</p>
+<p>最近木木大佬更新了一篇文章<a href="https://immmmm.com/hugo-shortcodes-recently-by-memos/">Hugo 「近期」短代码（基于 Memos Docker）</a>，将memos和相册页面完美结合，解决了平时在上传图片到相册的麻烦之处，烦请<a href="https://immmmm.com/">木木木木木</a>大佬收下的我的膝盖，说实话，每次点开他的文章都感觉我像是去“进货”的，收获颇丰。与我而言，我的博客不能没有相册页面，算是我刚开始搭建博客的一个执念。我弟最近迷上了拍照，无时无刻不再拿着一个手机到处拍（当然这也可能是他谈了恋爱的缘故😅）。拍照是记录当时最真实、最直观的一个方式，想法可能得不到及时记录，但是拍照却能。刚开始我的相册页面搭建的时候我还能每天打开我的电脑，然后将手机里面的图片一张张上传到电脑上，最后上传到图床，最后在将链接一个个复制黏贴在网页上，这个过程无比麻烦（至少在线看来是这样的），那时候我就在想有没有一个APP可以直接上传手机上的图片到图床，但是即使直接上传图片还是要把链接复制到电脑网页端，想着就算了。</p>
+<p>如今，<a href="https://immmmm.com/">木木木木木</a>大佬的方案直接实现自动化，具体操作步骤如下：</p>
+<ul>
+<li>使用手机端APP将图片全部上传。一般的APP上传后都会自动复制所有图片的Markdown格式。</li>
+<li>打开手机端memos或是网页端memos直接粘贴所有Markdown格式，记录下就可以了</li>
+<li>最后你就可以看到你的相册页面发布了新的照片。🎉🎉可以移步我的相册页面预览。
+<img src="https://blog.wangyunzi.com/2023/03/6b4462575c43318fa3de9655f1df4b00.png" alt=""></li>
+</ul>
+<p>好的还是接入正题吧，接下来推荐几款手机端APP。</p>
+<h4 id="app图片上传">APP（图片上传）</h4>
+<h5 id="咕咚云图">咕咚云图</h5>
+<ul>
+<li>推荐指数：🌟🌟🌟🌟</li>
+<li>作者博客：https://gudong.site/</li>
+<li>推荐原因：作者我看到开发了好几个软件，都能让我眼前一亮，真的好久都没有体验到如此简洁的国产APP了，每次打开那些软件就是广告，就是各种五颜六色的功能，真的让人感到审美疲劳，以及“万恶”的手机摇动进入广告，以至于每次走路的时候打开一个APP莫名其妙就进入另外一个广告端。该软件支持众多大牌图床，但不支持多吉云，于是我就从新了开了一个七牛云的账号，专门作为新的相册图床，设置都很简单，而且能够数据同步坚果云，好家伙，我昨天才知道坚果云原来如此好用。软件有买断会员和一年会员，但都不贵。使用几次发现还是有点小卡顿。</li>
+</ul>
+<h5 id="pichoro">PicHoro</h5>
+<ul>
+<li>推荐指数：🌟🌟🌟🌟🌟</li>
+<li>作者博客：https://www.horosama.com/</li>
+<li>文档地址：https://pichoro.horosama.com/#/PicHoroDocs/PicHoro</li>
+<li>推荐原因：这个软件是和电脑端的PicGo完全对标的，能把PicGo的配置同步至手机端，如果你在电脑上使用PicGo，这个软件将是您的最佳选择，同样支持多个图床，体验下来没什么问题，完全免费。</li>
+</ul>
+<h5 id="小白图床">小白图床</h5>
+<ul>
+<li>推荐原因：功能齐全</li>
+<li>推荐指数：🌟🌟🌟🌟🌟</li>
+<li>推荐原因：小白图床相较于前面两款软件我认为它的UI要精致一些，对于功能的划分也要更加明确和清晰，但致命的是这个软件的永久会员需要谷歌支付，刚好我又在前不久注销了我的几张虚拟信用卡，导致我现在买不了永久会员，但是请不要担心，基础功能对于每一个人来说都够用了。</li>
+</ul>
+<h4 id="其他">其他</h4>
+<h5 id="咕咚订阅">咕咚订阅</h5>
+<ul>
+<li>推荐原因：简洁、美观、免费</li>
+<li>推荐指数：🌟🌟🌟</li>
+</ul>
+<h5 id="inbox笔记">inBox笔记</h5>
+<ul>
+<li>推荐原因：配置云端备份和图床、便捷、美观</li>
+<li>推荐指数：🌟🌟🌟🌟</li>
+</ul>
+<p>作者说是根据flomo制作的，体验感确实和flomo以及最近大火的memos相似。
+<img src="https://blog.wangyunzi.com/2023/03/ddafdb44afccdbd3f271096efb0dd28d.png" alt="inbox"></p>
+</div>
+                    <div class="post_footer">
+                        
+                        <div class="meta">
+                            <div class="info">
+                                <span class="field tags">
+                                    <i class="ri-stack-line"></i>
+                                    
+                                    <a href="//localhost:1313/tags/%E8%BD%AF%E4%BB%B6/">软件</a>
+                                    
+                                    <a href="//localhost:1313/tags/%E5%9B%BE%E5%BA%8A/">图床</a>
+                                    
+                                </span>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div id="disqus_thread"></div>
+                <script>
+                    
+
+                    
+
+                    (function() { 
+                    var d = document, s = d.createElement('script');
+                    s.src = 'https://wang-yun-zi.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                    })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            </div>
+        </div>
+    </div>
+    <a id="back_to_top" href="#" class="back_to_top"><i class="ri-arrow-up-s-line"></i></a>
+    <footer class="footer">
+    <br />
+    <br />
+    <a href="https://www.foreverblog.cn/go.html" target="_blank"> <img src="https://img.foreverblog.cn/wormhole_4_tp.gif" alt="" style="width:auto;height:32px;" title="穿梭虫洞-随机访问十年之约友链博客"></a>
+    <a href="https://www.travellings.cn/go.html" target="_blank" rel="noopener" title="开往-友链接力"><img src="https://www.travellings.cn/assets/logo.gif" alt="开往-友链接力" width="120"></a>
+    <br />
+    <br />
+    Powered by <a href="https://gohugo.io/"><b>Hugo</b></a> with
+    <a href="https://github.com/mrmierzejewski/hugo-theme-console/"><b>Console Theme</b></a>. 
+
+
+
+<br />
+<br />
+ 
+    <span id="timeDate">载入天数...</span><span id="times">载入时分秒...</span>
+    <script>
+        var now = new Date(); 
+        function createtime() { 
+            var grt= new Date("05/10/2022 17:38:00");
+            now.setTime(now.getTime()+250); 
+            days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days); 
+            hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours); 
+            if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum); 
+            mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;} 
+            seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum); 
+            snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;} 
+            document.getElementById("timeDate").innerHTML = "小破站在风雨中飘摇了"+dnum+" 天 "; 
+            document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒"; 
+        } 
+    setInterval("createtime()",250);
+    </script>
+
+<script>
+    window.ViewImage && ViewImage.init('.content img');
+</script>
+
+    <div class="footer_slogan">
+        <span>My spiritual home</span>
+    </div>
+</footer>
+</body>
+
+</html>

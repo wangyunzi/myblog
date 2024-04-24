@@ -1,0 +1,42 @@
+<footer class="footer">
+    <br />
+    <br />
+    <a href="https://www.foreverblog.cn/go.html" target="_blank"> <img src="https://img.foreverblog.cn/wormhole_4_tp.gif" alt="" style="width:auto;height:32px;" title="穿梭虫洞-随机访问十年之约友链博客"></a>
+    <a href="https://www.travellings.cn/go.html" target="_blank" rel="noopener" title="开往-友链接力"><img src="https://www.travellings.cn/assets/logo.gif" alt="开往-友链接力" width="120"></a>
+    <br />
+    <br />
+    Powered by <a href="https://gohugo.io/"><b>Hugo</b></a> with
+    <a href="https://github.com/mrmierzejewski/hugo-theme-console/"><b>Console Theme</b></a>. 
+<!-- 建站时间2022/10/5 -->
+<!-- 备案号：浙ICP备2022025879号-1 -->
+<!-- <a href="https://beian.miit.gov.cn/" target="_blank"><img src="https://img.shields.io/badge/%E6%B5%99ICP%E5%A4%87-2022025879%E5%8F%B7-lightblue"></a>
+<a href="https://s.qiniu.com/6VZn6f" target="_blank"><img src="https://img.shields.io/badge/%E4%BA%91%E5%82%A8%E5%AD%98-%E4%B8%83%E7%89%9B%E4%BA%91-yellowgreen"></a> -->
+<br />
+<br />
+<!-- #### 建站时间 --> 
+    <span id="timeDate">载入天数...</span><span id="times">载入时分秒...</span>
+    <script>
+        var now = new Date(); 
+        function createtime() { 
+            var grt= new Date("05/10/2022 17:38:00");//在此处修改你的建站时间
+            now.setTime(now.getTime()+250); 
+            days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days); 
+            hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours); 
+            if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum); 
+            mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;} 
+            seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum); 
+            snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;} 
+            document.getElementById("timeDate").innerHTML = "小破站在风雨中飘摇了"+dnum+" 天 "; 
+            document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒"; 
+        } 
+    setInterval("createtime()",250);
+    </script>
+
+<script>
+    window.ViewImage && ViewImage.init('.content img');
+</script>
+
+    <div class="footer_slogan">
+        <span>{{ .Site.Params.footerSlogan }}</span>
+    </div>
+</footer>

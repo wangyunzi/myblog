@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>摘抄 on 长街短梦</title>
+    <link>//localhost:1313/tags/%E6%91%98%E6%8A%84/</link>
+    <description>Recent content in 摘抄 on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Jan 2024 20:45:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E6%91%98%E6%8A%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>袁立文学</title>
+      <link>//localhost:1313/posts/91/</link>
+      <pubDate>Mon, 15 Jan 2024 20:45:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/91/</guid>
+      <description>To 李冰冰： 你是中国娱乐圈的一个时代的夜莺，不要以为在夸你。 当另外一块冰在烈日下沉没，她却依然挺立。 这么多年，狂风暴雨巨浪之中，她依然展翅暴风上空，我不知道她什么感受。 你没有结婚也没有子女，要留给妹妹的</description>
+    </item>
+    <item>
+      <title>记忆七宗罪</title>
+      <link>//localhost:1313/posts/40/</link>
+      <pubDate>Mon, 20 Feb 2023 22:49:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/40/</guid>
+      <description>记忆七罪（The seven sins of memory) 记忆七罪分为：健忘、失神、空白、错认、暗示、偏颇及纠缠 健忘(Transience)：随着时间而记忆褪色或消失。 失神(Absent-mindedness)：心不在焉，忘东忘西。 空</description>
+    </item>
+  </channel>
+</rss>

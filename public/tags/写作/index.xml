@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>写作 on 长街短梦</title>
+    <link>//localhost:1313/tags/%E5%86%99%E4%BD%9C/</link>
+    <description>Recent content in 写作 on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 10 May 2022 22:27:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E5%86%99%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>//localhost:1313/posts/1/</link>
+      <pubDate>Tue, 10 May 2022 22:27:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/1/</guid>
+      <description>从小时候读书记事起，我似乎就对写作和画画有着别样的情愫，十分羡慕那些能够随手一涂，艳丽的风景就能尽收纸上；随手一挥，笔下的文字就开始翩翩起舞，他们似乎总是有着自己的想法，能够时时刻刻都将自己的想法或是</description>
+    </item>
+  </channel>
+</rss>

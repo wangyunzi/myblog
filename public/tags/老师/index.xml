@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>老师 on 长街短梦</title>
+    <link>//localhost:1313/tags/%E8%80%81%E5%B8%88/</link>
+    <description>Recent content in 老师 on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 13 Sep 2022 14:11:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E8%80%81%E5%B8%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>蛋黄酥</title>
+      <link>//localhost:1313/posts/15/</link>
+      <pubDate>Tue, 13 Sep 2022 14:11:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/15/</guid>
+      <description>休闲愉快的中秋假期飞快过去，迎来今天忙忙碌碌的一天。早上还在课堂上昏昏欲睡的时候，上一个学期毛概课堂的老师突然发消息询问我是否有空，中午可以一起吃饭。刚开始我感到十分惊讶，自从上大学以来，每个课程的老</description>
+    </item>
+  </channel>
+</rss>

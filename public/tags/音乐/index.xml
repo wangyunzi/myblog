@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>音乐 on 长街短梦</title>
+    <link>//localhost:1313/tags/%E9%9F%B3%E4%B9%90/</link>
+    <description>Recent content in 音乐 on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 03 Apr 2024 21:59:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E9%9F%B3%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>分享音乐-青春的颜色</title>
+      <link>//localhost:1313/posts/108/</link>
+      <pubDate>Wed, 03 Apr 2024 21:59:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/108/</guid>
+      <description>作词 : 曾子岚 作曲 : 曾子岚 花儿流着泪 会枯萎 虽然美 时光飞逝悄然抹去了香味 我们不再追 追着谁 拖着谁 只是年少轻狂留下的疲惫 风儿伴着月 冷的夜 白的雪 饮着曾经沧海岁月酿的醉 你的那个谁 我的谁 靠着谁 如今天涯海角成了谁的谁</description>
+    </item>
+    <item>
+      <title>敕勒歌</title>
+      <link>//localhost:1313/posts/104/</link>
+      <pubDate>Tue, 26 Mar 2024 17:24:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/104/</guid>
+      <description>心随天地走 意被牛羊牵 大漠的孤烟 拥抱落日圆 在天的尽头 与月亮聊天 篝火映着脸 醉了套马杆 心随天地走 寻找那达 情缘你在哪 姑娘问着天 在天的尽头 与月亮把盏 篝火映着脸 走马敕勒川 敕勒川 阴山下 天似穹庐 笼盖四野 天苍苍 野茫茫 风</description>
+    </item>
+    <item>
+      <title>歌手</title>
+      <link>//localhost:1313/posts/98/</link>
+      <pubDate>Tue, 12 Mar 2024 13:27:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/98/</guid>
+      <description>中学时候天天晚上都在期待着《我是歌手》播出，好像每个周末的夜晚都是属于我的一场听觉盛宴，那时候认识了才华歌手李健、深情唱将A-lin，还有那个青涩可爱的徐佳莹唱着《失落沙洲》，从第一季到第三季，每个周</description>
+    </item>
+    <item>
+      <title>《心愿》— 四个女生</title>
+      <link>//localhost:1313/posts/78/</link>
+      <pubDate>Thu, 29 Jun 2023 21:36:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/78/</guid>
+      <description>&gt; 湖水是你的眼神 &gt; 梦想满天星辰 &gt; 心情是一个传说 &gt; 亘古不变地等候 &gt; 成长是一扇树叶的门 &gt; 童年有一群亲爱的人 &gt; 春天是一段路程 &gt; 沧海桑田的拥有 &gt; 那些我爱的人 &gt; 那些离逝的风 &gt; 那些永远的誓言一遍一遍 &gt; 那些爱我的人</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 长街短梦</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 21 Apr 2024 15:06:19 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我被挂在网上了？</title>
+      <link>//localhost:1313/posts/117/</link>
+      <pubDate>Sun, 21 Apr 2024 15:06:19 +0000</pubDate>
+      <guid>//localhost:1313/posts/117/</guid>
+      <description>我被挂网上了？ 周末刚打开电脑就收到一封邮件，大概内容就是他们在通缉一个人，但是这个人的个人网站上将我我的域名列为了他的朋友板块，他们认为这个人应该认识我，所以希望我提供该人的个人信息。首先看到这种全英</description>
+    </item>
+    <item>
+      <title>感谢Jdeal赠送的核酸检测U盘</title>
+      <link>//localhost:1313/posts/116/</link>
+      <pubDate>Sat, 20 Apr 2024 13:03:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/116/</guid>
+      <description>事件的起因在于我20多天前在jdeal大佬的废物重生之核酸检测试剂盒这篇文章留言，当时还只是感叹于大佬的惊奇操作，昨天依旧平常一样打开最新文章留言，没想到一下子就回复我是2000个评论，哈哈哈，真是小</description>
+    </item>
+    <item>
+      <title>我是如何重启obsidian工作流程的？</title>
+      <link>//localhost:1313/posts/115/</link>
+      <pubDate>Fri, 19 Apr 2024 23:45:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/115/</guid>
+      <description>前几天偶然间打开了我的obsidian临时保存文件，突然发现一个主题（也可以是插件）LifeOs，在一篇文章评论区了解到这个插件可以做到同步memos到obsidian本地，一下就心动不已，在阅读了作</description>
+    </item>
+    <item>
+      <title>我们一起开始RSS的生活吧！</title>
+      <link>//localhost:1313/posts/114/</link>
+      <pubDate>Tue, 16 Apr 2024 21:17:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/114/</guid>
+      <description>由上篇文可知，我搭建了一个Freshrss，为了将这个服务的利用率达到最大，所以我准备将其与Typecho等结合，但结果非如我所愿，走向了一个不一样的方向。如图所示，推荐NetNewsWire: RSS Re</description>
+    </item>
+    <item>
+      <title>docker项目记录</title>
+      <link>//localhost:1313/posts/113/</link>
+      <pubDate>Mon, 15 Apr 2024 16:10:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/113/</guid>
+      <description>2024/4/17 问题再现 执行sudo docker compose up -d命令的时候出现这个报错： WARN[0000] /www/wwwroot/memos.wangyunzi.com/docker-compose.yml: `version` is obsolete 这个是说版本过期，因为最新版本的docker不支持版本这种（其实我也是因为一个报错才知道的，所以compose里面的代码第一样关于ve</description>
+    </item>
+    <item>
+      <title>落花</title>
+      <link>//localhost:1313/posts/112/</link>
+      <pubDate>Sat, 13 Apr 2024 11:50:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/112/</guid>
+      <description>胭脂泪 黯然留人醉 独上西楼 人影消瘦 心憔悴 问良人 为何不倦归 终日苦盼 泪却空垂 梦里笑 醒来却是悲 无言以对 痴情却换得一身负累 问一江春水 却剪不断伤悲 流不尽爱恨离愁的是非 如这般滋味 在往事中挥泪 相思都早已成堆 ———— 摘</description>
+    </item>
+    <item>
+      <title>Digital Paper</title>
+      <link>//localhost:1313/posts/111/</link>
+      <pubDate>Mon, 08 Apr 2024 21:28:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/111/</guid>
+      <description>在二手市场观察了几天终于入手了一款10寸以上的墨水屏，购入之前十分纠结，纠结的原因在于会不会像kindle放在角落里吃灰，所以犹豫了很久，而且需要一款能够满足自己日常看pdf文件且能够涂鸦画画写写不卡</description>
+    </item>
+    <item>
+      <title>【Me Before You】</title>
+      <link>//localhost:1313/posts/110/</link>
+      <pubDate>Sun, 07 Apr 2024 22:38:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/110/</guid>
+      <description>看之前就已经知道结局——The Best Ending，认真的讲这部电影构思很巧妙，很多的场景都很唯美，一眼心动，配上恰到好处的背景音乐，一场温馨的邂逅就此开始。</description>
+    </item>
+    <item>
+      <title>诈骗无处不在</title>
+      <link>//localhost:1313/posts/109/</link>
+      <pubDate>Sat, 06 Apr 2024 23:41:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/109/</guid>
+      <description>最近好久没登录zlibrary网站下载书了，以前习惯性谷歌搜索出来第一个就是官网，结果前不久直接点击Google搜索第一个网站（以为是官方网站）进去之后才发现所有的下载都需要钱才可以，那时候还以为是z</description>
+    </item>
+    <item>
+      <title>分享音乐-青春的颜色</title>
+      <link>//localhost:1313/posts/108/</link>
+      <pubDate>Wed, 03 Apr 2024 21:59:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/108/</guid>
+      <description>作词 : 曾子岚 作曲 : 曾子岚 花儿流着泪 会枯萎 虽然美 时光飞逝悄然抹去了香味 我们不再追 追着谁 拖着谁 只是年少轻狂留下的疲惫 风儿伴着月 冷的夜 白的雪 饮着曾经沧海岁月酿的醉 你的那个谁 我的谁 靠着谁 如今天涯海角成了谁的谁</description>
+    </item>
+    <item>
+      <title>找工作</title>
+      <link>//localhost:1313/posts/107/</link>
+      <pubDate>Wed, 03 Apr 2024 10:36:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/107/</guid>
+      <description>最近找工作都有点疲乏了，找到一个适合自己且专业对口的工作实在是不容易，希望双休、希望公司福利好、希望有利于自己未来的职业发展、希望对方公司在长三角地区，需要考虑的因素多之又多，但最后还是担心的对方公司</description>
+    </item>
+    <item>
+      <title>周五傍晚</title>
+      <link>//localhost:1313/posts/106/</link>
+      <pubDate>Fri, 29 Mar 2024 21:37:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/106/</guid>
+      <description>在这个放慢节奏的周五傍晚，静静地听着音乐，旁边是洗干晾晒带着阳光气息的衣服，静静感受夏天的到来，宿舍楼下的小花园开满桃花，还有铺满不知名的紫色小花，在风中摇曳，好不惬意。</description>
+    </item>
+    <item>
+      <title>年少不再，青春逝去</title>
+      <link>//localhost:1313/posts/105/</link>
+      <pubDate>Thu, 28 Mar 2024 21:02:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/105/</guid>
+      <description>杭州近来的天气十分喜怒无常，上班的时候天空昏沉沉，下班之后就是一轮火红的太阳挂在西边。地铁站口的斑马线上看到一个老奶奶，一下就吸引我的眼光，白色带着金色的短发，一双大红色的小皮鞋，通身透露着优雅和宁静</description>
+    </item>
+    <item>
+      <title>敕勒歌</title>
+      <link>//localhost:1313/posts/104/</link>
+      <pubDate>Tue, 26 Mar 2024 17:24:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/104/</guid>
+      <description>心随天地走 意被牛羊牵 大漠的孤烟 拥抱落日圆 在天的尽头 与月亮聊天 篝火映着脸 醉了套马杆 心随天地走 寻找那达 情缘你在哪 姑娘问着天 在天的尽头 与月亮把盏 篝火映着脸 走马敕勒川 敕勒川 阴山下 天似穹庐 笼盖四野 天苍苍 野茫茫 风</description>
+    </item>
+    <item>
+      <title>谁翻了我的垃圾桶？</title>
+      <link>//localhost:1313/posts/103/</link>
+      <pubDate>Fri, 22 Mar 2024 20:20:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/103/</guid>
+      <description>今天下班回到宿舍就发现自己的垃圾桶被翻了一地，心理慌了一下，想着不会是进贼了吧，但是仔细观察一番却发现只有垃圾桶被翻过，其他都是好好的，于是心里升起一丝疑惑，主要是我们宿舍的安保十分不错，接着就看到连</description>
+    </item>
+    <item>
+      <title>打工人一天</title>
+      <link>//localhost:1313/posts/102/</link>
+      <pubDate>Thu, 21 Mar 2024 20:25:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/102/</guid>
+      <description>打工人早上在寝室楼下面拍了一张桃花照片，本来会以为今天也是平平无奇的一天，结果没想到今天就累成了牛马，忙了一天，无论是心理还是身体都很累，到最后竟然忘记带回自己的水杯和手机充电器哈哈哈。 最近睡眠不好，</description>
+    </item>
+    <item>
+      <title>面试难题</title>
+      <link>//localhost:1313/posts/101/</link>
+      <pubDate>Mon, 18 Mar 2024 21:56:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/101/</guid>
+      <description>面试的时候遇到一个问题我确实不知道，想留下疑惑请各位博友出谋划策。 公司召开股东大会，董事长在念公司重要数据的时候出现了错误，而这个数据又是特别重要的，你作为证券事务专员应该怎么做？</description>
+    </item>
+    <item>
+      <title>嗅觉</title>
+      <link>//localhost:1313/posts/100/</link>
+      <pubDate>Mon, 18 Mar 2024 19:57:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/100/</guid>
+      <description>昨天和室友偶然聊天才发现了一个有趣的事情，以前我说我晕车是因为每个车上都会有汽油的味道，所以坐车的时候闻到这样的味道就很想吐，室友当时不是很理解我为什么会这样，直到昨天我们聊起来，我说，每一个人身上都</description>
+    </item>
+    <item>
+      <title>沟通</title>
+      <link>//localhost:1313/posts/99/</link>
+      <pubDate>Wed, 13 Mar 2024 21:35:34 +0000</pubDate>
+      <guid>//localhost:1313/posts/99/</guid>
+      <description>人与人之间切记不可深入交流，语言虽然称之为沟通桥梁，但人的偏见却是横在语言面前的一座大山，一句话在没有说出来就已经被对方加工过千万遍，最后彼此不愿退步，双双落幕。</description>
+    </item>
+    <item>
+      <title>歌手</title>
+      <link>//localhost:1313/posts/98/</link>
+      <pubDate>Tue, 12 Mar 2024 13:27:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/98/</guid>
+      <description>中学时候天天晚上都在期待着《我是歌手》播出，好像每个周末的夜晚都是属于我的一场听觉盛宴，那时候认识了才华歌手李健、深情唱将A-lin，还有那个青涩可爱的徐佳莹唱着《失落沙洲》，从第一季到第三季，每个周</description>
+    </item>
+    <item>
+      <title>妇女节：卓然而立，自在如风</title>
+      <link>//localhost:1313/posts/97/</link>
+      <pubDate>Fri, 08 Mar 2024 22:51:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/97/</guid>
+      <description>妇女节放半天假，想着太子湾的郁金香应该盛开，于是顺道跑去西湖看郁金香，但是路上看小红书才发现只有一部分郁金香开花，有点小遗憾。 因为是工作日，西湖的人不算多，路上都是一些大爷大妈，尤其是穿着鲜艳服装的大</description>
+    </item>
+    <item>
+      <title>詞不達意</title>
+      <link>//localhost:1313/posts/96/</link>
+      <pubDate>Wed, 24 Jan 2024 11:43:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/96/</guid>
+      <description>词不达意 作词：小寒 作曲：Peter Svensson 编曲：刘志远 有些人用一辈子去学习 化解沟通的难题 为你我也可以 我的快乐与恐惧猜疑 很想都翻译成言语 带你进我心底 我们就像隔着一层玻璃 看得见却触不及 虽然我离你几毫米 你不会知道</description>
+    </item>
+    <item>
+      <title>感冒;溃疡;糟糕</title>
+      <link>//localhost:1313/posts/95/</link>
+      <pubDate>Tue, 23 Jan 2024 10:25:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/95/</guid>
+      <description>天气太冷了，每天早上起来的喉咙痛的要死，曾经的溃疡又找上门。</description>
+    </item>
+    <item>
+      <title>近期博客</title>
+      <link>//localhost:1313/posts/93/</link>
+      <pubDate>Mon, 22 Jan 2024 14:18:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/93/</guid>
+      <description>其实我还是蛮专一的，小时候喜欢洋娃娃换装，长大喜欢给博客换主题。 最近有小伙伴发现我这两天主题一直在变化，几秒钟估计就变了，额，无关其他，其实我就是闲的慌，不想开始写论文。我最近换过的几个主题都很好看，</description>
+    </item>
+    <item>
+      <title>苹果危机</title>
+      <link>//localhost:1313/posts/92/</link>
+      <pubDate>Thu, 18 Jan 2024 10:08:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/92/</guid>
+      <description>今日天气阴，小雨。 寒假在家的习惯就是醒来打开B站，看到大耳朵TV的的最新视频“目前苹果的三大危机”，确实，最近刷到的一些手机测评整体对苹果呈现一种唱衰趋势，前段时间因为服役了接近4年的vivo x30p</description>
+    </item>
+    <item>
+      <title>袁立文学</title>
+      <link>//localhost:1313/posts/91/</link>
+      <pubDate>Mon, 15 Jan 2024 20:45:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/91/</guid>
+      <description>To 李冰冰： 你是中国娱乐圈的一个时代的夜莺，不要以为在夸你。 当另外一块冰在烈日下沉没，她却依然挺立。 这么多年，狂风暴雨巨浪之中，她依然展翅暴风上空，我不知道她什么感受。 你没有结婚也没有子女，要留给妹妹的</description>
+    </item>
+    <item>
+      <title>寒假第一天</title>
+      <link>//localhost:1313/posts/90/</link>
+      <pubDate>Sun, 14 Jan 2024 20:35:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/90/</guid>
+      <description>晒太阳，感受暖洋洋的阳光，久违的平静。 碰见一老大爷，走路缓慢，他也在晒太阳。 还碰见一对双胞胎姐妹，两个人可爱的嬉笑。 天空真的很蓝，喜欢蓝色不仅是一种心情，更是一种生活。</description>
+    </item>
+    <item>
+      <title>和解</title>
+      <link>//localhost:1313/posts/94/</link>
+      <pubDate>Sat, 13 Jan 2024 15:42:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/94/</guid>
+      <description>我永远也不会和像我爸这样一有点小事情就对你发火十分暴躁不堪的人和解，永远讨厌这样的人，一件小事情可以把你骂得狗血淋头，好像全是你的错一样，先把你骂一顿，然后在像你嬉皮笑脸的混过去，当我开始有意识到小时</description>
+    </item>
+    <item>
+      <title>梦二</title>
+      <link>//localhost:1313/posts/89/</link>
+      <pubDate>Sun, 26 Nov 2023 09:54:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/89/</guid>
+      <description>第二天我又做梦了，我终于找到了语文老师。 我看见语文老师看见我很惊喜，看见他们好像在那边吃饭，老师笑着叫着我的名字让我过去，可是我却摆摆手说不了，因为我觉得很惭愧。 后来有梦到初中语文老师，我问他我想从大</description>
+    </item>
+    <item>
+      <title>梦一</title>
+      <link>//localhost:1313/posts/88/</link>
+      <pubDate>Fri, 24 Nov 2023 13:43:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/88/</guid>
+      <description>今早做了一个梦。 我梦见我从大学转回小学读书，回到曾经的小学。心里还担心曾经的老师认不出我，然后就看见数学老师一眼叫出我的名字，抬头看却好像不是。碰到小学门口小卖部家的女儿，她带我去到六年级，我说我是转</description>
+    </item>
+    <item>
+      <title>西湖游记</title>
+      <link>//localhost:1313/posts/87/</link>
+      <pubDate>Mon, 23 Oct 2023 10:34:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/87/</guid>
+      <description>周六突发奇想去逛西湖，乘坐一个小时地铁即到目的地，虽然大一大二的时候经常在西湖边上做志愿活动，那时候几个同学总是在做完志愿的暮色黄昏下共游西湖，但西湖之大，以至于每次都是围着湖面周围一圈环游，还没去过</description>
+    </item>
+    <item>
+      <title>求职日记</title>
+      <link>//localhost:1313/posts/86/</link>
+      <pubDate>Tue, 17 Oct 2023 20:47:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/86/</guid>
+      <description>2023/10/13 开始狂投简历的第三天，一个hr联系我，但是听到我还是在校生且不能立马工作就直接不回消息。 接到一个可以在杭州实习的机会，hr表示希望我长期做下去转正，但是还在犹豫，待遇一般，但是因为可以包住所以很心动</description>
+    </item>
+    <item>
+      <title>随记（一）</title>
+      <link>//localhost:1313/posts/85/</link>
+      <pubDate>Sat, 07 Oct 2023 17:53:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/85/</guid>
+      <description>“这么多年来，我一直在学习一件事情，就是不回头，只为自己没有做过的事情后悔，不为自己做过的事情后悔。人生每一步行来，都是需要付出代价的。我得到了我想要的一切，失去了我不想失去的一些。可这世上的芸芸众生</description>
+    </item>
+    <item>
+      <title>二三趣事（一）</title>
+      <link>//localhost:1313/posts/84/</link>
+      <pubDate>Fri, 08 Sep 2023 23:44:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/84/</guid>
+      <description>话说最近又是一年一度的迎新季，适逢亚运会风风火火在杭州开展，学校也开始折腾了起来，原来每至秋天萧条不堪的宿舍楼下也开始热闹了起来，全部店面焕然一新。像我们这样的老学长和学姐看了频频摇头，过去三年错过了</description>
+    </item>
+    <item>
+      <title>我的朋友圈</title>
+      <link>//localhost:1313/posts/83/</link>
+      <pubDate>Thu, 17 Aug 2023 02:53:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/83/</guid>
+      <description>新朋友圈问世。 啦啦啦~~~ 指路：王云子的朋友圈</description>
+    </item>
+    <item>
+      <title>当晦散尽，终星河长明</title>
+      <link>//localhost:1313/posts/82/</link>
+      <pubDate>Tue, 01 Aug 2023 01:58:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/82/</guid>
+      <description>最近的剧一个没看，但是热闹是一个没落下。凭借刷视频看完所有孟宴臣的剪辑，果然，人得不到的才会恋恋不忘。孟宴臣1，一部电视剧的特别出演，但是却从主角团杀出来。起初我并不喜欢这类的电视剧，不记得好久没有喜</description>
+    </item>
+    <item>
+      <title>这是一个bug</title>
+      <link>//localhost:1313/posts/81/</link>
+      <pubDate>Mon, 10 Jul 2023 00:04:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/81/</guid>
+      <description>因为迁移主题的问题，有好多小伙伴反映我使用两个主题，其实我也很茫然不知道怎么回事，很多小伙伴访问首页直接跳转至原先一个主题的首页，甚至前几天我还收到了前面一个主题的文章留言。 首先我很肯定我没有给博客套</description>
+    </item>
+    <item>
+      <title>螺蛳粉</title>
+      <link>//localhost:1313/posts/80/</link>
+      <pubDate>Tue, 04 Jul 2023 19:24:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/80/</guid>
+      <description>第一次吃这样正宗的螺蛳粉。 端上来的那一刻差点没把我熏吐。 中途好几次都停下来，结果麻木了，闻不到味道了哈哈😃。 闻不到味道后觉得味道还不错，但是味道不能多闻。 饭后去钱塘江散步。 看见好多小动物，然后跟着这可</description>
+    </item>
+    <item>
+      <title>那年今日</title>
+      <link>//localhost:1313/posts/79/</link>
+      <pubDate>Sat, 01 Jul 2023 19:33:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/79/</guid>
+      <description>去年站在这里的是我。 那时天空也是这样蓝， 云朵一片一片的， 像棉花糖。 我很高兴，到处去拍了很多天空，那一刻真的很震惊，我从来没有看过这样惊心动魄的蓝天。</description>
+    </item>
+    <item>
+      <title>校园日记</title>
+      <link>//localhost:1313/posts/album-1/</link>
+      <pubDate>Thu, 29 Jun 2023 23:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/album-1/</guid>
+      <description>2023-3 [photos] [/photos] 2022-10 [photos] ​ ​ [/photos] [photos] ​ ​ ​ ​ ​ [/photos] [photos] [/photos] 2022-09 [photos] [/photos] 2022-08 [photos] [/photos] [photos] ​ [/photos]</description>
+    </item>
+    <item>
+      <title>《心愿》— 四个女生</title>
+      <link>//localhost:1313/posts/78/</link>
+      <pubDate>Thu, 29 Jun 2023 21:36:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/78/</guid>
+      <description>&gt; 湖水是你的眼神 &gt; 梦想满天星辰 &gt; 心情是一个传说 &gt; 亘古不变地等候 &gt; 成长是一扇树叶的门 &gt; 童年有一群亲爱的人 &gt; 春天是一段路程 &gt; 沧海桑田的拥有 &gt; 那些我爱的人 &gt; 那些离逝的风 &gt; 那些永远的誓言一遍一遍 &gt; 那些爱我的人</description>
+    </item>
+    <item>
+      <title>The Right Way to Take Vitamins</title>
+      <link>//localhost:1313/posts/77/</link>
+      <pubDate>Fri, 23 Jun 2023 19:25:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/77/</guid>
+      <description>前情提示 或许你认为我是一个养生博主，但实则不然，我只是一个喜欢关注自己身体健康的人。没有任何医学生的背景，凭借于互联网的强大，能学习一些自己从未接触过的东西。但请勿将这篇当做科普文章，因为只是作者的个</description>
+    </item>
+    <item>
+      <title>心心念的阅读器</title>
+      <link>//localhost:1313/posts/76/</link>
+      <pubDate>Thu, 15 Jun 2023 12:23:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/76/</guid>
+      <description>缘起 因为一些莫名其妙的心情，想入手一个墨水屏阅读器，在内心深处的几经折磨之下，还是最终入手了两台。原先读高中的时候就已经有了一台，在网上淘到的一个德国牌子，到现在都还能用，那时候不了解墨水屏市场怎么样</description>
+    </item>
+    <item>
+      <title>我的花死了</title>
+      <link>//localhost:1313/posts/75/</link>
+      <pubDate>Tue, 13 Jun 2023 10:22:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/75/</guid>
+      <description>我的花受不得寒冷， 它很娇弱， 但我没有好好保护。 前几天我还在炫耀自己拿到了一盆花种，今天我却不知道面对那些干枯的幼苗。说明书上要求放置在温暖的环境中，所以我把它放置在靠近阳台的那边。那天早上我一如既往的</description>
+    </item>
+    <item>
+      <title>GPEG九型人格测试</title>
+      <link>//localhost:1313/posts/74/</link>
+      <pubDate>Thu, 08 Jun 2023 13:45:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/74/</guid>
+      <description>第四型喜欢标新立异，渴望与众不同。他们对自己和他人的情绪十分敏感，也十分在意。因此，他们身上具有很多艺术家的特质。往往情感丰富，习惯忠于自己的感受，凭感觉做事，追求心灵刺激，情绪变化无常，散发出独特的</description>
+    </item>
+    <item>
+      <title>欲望</title>
+      <link>//localhost:1313/posts/73/</link>
+      <pubDate>Wed, 07 Jun 2023 10:18:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/73/</guid>
+      <description>我时常在想有时候我的欲望太多了，想要这个想要那个，但却没有能力达到自己的欲望就会造成焦虑的来源，但是我又会时常敲击自己，这些对于物质的需求无非就是一场空，其实我的生活中没有必要添置那些我根本不需要的，</description>
+    </item>
+    <item>
+      <title>感冒</title>
+      <link>//localhost:1313/posts/72/</link>
+      <pubDate>Tue, 30 May 2023 21:51:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/72/</guid>
+      <description>也不知道这是阳了还是没有，反正浑身酸痛，然后心安理得的躺了一天，每次生病都会劝诫自己好好锻炼，但是都是好了伤疤忘了疼。反正每年换季的时候都会有这么难磨的一天。最近杭州像一个大热炉，学校室内的空调开的很</description>
+    </item>
+    <item>
+      <title>千帆历尽，归来仍是word</title>
+      <link>//localhost:1313/posts/71/</link>
+      <pubDate>Wed, 24 May 2023 10:52:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/71/</guid>
+      <description>前面每天折腾了那么多笔记软件，结果现在还是觉得 word 是最好的，配合着 onedrive 同步或备份，在电脑上记笔记毫无压力。但是发现一个小 bug，因为一直开着代理，onedrive 同步其实超级废流量，平时一天一个 G 都用不到</description>
+    </item>
+    <item>
+      <title>退一步，自讨苦吃</title>
+      <link>//localhost:1313/posts/70/</link>
+      <pubDate>Wed, 17 May 2023 08:44:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/70/</guid>
+      <description>一个兵荒马乱的晚上，早上起来人都不知道在何方。 凌晨 2 点被舍友上床睡觉的响声吵醒，吵醒的那一刻还以为自己在梦中，结果一下子就清醒过来，当时真的只剩下愤怒，我知道，我今天晚上肯定废了，但是我还是尝试平复心</description>
+    </item>
+    <item>
+      <title>博客一周年（366）</title>
+      <link>//localhost:1313/posts/69/</link>
+      <pubDate>Fri, 12 May 2023 11:21:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/69/</guid>
+      <description>哈哈哈，今天在页脚下面赫然显示“小破站风雨中飘摇了 366 天”，本来有点不舒服的情绪一下就开始变得高涨，按道理是应该昨天发现这个小惊喜的，但是今天发现了更好哈哈，366 天一个多么美妙的时间，从开始对博客懵懂</description>
+    </item>
+    <item>
+      <title>说梦话</title>
+      <link>//localhost:1313/posts/68/</link>
+      <pubDate>Sat, 06 May 2023 10:12:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/68/</guid>
+      <description>在我的印象里，没听过别人说我在半夜里说梦话这件事，直到我的大学生涯，一个偶然的平常瞬间，我室友告诉我在半夜说梦话这件事，其实我还是蛮震惊的，说梦话这个事情让我一度觉得很难以为情，不仅半夜会不会影响别人</description>
+    </item>
+    <item>
+      <title>生活小记</title>
+      <link>//localhost:1313/posts/67/</link>
+      <pubDate>Fri, 21 Apr 2023 14:26:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/67/</guid>
+      <description>第一天 我于不久前就换了一个头像，说起头像，是我在网上找人帮我定制的，当时定制的时候没想太多，当时想的是一个小小的头像涉及到的东西应该比较少，所以定制好了就没管了。这天想着要不将头像设计成 logo，需要</description>
+    </item>
+    <item>
+      <title>《流年》王菲</title>
+      <link>//localhost:1313/posts/66/</link>
+      <pubDate>Thu, 20 Apr 2023 13:51:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/66/</guid>
+      <description>爱上一个天使的缺点 用一种魔鬼的语言 上帝在云端 只眨了一眨眼 最后眉一皱 头一点 爱上一个认真的消遣 用一朵花开的时间 你在我旁边 只打了个照面 五月的晴天 闪了电 有生之年 狭路相逢 终不能幸免 手心忽然长出纠缠的曲线 懂事之前</description>
+    </item>
+    <item>
+      <title>那些回不去的年少时光</title>
+      <link>//localhost:1313/posts/65/</link>
+      <pubDate>Tue, 18 Apr 2023 14:28:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/65/</guid>
+      <description>2023 年 4 月 13 日晚上，又一次匆匆浏览一遍《那些回不去的时光》，依然还是为了书中的罗琦琦而满怀感动。长大后的书单都被各类热榜书籍充斥，阅读也只是为了获取某一类知识，好久都忘了酣畅淋漓的阅读，再也找不到曾经在</description>
+    </item>
+    <item>
+      <title>Hexo和Notion的神级联动</title>
+      <link>//localhost:1313/posts/64/</link>
+      <pubDate>Mon, 17 Apr 2023 14:01:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/64/</guid>
+      <description>完成目标 notion 文章转化为 markdown 格式 在 notion 上写博客 发布 notion 文章到 hexo 项目起源 初代：项目由@Mo Huishou 最初创建使用，但只支持阿里云图床，且不支持文章修改。 目前：由@Doradx 大佬改造后支持多种图床，且支持文章修改 项目教程</description>
+    </item>
+    <item>
+      <title>Notion搭建个人主页</title>
+      <link>//localhost:1313/posts/62/</link>
+      <pubDate>Sun, 16 Apr 2023 11:01:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/62/</guid>
+      <description>在当今数字化的时代，个人主页成为了展示个人品牌、展示个人技能和个人能力的一个非常好的方式。但是，为了搭建一个完整的个人主页，需要具备很多的技能，例如前端开发、设计和服务器管理等等。如果你想要搭建一个个</description>
+    </item>
+    <item>
+      <title>五分钟拥有一个在线博客</title>
+      <link>//localhost:1313/posts/61/</link>
+      <pubDate>Wed, 12 Apr 2023 13:53:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/61/</guid>
+      <description>写作。拥有。赚取。 xLog 是面向所有人的最棒 链上 开源 博客社区。 话说很早就有看到我的推圈有大佬在推荐这个项目了，但是刚开始一看到区块链这个东西就感觉是陌生的领域，并且登录什么的都是需要拥有钱包账户，就打了退堂</description>
+    </item>
+    <item>
+      <title>庄子和儒家内圣外王的区别</title>
+      <link>//localhost:1313/posts/60/</link>
+      <pubDate>Tue, 11 Apr 2023 13:05:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/60/</guid>
+      <description>摘要：自古以来，关于庄子和儒家的”内圣外王“之分争议不断，作为一个道家术语然后来被儒家广为使用甚至奉为圭臬，因此认为儒学之理想和目标可以《天下》篇“内圣外王”一语概括之，儒学就是“内圣外王”之学。诚如</description>
+    </item>
+    <item>
+      <title>PC使用obsidian发布博客</title>
+      <link>//localhost:1313/posts/59/</link>
+      <pubDate>Tue, 11 Apr 2023 11:45:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/59/</guid>
+      <description>这是一篇obsidian发布的博客，会不会与qexo发布博客冲突呢？让我测试一下。 测试了一下，总之在obsidian上写博客之前必须pull一下，要不然会冲突，所以到底应不应该选择这两个作为移动端和电</description>
+    </item>
+    <item>
+      <title>用Qexo写博客</title>
+      <link>//localhost:1313/posts/58/</link>
+      <pubDate>Tue, 11 Apr 2023 11:40:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/58/</guid>
+      <description>这是一篇用qexo发布的文章。 正在测试中。 测试完毕。 Qexo官方文档：https://www.oplog.cn/qexo/ 最让我震惊的是还支持hugo框架博客，真的是一个大惊喜，只不过我现在不用hug</description>
+    </item>
+    <item>
+      <title>华为“奋斗者承诺书”</title>
+      <link>//localhost:1313/posts/57/</link>
+      <pubDate>Mon, 10 Apr 2023 23:47:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/57/</guid>
+      <description>2010年8月下旬，一份神秘邮件进入华为部分中高层干部邮箱，“公司倡导以奋斗者为本的文化，为使每位员工都有机会申请成为奋斗者，请您与部门员工沟通奋斗者申请的背景与意义，以及具体申请方式。在他们自愿的情</description>
+    </item>
+    <item>
+      <title>用AI为自己的博客取一个名称</title>
+      <link>//localhost:1313/posts/56/</link>
+      <pubDate>Mon, 10 Apr 2023 20:37:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/56/</guid>
+      <description>前言 因为这段时间博客其实小小变动了一些，突然就想起来自己的博客名称和头像都不是自己原创的，当时做博客也是一个偶然的机会，什么都是网上找的，现在想起来既然是属于自己的一片天地，还是尽量全部用自己的东西最</description>
+    </item>
+    <item>
+      <title>Why Am I Always Sleepy?</title>
+      <link>//localhost:1313/posts/55/</link>
+      <pubDate>Fri, 07 Apr 2023 22:04:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/55/</guid>
+      <description>近几天熬夜导致生物钟混乱，确实不知道熬夜在干什么，今天好不容易已下定决心不再熬夜，每天的和室友的口号就是“不再熬夜”，一天也没做到，希望今天能完成吧。对于我来说，其实最大的问题不是熬夜，而是在于我即便</description>
+    </item>
+    <item>
+      <title>hexo博客安装PWA</title>
+      <link>//localhost:1313/posts/54/</link>
+      <pubDate>Thu, 06 Apr 2023 20:15:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/54/</guid>
+      <description>随着移动设备的普及，越来越多的人开始使用移动设备浏览网页。为了提高用户的体验，许多网站都已经实现了PWA（渐进式Web应用程序）功能。 安装hexo-pwa插件 在Hexo博客中，我们可以使用hexo-p</description>
+    </item>
+    <item>
+      <title>《税痛源于民众的被剥夺感》读后感</title>
+      <link>//localhost:1313/posts/53/</link>
+      <pubDate>Thu, 06 Apr 2023 13:16:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/53/</guid>
+      <description>这篇文章中主要探讨了“税痛”的产生原因，指出它并非仅仅源于税负高低，更在于国家征税权是否受到限制，民众有没有权利参与税法的制定，能不能决定税款用途。同时，文章批判了国家税务总局对于福布斯发布的“全球税</description>
+    </item>
+    <item>
+      <title>白嫖党如何美化Windows桌面</title>
+      <link>//localhost:1313/posts/52/</link>
+      <pubDate>Wed, 05 Apr 2023 14:20:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/52/</guid>
+      <description>前段时间不知道怎么弄的，导致电脑崩坏黑屏了，只得重新安装新系统，这次没有找专业人员帮我安装那些乱七八糟的系统，有幸认识一位大佬（嗜血星空），有技术、有实力，远程教我安装系统，平时电脑有啥小毛病都是请教</description>
+    </item>
+    <item>
+      <title>无题</title>
+      <link>//localhost:1313/posts/51/</link>
+      <pubDate>Sun, 02 Apr 2023 18:05:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/51/</guid>
+      <description>致岌岌可危的你。 晚上把留了两年的长发剪掉了，犹豫半天才下定决心拿起剪刀。 近半年来一个人像是生病了一样，头发不要命的往下掉，随便一摸头就是一把头发在手上。寒假期间都是早睡早起，没有焦虑、没有烦恼，每天跟</description>
+    </item>
+    <item>
+      <title>溃疡之路</title>
+      <link>//localhost:1313/posts/50/</link>
+      <pubDate>Thu, 30 Mar 2023 17:05:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/50/</guid>
+      <description>最近因为溃疡痛的我不行了，我才发现前一段时间我在自找苦吃，每天点餐都没有点一个蔬菜，水果也是只吃自己喜欢的，平时每天一个鸡蛋也在不知不觉中停了下来，作为一个深受溃疡迫害的的选手，本来感觉自己已经调理好</description>
+    </item>
+    <item>
+      <title>人类艺术家</title>
+      <link>//localhost:1313/posts/49/</link>
+      <pubDate>Wed, 29 Mar 2023 23:02:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/49/</guid>
+      <description>闲来无事，遂作一诗。 诗中有画，画中有你。 我一直都以为自己是个无目标的人，小时候家里面说每天要按时完成作业，于是我每天乖乖的写作业上课；后来他们告诉我要上一个好大学，想着这就是目标吧，还是跟着目标随着大</description>
+    </item>
+    <item>
+      <title>我想</title>
+      <link>//localhost:1313/posts/48/</link>
+      <pubDate>Wed, 22 Mar 2023 23:48:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/48/</guid>
+      <description>淅淅沥沥下了多天小雨，天空灰蒙蒙的。 人总是有得就有失，往往在失去的时候就会无比怀念那些曾经拥有过的。 在雷雨声中酣然大睡，趴在阳台看看对面烂漫的樱花，就这样，让思绪像风一样自由。</description>
+    </item>
+    <item>
+      <title>新主题</title>
+      <link>//localhost:1313/posts/47/</link>
+      <pubDate>Sun, 19 Mar 2023 18:04:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/47/</guid>
+      <description>我又又又又又换主题啦，这个主题是西瓜撞地球这位仁兄推荐的，当时第一眼就喜欢上了，但是这个主题年久失修，作者最后一次提交依然停留在四年前，当时对于hexo主题的结构又不太熟悉，还不知道怎么改动，中途还小</description>
+    </item>
+    <item>
+      <title>手机端上传图片</title>
+      <link>//localhost:1313/posts/46/</link>
+      <pubDate>Thu, 16 Mar 2023 18:38:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/46/</guid>
+      <description>前言碎碎念 昨天心血来潮去折腾那个hexo博客，最后就是倔强的折腾了昨天一天之后彻底心灰意冷，无奈放弃，记住，是无奈、无奈。 最近木木大佬更新了一篇文章Hugo 「近期」短代码（基于 Memos Docker），将me</description>
+    </item>
+    <item>
+      <title>obsidian如何同步全平台</title>
+      <link>//localhost:1313/posts/45/</link>
+      <pubDate>Wed, 01 Mar 2023 17:09:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/45/</guid>
+      <description>目前我的设备是一台Windows、一个Ipad和一部安装vivo手机，我迫切希望这几个设备能够联动起来。众所周知，obsidian令广大用户头疼的一个问题就是全平台同步，在电脑端的obsidian无疑</description>
+    </item>
+    <item>
+      <title>obsidian发布hugo博客</title>
+      <link>//localhost:1313/posts/44/</link>
+      <pubDate>Tue, 28 Feb 2023 21:53:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/44/</guid>
+      <description>首先非常感谢木木木木木和胡说大佬的教程和代码。 在刚开始使用hugo博客时候我就看到胡说大佬的这篇教程，只是当时折腾半天obsidian还没折腾明白在这上面就不了了之，今天偶然看到木木木木木的教程又开始</description>
+    </item>
+    <item>
+      <title>姐姐，我在德令哈</title>
+      <link>//localhost:1313/posts/43/</link>
+      <pubDate>Tue, 28 Feb 2023 21:38:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/43/</guid>
+      <description>偶然想起来高中时期在广播中听到的海子1的一首小诗，当时就被深深吸引，到至今仍然念念不忘，今日得以记录，我是一个不太爱记事的，大概看过就过去了，才懒得去记录这些悲春伤秋。 姐姐，今夜我在德令哈，夜色笼罩 姐</description>
+    </item>
+    <item>
+      <title>一周三餐记录</title>
+      <link>//localhost:1313/posts/42/</link>
+      <pubDate>Sun, 26 Feb 2023 11:44:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/42/</guid>
+      <description>算作对这篇文章这些日子我都干了什么的填坑吧！记录自己一周的三餐（大部分在食堂），准确来说是两餐，不太爱吃早餐。 2023/02/20 周一 早餐：一个茶叶蛋、一个肉包 晚餐：麻辣烫 2023/02/21 周二 早餐：一个肉包、一个茶叶蛋 午餐：蛋羹和莴</description>
+    </item>
+    <item>
+      <title>浅浅尝试一下Notion Ai</title>
+      <link>//localhost:1313/posts/41/</link>
+      <pubDate>Fri, 24 Feb 2023 12:13:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/41/</guid>
+      <description>什么是Notion AI Notion AI是一款人工智能工具，可以自动识别文本中的关键字并根据关键字自动生成相关的标签，自动识别文本中的日期和时间并在日历中自动创建相应的事件，自动分类文档并将其分配到正确的文件夹中。</description>
+    </item>
+    <item>
+      <title>记忆七宗罪</title>
+      <link>//localhost:1313/posts/40/</link>
+      <pubDate>Mon, 20 Feb 2023 22:49:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/40/</guid>
+      <description>记忆七罪（The seven sins of memory) 记忆七罪分为：健忘、失神、空白、错认、暗示、偏颇及纠缠 健忘(Transience)：随着时间而记忆褪色或消失。 失神(Absent-mindedness)：心不在焉，忘东忘西。 空</description>
+    </item>
+    <item>
+      <title>瞎折腾</title>
+      <link>//localhost:1313/posts/39/</link>
+      <pubDate>Mon, 20 Feb 2023 18:58:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/39/</guid>
+      <description>如诸位所见，我的博客样式换了又换回来了，我喜欢折腾，而且是瞎折腾，但是到最后也没折腾明白。 想换主题的想法是临时起意，开始是西瓜撞地球这位仁兄发给我几个好看的hexo主题，然后莫名心动了，恰巧自己那几天</description>
+    </item>
+    <item>
+      <title>迷失</title>
+      <link>//localhost:1313/posts/38/</link>
+      <pubDate>Thu, 02 Feb 2023 21:35:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/38/</guid>
+      <description>到底什么样的结局才能配得上这一路的颠沛流离。 春节悄然过去，恍然间临近开学，一些莫名情绪依然从过节期间萦绕至今，但我隐约知道这些情绪从何而来。 春节对于中国万千家庭来说都是团聚欢庆的时刻，但我家好像不是，</description>
+    </item>
+    <item>
+      <title>再见2022</title>
+      <link>//localhost:1313/posts/37/</link>
+      <pubDate>Mon, 02 Jan 2023 13:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/37/</guid>
+      <description>年前阳了之后就在床上躺了好几天，终于恢复元气。马上要过年了，准备和父母回贵州过年，其实哪里过年都差不多一样，因为都很无聊。 2022年算是平平无奇的一年，在这一年内唯一让我惊喜的是在博客圈认识了很多好友</description>
+    </item>
+    <item>
+      <title>低血糖还是贫血？</title>
+      <link>//localhost:1313/posts/36/</link>
+      <pubDate>Sat, 17 Dec 2022 20:16:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/36/</guid>
+      <description>许多时候我还没意识到危机逐渐降临我的生活。 ——题记 学校最近很多同学都感染了病毒，为保险起见，我还是连夜买票回家。下午收拾行李，一样的流程，坐地铁到车站，一切都是照常有条不紊的进行，地铁上我不断给自己做</description>
+    </item>
+    <item>
+      <title>小众且好用的软件</title>
+      <link>//localhost:1313/posts/35/</link>
+      <pubDate>Tue, 13 Dec 2022 22:03:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/35/</guid>
+      <description>我的白日梦 在我很小很小的时候，多么渴望有自己的一个日记本，每天记录自己的生活，后来我买了很多漂亮的笔记本却没能坚持记录。 eDiary3（英文名称）是我偶然冲浪的时候发现的，那时候看到介绍的网页图片就感</description>
+    </item>
+    <item>
+      <title>这些日子我干了什么</title>
+      <link>//localhost:1313/posts/34/</link>
+      <pubDate>Tue, 13 Dec 2022 17:23:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/34/</guid>
+      <description>就是这样匆匆忙忙的度过一天又一天，偶尔会遇见一些意想不到的美好。 ——题记 计划永远也赶不上变化，本来前几天我还准备好好复习期末考试，但是伴随着前几天杭州突然公布彻底放开，于是杭州各高校开始纷纷恐慌，掀起</description>
+    </item>
+    <item>
+      <title>天气阴</title>
+      <link>//localhost:1313/posts/33/</link>
+      <pubDate>Mon, 28 Nov 2022 21:09:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/33/</guid>
+      <description>岁月如梭，时间匆匆，晃眼就到冬日萧瑟之际，冬天是个美好的季节，但是也带来了很多的苦恼，比如我的期末考试还有六级考试，多门学科的背诵让我着急不已，但是没有办法，自己已经选择了这样的道路，无论如何都得自己</description>
+    </item>
+    <item>
+      <title>我的大嫂</title>
+      <link>//localhost:1313/posts/32-1/</link>
+      <pubDate>Mon, 21 Nov 2022 20:01:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/32-1/</guid>
+      <description>你们有没有一瞬间往事如洪水一般疯狂涌入大脑中。 那天早上我就是这样的，那是一个很平常的清晨，我照例打开电脑开始一天的运作，或许是好久没休息好的缘故，我开始控制不住自己的思考，就这样任由那些我早已遗弃甚至</description>
+    </item>
+    <item>
+      <title>《名侦探柯南：万圣节的新娘》观后感</title>
+      <link>//localhost:1313/posts/31/</link>
+      <pubDate>Sat, 19 Nov 2022 23:36:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/31/</guid>
+      <description>内含剧透，未观看此片或准备观看此片的朋友赶紧逃离！ 傍晚的黄昏总是昏昏欲睡，天空依旧灰蒙蒙。 一个算聊得来的好友突然问我要不要去看电影，想着自己好久没有娱乐活动了，便欣然赴约。 直至看电影前才知道电影的全称</description>
+    </item>
+    <item>
+      <title>爆炸吧，思源</title>
+      <link>//localhost:1313/posts/30-1/</link>
+      <pubDate>Tue, 15 Nov 2022 17:02:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/30-1/</guid>
+      <description>今天来给大家小小的吐槽一下思源吧，以下内容均属于深度使用笔记软件后个人主观感受，并不存在对于思源笔记抹黑、造谣等行为。 前面我一直强烈推荐用思源，现在我觉得我打脸了，打得生疼，思源笔记同步真让人一言难尽</description>
+    </item>
+    <item>
+      <title>常用命令合集</title>
+      <link>//localhost:1313/posts/commands/</link>
+      <pubDate>Sun, 13 Nov 2022 11:30:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/commands/</guid>
+      <description>mangodb的twikoo评论数据上传和下载 下载数据命令 mongoexport --uri mongodb+srv://xxx:xxx@cluster0.z5rsya3.mongodb.net/ --collection comment --type json --out twikoo-comments.json 上传数据命令 mongoimport --uri mongodb+srv://xxx:xxx@cluster0.z5rsya3.mongodb.net/test --collection comment --type json --file twikoo-comments.json --mode upsert 说明： 第一个xxx：数据名称 第二个xxx：密码 test是指mangodb数据库的名称 git</description>
+    </item>
+    <item>
+      <title>【一席】張秋子：活著圖個啥？</title>
+      <link>//localhost:1313/posts/29/</link>
+      <pubDate>Sun, 13 Nov 2022 10:46:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/29/</guid>
+      <description>视频介绍 张秋子，云南师范大学讲师。 “活著图个啥？文学并不能解决这个问题，文学也无法回答什麽才是有意义的生活，甚至它会把问题越描越黑，带给我们更多困惑。但是借由文学的隐喻，我们看到的生活可能更接近于： 人</description>
+    </item>
+    <item>
+      <title>小意外</title>
+      <link>//localhost:1313/posts/28/</link>
+      <pubDate>Thu, 10 Nov 2022 19:38:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/28/</guid>
+      <description>日期：周四 气温：17摄氏度 天气：晴 夜幕降临。 刚把共享单车停好，哐当一声，只听见左边一排的自行车辆都倒下了，还有一辆电动车被困其中。 无奈。 只好尴尬地在众人面前扶起一辆辆自行车。 心情平静如初。 电动车有点糟</description>
+    </item>
+    <item>
+      <title>重温《楚门的世界》</title>
+      <link>//localhost:1313/posts/27/</link>
+      <pubDate>Sun, 06 Nov 2022 15:13:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/27/</guid>
+      <description>昨夜闲来无事重温《楚门的世界》，初看感悟不深，再看却是别有一番体悟。 首先感受到的是愤怒，没错，如果从你生下来身边所有的人、事物，包括你自以为生长的空间都是伪造虚假的，于我而言，可能真的会发疯。凭什么要</description>
+    </item>
+    <item>
+      <title>侵犯</title>
+      <link>//localhost:1313/posts/26/</link>
+      <pubDate>Fri, 04 Nov 2022 21:32:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/26/</guid>
+      <description>想说的话很多，却什么也说不出来。 小时候她寄宿在亲戚家，一个不大不小的村庄，有十几个差不多同岁的孩子，经常喜欢在一起玩游戏。 应该算是邻家一个稍大的男孩子，和她家中哥哥同岁，喜欢在捉迷藏的时候单独跟在小女</description>
+    </item>
+    <item>
+      <title>倒霉蛋的一天</title>
+      <link>//localhost:1313/posts/25/</link>
+      <pubDate>Fri, 04 Nov 2022 20:23:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/25/</guid>
+      <description>唧唧复唧唧，倒霉蛋，倒霉蛋啊。 昨夜睡觉的时候总是容易被一些异样的声响吵醒，晚睡了一些。 午休睡着的时候被同学误认为是物品，偷拍照片，并被当作占座的人挂在朋友圈和学校墙上三个小时，感到十分难受生气，被误解</description>
+    </item>
+    <item>
+      <title>先秦文化最后一堂课</title>
+      <link>//localhost:1313/posts/24/</link>
+      <pubDate>Thu, 03 Nov 2022 15:44:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/24/</guid>
+      <description>白马非马 [原文] “白马非马”，可乎？ 曰：可。 曰：何哉？ 曰：马者，所以命形也；白者，所以命色也。命色者非命形也。故曰：“白马非马”。 曰：有白马，不可谓无马也。不可谓无马者，非马也？有白马为有马，白之，非</description>
+    </item>
+    <item>
+      <title>一周杂记</title>
+      <link>//localhost:1313/posts/23/</link>
+      <pubDate>Fri, 21 Oct 2022 20:19:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/23/</guid>
+      <description>继上个周末睡眠问题的升级，博主满腹牢骚的发了一篇文，发现几个小伙伴的也有同样的问题，实在是天下人苦睡觉已久矣！好在很快就调整了过来，“山不来就我，我便去就山”。幸好很早以前就发现学校的一个绝佳去处——</description>
+    </item>
+    <item>
+      <title>拿什么拯救你,我的睡眠</title>
+      <link>//localhost:1313/posts/22/</link>
+      <pubDate>Sun, 16 Oct 2022 21:05:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/22/</guid>
+      <description>深夜2点左右，本来应该在睡梦中的我，依然还是清醒的头脑，说不上来这是第几次被尖锐或是突然的声响惊醒。我是一个极度入睡困难的人，如果运气好一点的话应该在安静的环境中40分钟就入睡，运气不好可能一个小时以</description>
+    </item>
+    <item>
+      <title>《沉默的大多数》整理</title>
+      <link>//localhost:1313/posts/21/</link>
+      <pubDate>Sun, 16 Oct 2022 18:22:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/21/</guid>
+      <description>序言 假如一个社会的宗旨就是反对有趣，那它比寒冰地狱又有不如。在这个领域里发议论的人总是在说这个不宜提倡，那个不宜提倡，仿佛人活着就是为了被提倡。要真是这样，就不如不活。 罗素先生说，参差多态乃是幸福的本</description>
+    </item>
+    <item>
+      <title>国庆放假之回家历险记</title>
+      <link>//localhost:1313/posts/20/</link>
+      <pubDate>Fri, 30 Sep 2022 21:34:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/20/</guid>
+      <description>待笔者静心下来写这篇博客的时候已是月上柳梢头，故事从错过高铁开始。 高铁票是三天前就买好的，选票的时候根本没有选择，庆幸还能选到一张，但是发车时间却是在早上，这对于国庆出行高峰期的人算是不幸中的万幸，但</description>
+    </item>
+    <item>
+      <title>你是什么颜色的灵魂</title>
+      <link>//localhost:1313/posts/19/</link>
+      <pubDate>Sat, 24 Sep 2022 21:43:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/19/</guid>
+      <description>每个人的灵魂都住着一种颜色，你相信吗？ 究其一生，我们都在探索自我，窥探内心深处的灵魂。我是什么样的人，在这个社会中扮演者什么样的角色。又或者我们换一种说法，我是个什么颜色的人，是黑色、是红色、是蓝色·</description>
+    </item>
+    <item>
+      <title>《每天懂一点趣味心理学》整理</title>
+      <link>//localhost:1313/posts/18/</link>
+      <pubDate>Fri, 23 Sep 2022 20:11:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/18/</guid>
+      <description>划线内容 心理测试 看看心理学对你的影响有多大 威廉斯综合征就是因为基因排列异常而造成的先天性疾病，患有这种病的人在出生的时候，体内的7号染色体就少了20个基因。全球每2万人中，就有一人患这种疾病。 疯子与天</description>
+    </item>
+    <item>
+      <title>《山月记》笔记</title>
+      <link>//localhost:1313/posts/17/</link>
+      <pubDate>Wed, 21 Sep 2022 22:12:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/17/</guid>
+      <description>山月记 由此看来，恐怕无论是野兽还是人类，原本都是别种物体，最初还记得自己是什么，尔后便渐渐忘却，认定自己从来就是如此模样了。 这都是我那怯弱的自尊心和妄自尊大的羞耻心在作怪。我深怕自己本非美玉，故而不敢</description>
+    </item>
+    <item>
+      <title>我与思源的初遇</title>
+      <link>//localhost:1313/posts/32/</link>
+      <pubDate>Fri, 16 Sep 2022 21:14:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/32/</guid>
+      <description>从昨天晚上到今天晚上，对于思源笔记的使用已经能够比较顺畅了。仔细算起来我折腾obsidian的时间大概有一年左右，在这一年的时间内，几乎大半部分的时间都在琢磨如何将obsidian变成另外一个noti</description>
+    </item>
+    <item>
+      <title>蛋黄酥</title>
+      <link>//localhost:1313/posts/15/</link>
+      <pubDate>Tue, 13 Sep 2022 14:11:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/15/</guid>
+      <description>休闲愉快的中秋假期飞快过去，迎来今天忙忙碌碌的一天。早上还在课堂上昏昏欲睡的时候，上一个学期毛概课堂的老师突然发消息询问我是否有空，中午可以一起吃饭。刚开始我感到十分惊讶，自从上大学以来，每个课程的老</description>
+    </item>
+    <item>
+      <title>读《他人即地狱》整理</title>
+      <link>//localhost:1313/posts/30/</link>
+      <pubDate>Tue, 13 Sep 2022 13:50:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/30/</guid>
+      <description>偏见是什么 偏见，一种没有明显依据易变的观点。 ——安布罗斯·比尔斯，《魔鬼词典》，1911 偏见的本质： 对一个群体及其个体成员的负面的预先判断。（有些偏见定义也包含了积极的预先判断） 偏见以多种形式展示——</description>
+    </item>
+    <item>
+      <title>生活记</title>
+      <link>//localhost:1313/posts/13/</link>
+      <pubDate>Thu, 08 Sep 2022 19:08:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/13/</guid>
+      <description>行政诉讼法学习的意义 第一节课是行政诉讼法，说实话这是一门比较枯燥的课程。行政诉讼法离我们的生活看似遥远却又触手可及，比如楼上邻居加盖的屋顶挡住了你家阳台的阳光、“拆家小分队”拆除了你的违建房屋、或是女</description>
+    </item>
+    <item>
+      <title>开学第二天</title>
+      <link>//localhost:1313/posts/12/</link>
+      <pubDate>Tue, 06 Sep 2022 18:15:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/12/</guid>
+      <description>今天是开学第二天啦，暑假两个月回来之后整个人都对学校有点陌生，突然多出来了很多的同学还是不太适应。 下午的一节犯罪心理学还是感觉蛮有意思的，老师列举的都是一些经典并且耳熟能详的案例，通过这些典型的案例分</description>
+    </item>
+    <item>
+      <title>名人名言整理</title>
+      <link>//localhost:1313/posts/11/</link>
+      <pubDate>Tue, 23 Aug 2022 21:34:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/11/</guid>
+      <description>很早以前很喜欢收集一些名人名言记录在册，一些在杂志或是在网上看到的对我有启发产生思考的东西我都喜欢随便记录下，但是由于自己没有整理收集的习惯，导致以前很多记录的都遗失了，今夜闲来无事整理笔记才发现一些</description>
+    </item>
+    <item>
+      <title>折腾博客的尾声</title>
+      <link>//localhost:1313/posts/10/</link>
+      <pubDate>Mon, 22 Aug 2022 17:43:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/10/</guid>
+      <description>这几天十分纠结要不要买一个服务器给我的域名备案，但是自己并没有使用服务器的需求，其次是一个 服务器的价格真的贵的离谱，而且在阿里云购买服务器甚至需要购买三个月以上的。我起初认为像我这样的小博客，没有几个</description>
+    </item>
+    <item>
+      <title>端午碎碎念</title>
+      <link>//localhost:1313/posts/8/</link>
+      <pubDate>Fri, 03 Jun 2022 18:40:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/8/</guid>
+      <description>又到了一年阖家欢乐的端午佳节，由于对于我来讲端午已经没有什么特别的意义所以我大部分都是当做假期一样度过，吃着昨天逛超市买的小半个西瓜，看着从前自己感觉还不错的电影，也就算比较惬意的一段小时光了。 近来大</description>
+    </item>
+    <item>
+      <title>难过的期末</title>
+      <link>//localhost:1313/posts/7/</link>
+      <pubDate>Tue, 31 May 2022 14:13:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/7/</guid>
+      <description>期末的痛苦谁懂？小时候总想着到了大学就好了，现在想想那时候的自己太年轻，总是容易被一些看似美好的承诺欺骗，现在只想说一句，这个大学谁爱上谁上☆: .｡. o(≧▽≦)o .｡.:☆。 临近期末，我的噩梦也接着</description>
+    </item>
+    <item>
+      <title>我的博客搭建历程——hugo</title>
+      <link>//localhost:1313/posts/6/</link>
+      <pubDate>Sat, 28 May 2022 15:44:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/6/</guid>
+      <description>继hexo搭建博客之后，完成hugo搭建博客就相对简单多了，因为hugo博客的搭建环境和hexo博客搭建环境是一样的，而且两个博客的部署都是一样的只需要记住一些简单常用的命令即可。 如果非要我选择一个博</description>
+    </item>
+    <item>
+      <title>hexo博客错误锦集</title>
+      <link>//localhost:1313/posts/5/</link>
+      <pubDate>Sat, 28 May 2022 11:49:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/5/</guid>
+      <description>最近刚把博客搭建成功，自己松了一口气，准备美美的为自己博客送上几篇文章欣赏一番，却不料后面的情况又层出不穷，真就是“一波未平，一波又起”，但咱也算是见过大场面的人了，所以冷静了一下，上网迅速一搜，事情</description>
+    </item>
+    <item>
+      <title>我的博客搭建历程——hexo</title>
+      <link>//localhost:1313/posts/4/</link>
+      <pubDate>Fri, 27 May 2022 15:36:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/4/</guid>
+      <description>hexo搭建博客学习经过只是作为自己的经验总结，并不作为教程使用，主要是将博客搭建在github上。里面包含自己搭建博客的一些踩的坑，虽然不是很全面，但是可以大概了解。 前言 如果大家想要了解hexo，可</description>
+    </item>
+    <item>
+      <title>我的博客搭建历程</title>
+      <link>//localhost:1313/posts/3/</link>
+      <pubDate>Fri, 27 May 2022 14:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/3/</guid>
+      <description>在此之前的几个月，我还是一个对博客搭建一窍不通的小白，已经忘记具体是什么时候开始一步步学会把博客搭建成功的。 最开始的初心其实很简单，只是想要一个可以供自己随心所欲写作或是属于自己的小空间，于是不断地上</description>
+    </item>
+    <item>
+      <title>我的碎碎念</title>
+      <link>//localhost:1313/posts/2/</link>
+      <pubDate>Sat, 21 May 2022 15:36:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2/</guid>
+      <description>这是一篇碎碎念！(❁´◡`❁) 我真的非常喜欢这个头图哈哈哈，先随便试一下吧！ 一条小鱼游啊游，最近在看《爸爸去哪儿3》，发现萌娃们真的太可爱了。 临近期末了，还是要收心搞期末论文，这个博客的设置差不多就要</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>//localhost:1313/posts/1/</link>
+      <pubDate>Tue, 10 May 2022 22:27:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/1/</guid>
+      <description>从小时候读书记事起，我似乎就对写作和画画有着别样的情愫，十分羡慕那些能够随手一涂，艳丽的风景就能尽收纸上；随手一挥，笔下的文字就开始翩翩起舞，他们似乎总是有着自己的想法，能够时时刻刻都将自己的想法或是</description>
+    </item>
+  </channel>
+</rss>

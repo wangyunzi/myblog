@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>苦恼 on 长街短梦</title>
+    <link>//localhost:1313/tags/%E8%8B%A6%E6%81%BC/</link>
+    <description>Recent content in 苦恼 on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 16 Oct 2022 21:05:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E8%8B%A6%E6%81%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>拿什么拯救你,我的睡眠</title>
+      <link>//localhost:1313/posts/22/</link>
+      <pubDate>Sun, 16 Oct 2022 21:05:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/22/</guid>
+      <description>深夜2点左右，本来应该在睡梦中的我，依然还是清醒的头脑，说不上来这是第几次被尖锐或是突然的声响惊醒。我是一个极度入睡困难的人，如果运气好一点的话应该在安静的环境中40分钟就入睡，运气不好可能一个小时以</description>
+    </item>
+  </channel>
+</rss>
