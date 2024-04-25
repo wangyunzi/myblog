@@ -3,8 +3,8 @@ name: Notion2Hugo
 on:
   workflow_dispatch:
   repository_dispatch:
-      types: 
-        - notion sync
+    types: 
+      - notion sync
 
 permissions:
   contents: write
