@@ -39,7 +39,7 @@ jobs:
           pic_migrate: true
           pic_bed_config: ${{ secrets.PICBED_CONFIG }}
           pic_compress: true
-          output_page_dir: 'content/pages'
+          output_page_dir: 'content'
           output_post_dir: 'content/posts'
           clean_unpublished_post: false
           metas_keeped: slug
