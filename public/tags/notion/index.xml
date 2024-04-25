@@ -6,8 +6,15 @@
     <description>Recent content in Notion on 长街短梦</description>
     <generator>Hugo 0.125.1</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 17 Apr 2023 14:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 06:31:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/notion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notion2markdown转换效果测试</title>
+      <link>//localhost:1313/notion/notion2markdown-test/</link>
+      <pubDate>Thu, 25 Apr 2024 06:31:00 +0000</pubDate>
+      <guid>//localhost:1313/notion/notion2markdown-test/</guid>
+      <description>image link_preview GitHub link_preview link_preview PR Check CI · ant-design/ant-design@e073fc7An enterprise-class UI design language and React UI library - PR Check CI · ant-design/ant-design@e073fc7https://github.com/ant-design/ant-design/actions/runs/4737049877 link_preview mention Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.A new tool that blends your everyday work apps into one. It&#39;s the all-in-one workspace for you and your teamhttps://doradx.notion.site/397943b2d0384e15ba69448900823984?v=06762d5d3e2140e399c03d84131ee682 页面模板 pdf 本地 测试的本地文件 远程文件 远程文件URL video YouTube YouTube Bilibili B站 腾讯视频 bookmark 博士生最好的状</description>
+    </item>
     <item>
       <title>Hexo和Notion的神级联动</title>
       <link>//localhost:1313/posts/64/</link>

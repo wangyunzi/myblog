@@ -6,10 +6,9 @@
         {{ partial "header.html" . }}
         <div class="content">
             <div class="list_with_title">
-                {{ range .Site.Sections }}
-                <div class="listing_title">{{ .Title }}</div>
+                {{ range .Data.Pages.GroupByDate "2006" }}
+                <div class="listing_title">{{ .Key }}</div>
                 <div class="listing">
-                    {{ range .Pages.GroupByDate "2006" }}
                     {{ range .Pages }}
                     <div class="listing_item">
                         <div class="listing_post">
@@ -17,7 +16,6 @@
                             <div class="post_time"><span class="date">{{ .Date.Format "01-02" }}</span></div>
                         </div>
                     </div>
-                    {{ end }}
                     {{ end }}
                 </div>
                 {{ end }}

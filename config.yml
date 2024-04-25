@@ -24,7 +24,7 @@ menu:
     - name: 时间线
       weight: 20
       identifier: archives
-      url: /posts
+      url: /archives
     # - name: Tags
     #   weight: 30
     #   identifier: tags
