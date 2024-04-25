@@ -41,7 +41,7 @@ jobs:
           pic_compress: true
           output_page_dir: 'content'
           output_post_dir: 'content/notion'
-          clean_unpublished_post: false
+          clean_unpublished_post: true
           metas_keeped: slug
           metas_excluded: pstatus, ptype
           last_sync_datetime: ${{ steps.GetNotionSyncDatetime.outputs.NOTION_SYNC_DATETIME }}
