@@ -64,6 +64,7 @@ params:
   mainSections:
     - posts
     - post
+    - notion
 social:
   github: "https://github.com/wangyunzi/"
   twitter: "https://twitter.com/YunziWang/"
