@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notions on 长街短梦</title>
+    <link>//localhost:1313/notion/</link>
+    <description>Recent content in Notions on 长街短梦</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-cn</language>
+    <atom:link href="//localhost:1313/notion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《沉默的大多数》整理</title>
+      <link>//localhost:1313/notion/122/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/notion/122/</guid>
+      <description>假如一个社会的宗旨就是反对有趣，那它比寒冰地狱又有不如。在这个领域里发议论的人总是在说这个不宜提倡，那个不宜提倡，仿佛人活着就是为了被提倡。要真是这样，就不如不活。 罗素先生说，参差多态乃是幸福的本源—</description>
+    </item>
+  </channel>
+</rss>

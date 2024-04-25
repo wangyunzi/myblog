@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/archives/</loc>
+    <lastmod>2024-04-25T22:18:52+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-04-25T22:18:52+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/categories/</loc>
     <lastmod>2024-04-21T15:06:19+00:00</lastmod>
   </url><url>
@@ -12,9 +18,6 @@
     <lastmod>2024-04-21T15:06:19+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/117/</loc>
-    <lastmod>2024-04-21T15:06:19+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
     <lastmod>2024-04-21T15:06:19+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/about/</loc>
@@ -670,5 +673,9 @@
   </url><url>
     <loc>//localhost:1313/tags/%E5%86%99%E4%BD%9C/</loc>
     <lastmod>2022-05-10T22:27:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/notion/122/</loc>
+  </url><url>
+    <loc>//localhost:1313/notion/</loc>
   </url>
 </urlset>
