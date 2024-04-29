@@ -15,8 +15,11 @@
                 <a href="{{ $val }}" title="{{ $key }}" target="_blank"><i class="ri-{{ $key }}-fill"></i></a>
                 {{ end }}
                 {{ end }}
-                <a href="{{ .Site.RSSLink }}" type="application/rss+xml" title="rss" target="_blank"><i
-                        class="ri-rss-fill"></i></a>
+                {{ $rssOutput := .OutputFormats.Get "RSS" }}
+                {{ if $rssOutput }}
+                    <a href="{{ $rssOutput.Permalink }}" type="application/rss+xml" title="rss" target="_blank"><i class="ri-rss-fill"></i></a>
+                {{ end }}
+                          
             </div>
         </div>
     </div>

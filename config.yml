@@ -11,8 +11,6 @@ googleAnalytics: ""
 pygmentsUseClasses: true
 pygmentCodeFences: true
 pygmentscodefencesguesssyntax: true
-author:
-  name: 王云子
 blackfriday:
   smartypants: false
 menu:
@@ -51,6 +49,8 @@ menu:
       url: /about
 
 params:
+  author:
+  name: 王云子
   fancybox: true
   subTitle: 此行山高路远，我只剩口袋玫瑰一片
   footerSlogan: My spiritual home
@@ -80,3 +80,11 @@ markup:
     renderHooks:
       link:
         enableDefault: true
+
+outputFormats:
+  RSS:
+    baseName: "index"
+    mediaType: "application/rss"
+    isPlainText: true
+    notAlternative: true
+    permalink: "/index.xml"
