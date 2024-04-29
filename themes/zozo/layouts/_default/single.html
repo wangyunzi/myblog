@@ -12,6 +12,7 @@
                         <span class="date">{{ .Date.Format "2006.01.02" }}</span>
                     </div>
                     <div class="post_content markdown">{{ .Content }}</div>
+                    <!-- Image & Video Caption -->                  
                     <div class="post_footer">
                         {{ with .Params.tags }}
                         <div class="meta">

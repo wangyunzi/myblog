@@ -65,6 +65,8 @@ params:
     - posts
     - post
     - notion
+  enableCaption: true
+  captionPrefix: "Caption: "
 social:
   github: "https://github.com/wangyunzi/"
   twitter: "https://twitter.com/YunziWang/"
