@@ -6,8 +6,15 @@
     <description>Recent content in 博客 on 长街短梦</description>
     <generator>Hugo 0.125.1</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 15 Apr 2024 16:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 14:46:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/categories/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>git日常错误</title>
+      <link>//localhost:1313/notion/120/</link>
+      <pubDate>Sat, 27 Apr 2024 14:46:00 +0000</pubDate>
+      <guid>//localhost:1313/notion/120/</guid>
+      <description>看这个情况上网搜了一下应该是代理问题，Google 了一下有几个解决方案。 我的解决方案是删掉关于代理的代码： 终端输入~/.ssh/config 打开代理代码页面，我的是这样的： 注释掉下面的代码。 由于只删掉</description>
+    </item>
     <item>
       <title>docker项目记录</title>
       <link>//localhost:1313/posts/113/</link>

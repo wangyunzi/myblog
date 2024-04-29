@@ -588,7 +588,7 @@ hr {
 
 
 .markdown img {
-  max-width: 90%;
+  max-width: 100%;
   height: auto;
 }
 
@@ -668,6 +668,10 @@ a.back_to_top:hover span {
   }
   .back_to_top {
     display: none !important;
+  }
+  .markdown img {
+    max-width: 100%;
+    height: auto;
   }
 }
 
