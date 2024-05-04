@@ -29,9 +29,10 @@
     <meta name="keywords" content="{{ range $index, $element := .Site.Params.keywords }}{{ $element | safeHTML }}{{ if ne $index $length }}, {{ end }}{{ end }}" />
     {{ end }}
 
-	{{ with .OutputFormats.Get "rss" }}
-	{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+	{{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
     {{ end }}
+
 
     <link rel="shortcut icon" href="{{ "images/favicon.ico" | absURL }}" />
 
