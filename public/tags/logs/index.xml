@@ -4,7 +4,7 @@
     <title>Logs on 长街短梦</title>
     <link>//localhost:1313/tags/logs/</link>
     <description>Recent content in Logs on 长街短梦</description>
-    <generator>Hugo 0.125.1</generator>
+    <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 13 Nov 2022 11:30:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/logs/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,22 @@
       <link>//localhost:1313/posts/commands/</link>
       <pubDate>Sun, 13 Nov 2022 11:30:00 +0000</pubDate>
       <guid>//localhost:1313/posts/commands/</guid>
-      <description>mangodb的twikoo评论数据上传和下载 下载数据命令 mongoexport --uri mongodb+srv://xxx:xxx@cluster0.z5rsya3.mongodb.net/ --collection comment --type json --out twikoo-comments.json 上传数据命令 mongoimport --uri mongodb+srv://xxx:xxx@cluster0.z5rsya3.mongodb.net/test --collection comment --type json --file twikoo-comments.json --mode upsert 说明： 第一个xxx：数据名称 第二个xxx：密码 test是指mangodb数据库的名称 git</description>
+      <description>&lt;h4 id=&#34;mangodb的twikoo评论数据上传和下载&#34;&gt;mangodb的twikoo评论数据上传和下载&lt;/h4&gt;
+&lt;p&gt;下载数据命令&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; mongoexport --uri mongodb+srv://xxx:xxx@cluster0.z5rsya3.mongodb.net/ --collection comment --type json --out twikoo-comments.json
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;上传数据命令&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; mongoimport --uri mongodb+srv://xxx:xxx@cluster0.z5rsya3.mongodb.net/test --collection comment --type json --file twikoo-comments.json --mode upsert
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;说明：&lt;/p&gt;
+&lt;p&gt;第一个xxx：数据名称&lt;/p&gt;
+&lt;p&gt;第二个xxx：密码&lt;/p&gt;
+&lt;p&gt;test是指mangodb数据库的名称&lt;/p&gt;
+&lt;h4 id=&#34;git命令&#34;&gt;git命令&lt;/h4&gt;
+&lt;p&gt;写文章常用git&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &amp;#34;first commit&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch -M master
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -u origin master
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

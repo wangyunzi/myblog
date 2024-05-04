@@ -4,7 +4,7 @@
     <title>记录 on 长街短梦</title>
     <link>//localhost:1313/tags/%E8%AE%B0%E5%BD%95/</link>
     <description>Recent content in 记录 on 长街短梦</description>
-    <generator>Hugo 0.125.1</generator>
+    <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 19 Mar 2023 18:04:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/%E8%AE%B0%E5%BD%95/index.xml" rel="self" type="application/rss+xml" />
@@ -13,21 +13,302 @@
       <link>//localhost:1313/posts/47/</link>
       <pubDate>Sun, 19 Mar 2023 18:04:00 +0000</pubDate>
       <guid>//localhost:1313/posts/47/</guid>
-      <description>我又又又又又换主题啦，这个主题是西瓜撞地球这位仁兄推荐的，当时第一眼就喜欢上了，但是这个主题年久失修，作者最后一次提交依然停留在四年前，当时对于hexo主题的结构又不太熟悉，还不知道怎么改动，中途还小</description>
+      <description>&lt;p&gt;我&lt;strong&gt;又又又又又&lt;/strong&gt;换主题啦，这个主题是&lt;a href=&#34;https://www.bio-w.cn/&#34;&gt;西瓜撞地球&lt;/a&gt;这位仁兄推荐的，当时第一眼就喜欢上了，但是这个主题年久失修，作者最后一次提交依然停留在四年前，当时对于hexo主题的结构又不太熟悉，还不知道怎么改动，中途还小小的换过一次，但是其他方面不满意就放弃了，前几天忙的团团转，这几天想休息就想着把这个博客主题研究研究，于是终于还是有点眉目，从周二开始琢磨，到这个周末，刚好一个周的时间，上网搜了很多的教程，终于进入到尾声，其实昨天晚上我还在想，要不就算了，但是还不甘心，毕竟花费了这几天的时间，搞得我生活作息都不规律了。我也不知道为什么一眼就看中了这个主题，直到前几天有个朋友留言说“这个主题看起来很文艺”，我才恍然明白，原来我一直都是钟爱这类偏文艺风的风格。但是不知道这个主题还能坚持多久，想当初信誓旦旦的说自己再也不换主题，现在感觉还是把话说太满，现在只能祈祷与下一个怦然心动的主题相遇的时间晚一点，但这种可能性比较大，大部分的hexo博客主题和hugo博客主题我几乎都浏览完毕了，就遇见这几款中意的。&lt;/p&gt;
+&lt;p&gt;这个主题的改造相较还是比较简单的，我发现我写到一半的文章又开始去改动博客设置了，过程中遇到的很多问题我都不会，比如移动端适配，到现在我也不知道我的朋友圈页面怎么适配移动端，等到我哪天灵魂开窍了再说，以及我几天一直在找文章想弄明白GitHub action是怎么回事，发现看懂了，但是自己写一个代码还是不会，所以还是“借鉴”了其他人的代码，弄明白GitHub action的最终目的是想和obsidian连动起来，但是最终还是有一些缺陷，比如为什么obsidian每次使用obsidian-git插件上传改动到仓库的时候都会显示&lt;code&gt;No changes to push&lt;/code&gt;，也就是我的改动上传不了GitHub，但是从新关闭再打开仓库上传一次就成功了，如此循环往复，难道这就是我追求的丝滑写博客流程，绝对不是，但我还没找到问题在哪，所以想借用另外一个obsidian插件shell command，大概初步设想是利用shell command运行&lt;code&gt;.\hexo.sh&lt;/code&gt;，实现一键上传博客，再为shell command设置一个快捷键，这样在obsidian写好文章，然后点击快捷键的就可以了,可惜的是我还没实现，很好，到这篇博客写完也没弄好。&lt;/p&gt;
+&lt;p&gt;根据上面，目前剩下的问题有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;del&gt;朋友圈移动端适配&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;友链页面朋友圈适配&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;hexo+obsidian+GitHub写作工作流程&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;obsidian-git插件偶尔会失效&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;meta栏的爱心点击数据和热度显示已经失效不知道怎么回事。&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;后续，发现一个问题，hexo-deployer-heroku这个插件好像最近有点问题，导致我使用obsidian git出现问题，当我删掉根目录下&lt;code&gt;.deploy_git&lt;/code&gt;这个文件后，obsidian-git就恢复了正常，于是我决定卸载这个插件，我估计前几次我执行GitHub action失败也有这个插件的问题。一个小问题就是我在obsidian里面改动一个小标点的时候它竟然提交不上去，气死我了。以及显示这&lt;code&gt;Aborting commit due to empty commit message&lt;/code&gt;是啥意思啊,真的状况百出。&lt;/p&gt;
+&lt;h4 id=&#34;更新--2023年03月20---118&#34;&gt;更新  2023年03月20   1:18&lt;/h4&gt;
+&lt;p&gt;meta栏爱心和热度显示不正确的原因找到：原来是必须使用国内版的leancloud才可以，并且必须是备案的。&lt;/p&gt;
+&lt;h4 id=&#34;更新-2023年03月20日--11点&#34;&gt;更新 2023年03月20日  11点&lt;/h4&gt;
+&lt;p&gt;朋友圈移动端适配解决。&lt;/p&gt;
+&lt;h4 id=&#34;更新-2023年03月20日--1239&#34;&gt;更新 2023年03月20日  12:39&lt;/h4&gt;
+&lt;p&gt;友链页面朋友圈适配解决&lt;/p&gt;
+&lt;h4 id=&#34;更新-2023年03月22日--1345&#34;&gt;更新 2023年03月22日  13:45&lt;/h4&gt;
+&lt;p&gt;安装两个hexo博客速度优化的插件：&lt;/p&gt;
+&lt;h5 id=&#34;1安装资源压缩插件&#34;&gt;1.安装资源压缩插件&lt;/h5&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm install hexo-neat --save
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;在博客目录文件&lt;code&gt;_config&lt;/code&gt;添加如下代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# hexo-neat 压缩
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;neat_enable: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# 压缩html
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;neat_html:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  enable: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  exclude:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# 压缩css  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;neat_css:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  enable: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  exclude:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    - &amp;#39;**/*.min.css&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# 压缩js
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;neat_js:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  enable: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  mangle: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  output:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  compress:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  exclude:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    - &amp;#39;**/*.min.js&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    - &amp;#39;**/jquery.fancybox.pack.js&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    - &amp;#39;**/index.js&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这个插件虽然能压缩资源，在hexo-g的时候压缩，随着文章数量多了之后就会压缩加载很多，导致hexo-g的时间变长。&lt;/p&gt;
+&lt;h5 id=&#34;2安装图片懒加载插件&#34;&gt;2.安装图片懒加载插件&lt;/h5&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;npm&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;install&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;hexo&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lazyload&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;image&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;save&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;在博客目录文件&lt;code&gt;_config&lt;/code&gt;添加如下代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 图片懒加载&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;lazyload&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;bp&#34;&gt;true&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;onlypost&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;bp&#34;&gt;true&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;loadingImg&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;images&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;loading&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gif&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#如果不填写图片则使用默认的图片&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;因为我有相册页面，如果不只加载文章页面的话就会出现相册页面的图片加载不出来的现象，于是将&lt;code&gt;onlypost&lt;/code&gt;设置为true。&lt;/p&gt;
+&lt;h5 id=&#34;3安装代码突出插件&#34;&gt;3.安装代码突出插件&lt;/h5&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm i -S hexo-prism-plugin
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;设置如下：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;highlight:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  enable: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  line_number: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  auto_detect: false
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  tab_replace: &amp;#39;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  wrap: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  hljs: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prismjs:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  enable: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  preprocess: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  line_number: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  tab_replace: &amp;#39;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h5 id=&#34;4安装发布字数统计插件&#34;&gt;4.安装发布字数统计插件&lt;/h5&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm i --save hexo-wordcount
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;设置如下：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;postInfo:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  date: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  update: false
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  wordCount: false # set true.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  totalCount: false # set true.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  min2read: false # set true.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  readCount: false # set true.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h5 id=&#34;5安装rss-feed插件&#34;&gt;5.安装RSS feed插件&lt;/h5&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm install hexo-generator-feed --save
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;feed:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  type: atom
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  path: atom.xml
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  limit: 20
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  hub:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  content:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  content_limit: 140
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  content_limit_delim: &amp;#39; &amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  order_by: -date
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h5 id=&#34;6安装豆瓣插件&#34;&gt;6.安装豆瓣插件&lt;/h5&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm install hexo-douban --save
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;douban:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  id: 162448367
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  builtin: false
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  item_per_page: 10
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  meta_max_line: 4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  book:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    path: books/index.html
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    title: &amp;#39;This is my book title&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    quote: &amp;#39;This is my book quote&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    option:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  movie:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    path: movies/index.html
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    title: &amp;#39;This is my movie title&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    quote: &amp;#39;This is my movie quote&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    option:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  game:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    path: games/index.html
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    title: &amp;#39;This is my game title&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    quote: &amp;#39;This is my game quote&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    option:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  song:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    path: songs/index.html
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    title: &amp;#39;This is my song title&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    quote: &amp;#39;This is my song quote&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    option:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  timeout: 10000 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;更新-2023年03月22日--1412&#34;&gt;更新 2023年03月22日  14:12&lt;/h4&gt;
+&lt;p&gt;询问chatgpt4“如何将obsidian和hexo联动”，得到的答案令我感到满意，回答如下：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1.  使用Obsidian插件obsidian-git和Hexo插件hexo-deployer-git进行联动。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    首先，在Obsidian中使用obsidian-git插件将笔记同步到GitHub上，然后在Hexo的博客目录中使用hexo-deployer-git插件将GitHub上的笔记同步到静态网站中。这将确保Obsidian和Hexo之间的内容同步。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2.  使用Hexo插件hexo-generator-obsidian和Obsidian插件Dataview进行联动。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    hexo-generator-obsidian是一个Hexo插件，它将Obsidian笔记转换为Markdown文件，并将其添加到Hexo博客中。Dataview是一个Obsidian插件，它可以在Obsidian中使用SQL查询语言搜索和过滤笔记。通过将这两个插件结合起来，可以在Hexo博客中使用Dataview的查询语言搜索和过滤笔记。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;3.  使用Hexo主题Vault和Obsidian插件Vault进行联动。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Vault是一个Hexo主题，它专门设计用于与Obsidian一起使用。它可以从Obsidian中导入笔记，并将它们作为静态页面添加到Hexo博客中。Vault还支持Obsidian插件Vault，该插件可以在Obsidian中添加元数据，例如标签和别名。这些元数据可以在Vault主题中使用，以便在Hexo博客中更好地组织和呈现笔记。
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;注意：我发现&lt;code&gt;hexo-generator-obsidian&lt;/code&gt;根本不存在，只有一个hexo主题叫obsidian，所以谨慎使用。&lt;/p&gt;
+&lt;h4 id=&#34;更新-2023年03月22日-1517&#34;&gt;更新 2023年03月22日 15:17&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;出现一个bug&lt;/strong&gt;
+&lt;sub&gt;Pushing to github.com:wangyunzi/Annie.git kex_exchange_identification:Connection closed by remote host
+Connection closed by UNKNOWN port 65535
+fatal:Could not read from remote repository. Please make sure you have the correct access rights
+and the repository exists.
+&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;在重新git push 的时候出现这样的提示，在另外一个系统也遇到过这样的错误提示，当时解决了但没记录下来，这次想着记录下来&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;解决方案&lt;/strong&gt;
+将下列代码添加至 &lt;code&gt;~/.ssh/config&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Host github.com
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; Hostname ssh.github.com
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; Port 443
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;更新--2023年03年30日&#34;&gt;更新  2023年03年30日&lt;/h4&gt;
+&lt;p&gt;遇到这样的问题不知道怎么解决：
+&lt;img src=&#34;https://blog.wangyunzi.com/2023/03/30/1680186630.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;参考文章&#34;&gt;参考文章&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Sariay/hexo-theme-Annie&#34;&gt;Annie theme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sariay.github.io/2018/09/25/Annie%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/&#34;&gt;Annie主题更新日志&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sariay.github.io/2018/08/27/Annie%E4%B8%BB%E9%A2%98%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/&#34;&gt;Annie主题使用说明&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://yulinzhong.xyz/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/Github-Hexo-Annie%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/&#34;&gt;Github+Hexo+Annie博客搭建&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shaogui.life/2022/01/05/Hexo%E5%8D%9A%E5%AE%A2%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96/&#34;&gt;Hexo博客速度优化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://livejq.github.io/2019/optimize-hexo-blog.html&#34;&gt;HEXO博客的优化问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hexo.io/plugins/&#34;&gt;hexo插件合集&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.tencent.com/developer/article/2214749?areaSource=&amp;amp;traceId=&#34;&gt;【工具】用AI辅助论文/博客的写作：Obsidian+Text Generator的详细安装教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wtqdreamer.top/2020/05/24/hexo-chang-yong-an-zhuang-cha-jian/&#34;&gt;hexo常用安装插件&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/65059250/ssh-and-scp-failed-with-createprocessw-failed-error2-posix-spawn-no-such-file&#34;&gt;解决方案来源&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     <item>
       <title>一周三餐记录</title>
       <link>//localhost:1313/posts/42/</link>
       <pubDate>Sun, 26 Feb 2023 11:44:00 +0000</pubDate>
       <guid>//localhost:1313/posts/42/</guid>
-      <description>算作对这篇文章这些日子我都干了什么的填坑吧！记录自己一周的三餐（大部分在食堂），准确来说是两餐，不太爱吃早餐。 2023/02/20 周一 早餐：一个茶叶蛋、一个肉包 晚餐：麻辣烫 2023/02/21 周二 早餐：一个肉包、一个茶叶蛋 午餐：蛋羹和莴</description>
+      <description>&lt;p&gt;算作对这篇文章&lt;a href=&#34;https://wangyunzi.com/posts/34/&#34;&gt;这些日子我都干了什么&lt;/a&gt;的填坑吧！记录自己一周的三餐（大部分在食堂），准确来说是两餐，不太爱吃早餐。&lt;/p&gt;
+&lt;h4 id=&#34;20230220-周一&#34;&gt;2023/02/20 周一&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;早餐：一个茶叶蛋、一个肉包&lt;/li&gt;
+&lt;li&gt;晚餐：麻辣烫&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;20230221-周二&#34;&gt;2023/02/21 周二&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;早餐：一个肉包、一个茶叶蛋&lt;/li&gt;
+&lt;li&gt;午餐：蛋羹和莴笋&lt;/li&gt;
+&lt;li&gt;晚餐：炒河粉&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;20230222-周三&#34;&gt;2023/02/22 周三&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;午餐：土豆丝和水煮肉片&lt;/li&gt;
+&lt;li&gt;晚餐：牛柳和茄子&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;20230223-周四&#34;&gt;2023/02/23 周四&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;午餐：土豆丝和牛柳&lt;/li&gt;
+&lt;li&gt;晚餐：肥肠面加蛋&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;20230223-周五&#34;&gt;2023/02/23 周五&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;午餐：牛柳和土豆片&lt;/li&gt;
+&lt;li&gt;晚餐：番茄蛋包饭和土豆泥&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;像杭州这样的稍微高消费城市来说，我觉得学校食堂的餐费真的是良心价了，如果每个都在食堂消费，就能节省下不少伙食费。但对于一个在云贵川长大的孩子，俺认为杭州也算作名副其实的”美食沙漠“，哈哈哈。&lt;/p&gt;
+&lt;p&gt;哦，对了，这个周最佳应该是土豆丝和牛柳，真的超级好吃，强烈推荐！！&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>先秦文化最后一堂课</title>
       <link>//localhost:1313/posts/24/</link>
       <pubDate>Thu, 03 Nov 2022 15:44:00 +0000</pubDate>
       <guid>//localhost:1313/posts/24/</guid>
-      <description>白马非马 [原文] “白马非马”，可乎？ 曰：可。 曰：何哉？ 曰：马者，所以命形也；白者，所以命色也。命色者非命形也。故曰：“白马非马”。 曰：有白马，不可谓无马也。不可谓无马者，非马也？有白马为有马，白之，非</description>
+      <description>&lt;h4 id=&#34;白马非马&#34;&gt;白马非马&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;[原文]&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“白马非马”，可乎？&lt;/p&gt;
+&lt;p&gt;曰：可。&lt;/p&gt;
+&lt;p&gt;曰：何哉？&lt;/p&gt;
+&lt;p&gt;曰：马者，所以命形也；白者，所以命色也。命色者非命形也。故曰：“白马非马”。&lt;/p&gt;
+&lt;p&gt;曰：有白马，不可谓无马也。不可谓无马者，非马也？有白马为有马，白之，非马何也？&lt;/p&gt;
+&lt;p&gt;曰：求马，黄、黑马皆可致；求白马，黄、黑马不可致。使白马乃马也，是所求一也。所求一者，白马&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;不异马也；所求不异，如黄、黑马有可有不可，何也？可与不可，其相非明。故黄、黑马一也，而可以应有马，而不可以应有白马。是白马之非马，审矣！&lt;/p&gt;
+&lt;p&gt;曰：以马之有色为非马，天下非有无色之马也。天下无马可乎？&lt;/p&gt;
+&lt;p&gt;曰：马固有色，故有白马。使马无色，有马如已耳，安取白马？故白者非马也。白马者，马与白也；马与白马也，故曰：白马非马也。&lt;/p&gt;
+&lt;p&gt;曰：马未与白为马，白未与马为白。合马与白，复名白马。是相与以不相与为名，未可。故曰：白马非马未可。&lt;/p&gt;
+&lt;p&gt;曰：以“有白马为有马”，谓有白马为有黄马，可乎？&lt;/p&gt;
+&lt;p&gt;曰：未可。&lt;/p&gt;
+&lt;p&gt;曰：以有马为异有黄马，是异黄马于马也；异黄马于马，是以黄马为非马。以黄马为非马，而以白马为有马，此飞者入池而棺椁异处，此天下之悖言乱辞也。&lt;/p&gt;
+&lt;p&gt;曰：有白马，不可谓无马者，离白之谓也。不&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;离者有白马不可谓有马也。故所以为有马者，独以马为有马耳，非有白马为有马。故其为有马也，不可以谓马马也。&lt;/p&gt;
+&lt;p&gt;曰：白者不定所白，忘之而可也。白马者，言白定所白也。定所白者，非白也。马者，无去取于色，故黄、黑皆所以应。白马者，有去取于色，黄、黑马皆所以色去，故唯白马独可以应耳。无去者非有去也；故曰：“白马非马”。&lt;/p&gt;
+&lt;p&gt;出自《公孙龙子·白马论》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;白马非马是一个什么问题？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;《公孙龙白马论中的指称问题》——任远 刘玉宇&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当代中国学者对“白马非马”的评论有三个重点：&lt;/p&gt;
+&lt;p&gt;其一是从逻辑学的角 度，侧重放在“非”字的解释上，指出公孙龙与客方之间存在着“全异”和“有异”、“等 同”与“属于”的误解。根据这种解释，“白马非马”所表达的论题是“白马类有异于马类” （换言之，所谓“白马”和“马”的外延不同）。&lt;/p&gt;
+&lt;p&gt;其二是从柏拉图实在论的角度，指出公孙龙已经阐明了个体和共相的差别，“马性”和“白性”的剥离体现了先秦思想家抽象把握世界的能力，由此建构出关于中国古代哲学的形上学论断。根据这种解释，“白马非马”所表达的论题是，“白马”所代表的共相不同于“马”所代表的共相（换言之，所谓“白马”和 “马”的内涵不同）。&lt;/p&gt;
+&lt;p&gt;其三是从符号学的角度，强调“白马非马”论题涉及的既非关乎实在的事实论断，也非关乎思维的抽象论断，而是面向语言本身的一个论题。根据这种解释， “白马非马”论题表达的是符号“白马”不同于符号“马”。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;有的人认为“白马非马”实则是一种诡辩，试图扰乱人们原有的认知和框架。如同一个人不能踏入同一条河流、昨日之我非今日之我。上面一段摘抄试图从逻辑的角度解释，“非”在逻辑命名符号中表示否定逻辑，白马非马可以解释为“p非q”，p是如何不等同与q的是我们值得探究的一个问题。或者说“马”只是一个符号，但是公孙龙则认为“白马”是物质、实体的，“白马”又是如何从“马”这个抽象中抽离出来的呢？&lt;/p&gt;
+&lt;h4 id=&#34;天下万物生于有---有生于无&#34;&gt;天下万物生于有   有生于无&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;[原文]&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;反者&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;道之动，弱者&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;道之用。天下万物生于有&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;，有生于无&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;出自《道德经》第40章&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;[译文]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;循环往复的运动变化，是道的运动，道的作用是微妙、柔弱的。天下的万物产生于看得见的有形质，有形质又产生于不可见的无形质。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“无”是指什么？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一般来说，无是指虚无、没有，天地万物生于混沌之中，“无”是最开始、原始的状态。在《道德经》中第一篇老子已经表明了“无”是什么，“道可道也，非恒道也。名可名也，非恒名也。无名，万物之始也；有名，万物之母也。故恒无欲也，以观其眇；恒有欲也，以观其所徼。两者同出，异名同谓。玄之又玄，众眇之门”。&lt;/p&gt;
+&lt;h4 id=&#34;有用之用&#34;&gt;有用之用&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;[原文]&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;庄子行于山中,见大木&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;,枝叶盛茂。伐木者止其旁而不取也。问其故,曰:“无所可用。”庄子曰:“此木以不材&lt;sup id=&#34;fnref:8&#34;&gt;&lt;a href=&#34;#fn:8&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;得终其天年&lt;sup id=&#34;fnref:9&#34;&gt;&lt;a href=&#34;#fn:9&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;9&lt;/a&gt;&lt;/sup&gt;。”&lt;/p&gt;
+&lt;p&gt;夫子出于山,舍于故人之家。故人喜,命竖子&lt;sup id=&#34;fnref:10&#34;&gt;&lt;a href=&#34;#fn:10&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;10&lt;/a&gt;&lt;/sup&gt;杀雁&lt;sup id=&#34;fnref:11&#34;&gt;&lt;a href=&#34;#fn:11&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;11&lt;/a&gt;&lt;/sup&gt;而烹之。竖子请曰:“其一能鸣,其一不能鸣,请奚杀?”主人曰:“杀不能鸣者。”明日,弟子问于庄子曰:“昨日山中之木,以不材得终其天年;今主人之雁,以不材死。先生将何处?”庄子笑曰:“周将处乎材与不材之间。”&lt;/p&gt;
+&lt;p&gt;出自《庄子·山木》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“人皆知有用之用，而莫知无用之用也。”&lt;/p&gt;
+&lt;p&gt;出自《庄子·人间世》篇末&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;如何理解有用？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;有用无用只是相对与个体而言，一棵参天大树，对于伐木工来说是有用的，但是对于不需要他的人就是无用的。一个人想要成为栋梁之材、有用之人，“有用”是相对于谁来说才是真正做到“有用”，国家、社会还是人民。于我有用当用，相反，于我无弃之。这是一种功利之心。&lt;/p&gt;
+&lt;hr&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;马 : 原作“者”。从《百子全书》本改。&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;不 : 或作“是”。《百子全书》本“不”作“是”。&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;反者：循环往复。一说意为相反，对立面。&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;弱者：柔弱、渺小。&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;有：这里指道的有形质，与一章中“有名万物之母的”的有“相同。但不是有无相生的“有”字。&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34;&gt;
+&lt;p&gt;无：与一章中的“无名天地之始”的“无”相同。但不同于“有无相生”的“无”。此处的“无”指超现实世界的形上之道。&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34;&gt;
+&lt;p&gt;木：树。&amp;#160;&lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34;&gt;
+&lt;p&gt;不材：没有用处。&amp;#160;&lt;a href=&#34;#fnref:8&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:9&#34;&gt;
+&lt;p&gt;天年：自然寿命。&amp;#160;&lt;a href=&#34;#fnref:9&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:10&#34;&gt;
+&lt;p&gt;竖子：小子,家童。&amp;#160;&lt;a href=&#34;#fnref:10&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:11&#34;&gt;
+&lt;p&gt;雁：古代有雁报晓的说法。&amp;#160;&lt;a href=&#34;#fnref:11&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
   </channel>
 </rss>

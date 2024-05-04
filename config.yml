@@ -51,7 +51,6 @@ menu:
 params:
   author:
   name: 王云子
-  fancybox: true
   subTitle: 此行山高路远，我只剩口袋玫瑰一片
   footerSlogan: My spiritual home
   keywords:
@@ -65,8 +64,6 @@ params:
     - posts
     - post
     - notion
-  enableCaption: true
-  captionPrefix: "Caption: "
 social:
   github: "https://github.com/wangyunzi/"
   twitter: "https://twitter.com/YunziWang/"
@@ -77,14 +74,3 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-    renderHooks:
-      link:
-        enableDefault: true
-
-outputFormats:
-  RSS:
-    baseName: "index"
-    mediaType: "application/rss"
-    isPlainText: true
-    notAlternative: true
-    permalink: "/index.xml"

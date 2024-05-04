@@ -1,4 +1,0 @@
-{{- $image := .Page.Resources.GetMatch (printf "%s" .Destination ) -}}
-{{- with $image -}}
-<img src="{{ $image.RelPermalink }}" alt="{{ $.Text }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
-{{ end }}

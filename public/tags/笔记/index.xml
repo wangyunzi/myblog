@@ -4,7 +4,7 @@
     <title>笔记 on 长街短梦</title>
     <link>//localhost:1313/tags/%E7%AC%94%E8%AE%B0/</link>
     <description>Recent content in 笔记 on 长街短梦</description>
-    <generator>Hugo 0.125.1</generator>
+    <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 24 May 2023 10:52:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
@@ -13,21 +13,125 @@
       <link>//localhost:1313/posts/71/</link>
       <pubDate>Wed, 24 May 2023 10:52:00 +0000</pubDate>
       <guid>//localhost:1313/posts/71/</guid>
-      <description>前面每天折腾了那么多笔记软件，结果现在还是觉得 word 是最好的，配合着 onedrive 同步或备份，在电脑上记笔记毫无压力。但是发现一个小 bug，因为一直开着代理，onedrive 同步其实超级废流量，平时一天一个 G 都用不到</description>
+      <description>&lt;p&gt;前面每天折腾了那么多笔记软件，结果现在还是觉得 word 是最好的，配合着 onedrive 同步或备份，在电脑上记笔记毫无压力。但是发现一个小 bug，因为一直开着代理，onedrive 同步其实超级废流量，平时一天一个 G 都用不到，结果那天因为同步了几个较大的文档，结果流量飙升到 6 个多 G，我还理直气壮的去问官方说为啥我前面的流量都显示正常，结果突然用这么多，真是闹笑话了。
+比较尴尬的是因为好久没有使用 word，发现一些最基础的使用功能都忘得差不多了，比如创建目录、页眉设置等，还要慢慢网上搜索，想着我的一个同学一直都是用 word 记笔记而且只坚持用 word，我突然觉得她很聪明，用最朴素的工具才能发挥最大的创造力，况且 word 的编辑能力并不差。最关键的还是因为自己的学科属性，如果用 word 的话方便打印出来浏览，即使在电子浏览如此便利盛行的时代，我依然还是喜欢纸质阅读，似乎那样才会深刻记忆。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>爆炸吧，思源</title>
       <link>//localhost:1313/posts/30-1/</link>
       <pubDate>Tue, 15 Nov 2022 17:02:00 +0000</pubDate>
       <guid>//localhost:1313/posts/30-1/</guid>
-      <description>今天来给大家小小的吐槽一下思源吧，以下内容均属于深度使用笔记软件后个人主观感受，并不存在对于思源笔记抹黑、造谣等行为。 前面我一直强烈推荐用思源，现在我觉得我打脸了，打得生疼，思源笔记同步真让人一言难尽</description>
+      <description>&lt;p&gt;今天来给大家小小的吐槽一下思源吧，以下内容均属于深度使用笔记软件后个人主观感受，并不存在对于思源笔记抹黑、造谣等行为。&lt;/p&gt;
+&lt;p&gt;前面我一直强烈推荐用思源，现在我觉得我打脸了，打得生疼，思源笔记同步真让人一言难尽(会员才能用官方同步)，而且思源更新频率很快，这个更新不是指升级变得更好，虽然我也不知道为什么，但是事实就是每次更新都会出现一堆小bugs，连最基本的文字编辑都不能保障了，实在感到痛心，作为一个如此优秀的笔记软件。而让我感到难过的是思源社区，当你遇到问题想要寻求帮助的时候，里面的人并不是首先不是解决问题，而是先吐槽你为什么不会用这个软件，然后就会说，你看，我也没有这个bug，当我说自己已经拥有众多笔记文件难以从思源迁出的时候，一种声音刺痛了我，都是垃圾文件，此时我无言以对并带着一丝愤怒，当我觉得一个软件失去它该有的性质而成为一群人洋洋自得、高高在上的工具的时候，我突然意识到，我好像并不该用这个软件，或许我的初心和这里是相悖的。我很难过，我在这个软件上面花费了很多的心思，几乎所有的笔记都寄托在这个软件上面，这是因为我相信这个软件既能帮我提高学习上的效率，又能让我愉快的记笔记。我的需求其实很简单，在思源里面都能找到，但是好像也不能找到了。&lt;/p&gt;
+&lt;p&gt;接下来应该还会继续使用思源笔记的，已经熟悉了它的写作模式和流程，因为最近大大小小的考试临近，真的不想再花多余的心思去适应别的软件了，加上前几天才购入官方会员，所以一年之类的话还是会继续使用，毕竟由于思源笔记的文件格式不是传统的md文件，导致我现在不知道如何处理这堆文件。&lt;/p&gt;
+&lt;p&gt;为什么会有这篇吐槽文章还要感谢思源的同步bug，写了一下午的课堂笔记，最后电脑在图书馆没电了，我们可爱的图书馆以前到处都是插座，可能前不久为了符合国家消防安全的规定，把很多插座都封了，所以经常会看到一些个别朋友抱着电脑在图书馆找插座的场景，下午我找不到插座，只能先用ipad接着写我下午没写完的笔记，结果就是根本没给我同步过来，我真的慌了，浪费时间等于慢性自杀啊，没有电脑，ipad也不能继续编辑，不知道自己写到哪里了，也不能接着写，弄了几个小时到处去找方法和询问，都没解决掉这个麻烦，所以用自己的手机写下了这篇文章。加上我中午没午休，整个脑袋像炸了一样，所以火气一下子就窜上来了。&lt;/p&gt;
+&lt;p&gt;如果有人知道其他好用的可以同步的软件的话也可以向我推荐一下，先谢谢诸位朋友同仁啦。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;后来补充内容：&lt;/p&gt;
+&lt;p&gt;谈一谈我心目中的软件吧。&lt;/p&gt;
+&lt;p&gt;当我刚开始接触obsidian软件的时候，被这个软件强大的可自定义功能深深吸引了，和很多的朋友一样，我们到处去找各种装饰、设置笔记软件的教程，只是为了让我的笔记软件更美观和高级一些，毫不夸张的说，我在折腾obsidian的一年中熬了多少个日与夜，白天上课，晚上就开始折腾，笔记没写多少，倒是折腾到最后别人来向我寻求帮助。后来也看来几篇关于这方面的文章，我发现自己错得离谱，简直就是本末倒置，一个笔记软件不好好用来写东西，作为一个不是计算机人员却到处瞎折腾，闲置自己的本业，实在滑天下之大稽。&lt;/p&gt;
+&lt;p&gt;后来接触思源，我发现这个软件既符合我的审美要求，包括一些小小的功能也深合我意，比如一键剪藏网页文章、保存微信文章以及微信提醒功能，这都是我所需要的并且重度使用的功能，像我们这个专业经常上网搜索一堆案例和条文，然后剪藏下来慢慢分析，无疑思源提高了我的学习效率，最关键的是我不用像obsidian那样去折腾插件之类，直接写笔记就可以了，最终还是我头疼的同步，电脑没电的情况时常在我这种不在寝室学习的人身上发生，我有两台设备，当然需要同步持续支持。&lt;/p&gt;
+&lt;p&gt;后来的我始终记住：工具始终只是工具，不必花费太多心思在工具本身（当然如果喜欢折腾并且感兴趣人的除外），真正要做的还是用工具实现自己的目的，追求效率和内容才是我真正的想要的。&lt;/p&gt;
+&lt;p&gt;好了，结束吧。我的头快要爆炸了！！&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>先秦文化最后一堂课</title>
       <link>//localhost:1313/posts/24/</link>
       <pubDate>Thu, 03 Nov 2022 15:44:00 +0000</pubDate>
       <guid>//localhost:1313/posts/24/</guid>
-      <description>白马非马 [原文] “白马非马”，可乎？ 曰：可。 曰：何哉？ 曰：马者，所以命形也；白者，所以命色也。命色者非命形也。故曰：“白马非马”。 曰：有白马，不可谓无马也。不可谓无马者，非马也？有白马为有马，白之，非</description>
+      <description>&lt;h4 id=&#34;白马非马&#34;&gt;白马非马&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;[原文]&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“白马非马”，可乎？&lt;/p&gt;
+&lt;p&gt;曰：可。&lt;/p&gt;
+&lt;p&gt;曰：何哉？&lt;/p&gt;
+&lt;p&gt;曰：马者，所以命形也；白者，所以命色也。命色者非命形也。故曰：“白马非马”。&lt;/p&gt;
+&lt;p&gt;曰：有白马，不可谓无马也。不可谓无马者，非马也？有白马为有马，白之，非马何也？&lt;/p&gt;
+&lt;p&gt;曰：求马，黄、黑马皆可致；求白马，黄、黑马不可致。使白马乃马也，是所求一也。所求一者，白马&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;不异马也；所求不异，如黄、黑马有可有不可，何也？可与不可，其相非明。故黄、黑马一也，而可以应有马，而不可以应有白马。是白马之非马，审矣！&lt;/p&gt;
+&lt;p&gt;曰：以马之有色为非马，天下非有无色之马也。天下无马可乎？&lt;/p&gt;
+&lt;p&gt;曰：马固有色，故有白马。使马无色，有马如已耳，安取白马？故白者非马也。白马者，马与白也；马与白马也，故曰：白马非马也。&lt;/p&gt;
+&lt;p&gt;曰：马未与白为马，白未与马为白。合马与白，复名白马。是相与以不相与为名，未可。故曰：白马非马未可。&lt;/p&gt;
+&lt;p&gt;曰：以“有白马为有马”，谓有白马为有黄马，可乎？&lt;/p&gt;
+&lt;p&gt;曰：未可。&lt;/p&gt;
+&lt;p&gt;曰：以有马为异有黄马，是异黄马于马也；异黄马于马，是以黄马为非马。以黄马为非马，而以白马为有马，此飞者入池而棺椁异处，此天下之悖言乱辞也。&lt;/p&gt;
+&lt;p&gt;曰：有白马，不可谓无马者，离白之谓也。不&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;离者有白马不可谓有马也。故所以为有马者，独以马为有马耳，非有白马为有马。故其为有马也，不可以谓马马也。&lt;/p&gt;
+&lt;p&gt;曰：白者不定所白，忘之而可也。白马者，言白定所白也。定所白者，非白也。马者，无去取于色，故黄、黑皆所以应。白马者，有去取于色，黄、黑马皆所以色去，故唯白马独可以应耳。无去者非有去也；故曰：“白马非马”。&lt;/p&gt;
+&lt;p&gt;出自《公孙龙子·白马论》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;白马非马是一个什么问题？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;《公孙龙白马论中的指称问题》——任远 刘玉宇&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当代中国学者对“白马非马”的评论有三个重点：&lt;/p&gt;
+&lt;p&gt;其一是从逻辑学的角 度，侧重放在“非”字的解释上，指出公孙龙与客方之间存在着“全异”和“有异”、“等 同”与“属于”的误解。根据这种解释，“白马非马”所表达的论题是“白马类有异于马类” （换言之，所谓“白马”和“马”的外延不同）。&lt;/p&gt;
+&lt;p&gt;其二是从柏拉图实在论的角度，指出公孙龙已经阐明了个体和共相的差别，“马性”和“白性”的剥离体现了先秦思想家抽象把握世界的能力，由此建构出关于中国古代哲学的形上学论断。根据这种解释，“白马非马”所表达的论题是，“白马”所代表的共相不同于“马”所代表的共相（换言之，所谓“白马”和 “马”的内涵不同）。&lt;/p&gt;
+&lt;p&gt;其三是从符号学的角度，强调“白马非马”论题涉及的既非关乎实在的事实论断，也非关乎思维的抽象论断，而是面向语言本身的一个论题。根据这种解释， “白马非马”论题表达的是符号“白马”不同于符号“马”。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;有的人认为“白马非马”实则是一种诡辩，试图扰乱人们原有的认知和框架。如同一个人不能踏入同一条河流、昨日之我非今日之我。上面一段摘抄试图从逻辑的角度解释，“非”在逻辑命名符号中表示否定逻辑，白马非马可以解释为“p非q”，p是如何不等同与q的是我们值得探究的一个问题。或者说“马”只是一个符号，但是公孙龙则认为“白马”是物质、实体的，“白马”又是如何从“马”这个抽象中抽离出来的呢？&lt;/p&gt;
+&lt;h4 id=&#34;天下万物生于有---有生于无&#34;&gt;天下万物生于有   有生于无&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;[原文]&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;反者&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;道之动，弱者&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;道之用。天下万物生于有&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;，有生于无&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;出自《道德经》第40章&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;[译文]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;循环往复的运动变化，是道的运动，道的作用是微妙、柔弱的。天下的万物产生于看得见的有形质，有形质又产生于不可见的无形质。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“无”是指什么？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一般来说，无是指虚无、没有，天地万物生于混沌之中，“无”是最开始、原始的状态。在《道德经》中第一篇老子已经表明了“无”是什么，“道可道也，非恒道也。名可名也，非恒名也。无名，万物之始也；有名，万物之母也。故恒无欲也，以观其眇；恒有欲也，以观其所徼。两者同出，异名同谓。玄之又玄，众眇之门”。&lt;/p&gt;
+&lt;h4 id=&#34;有用之用&#34;&gt;有用之用&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;[原文]&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;庄子行于山中,见大木&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;,枝叶盛茂。伐木者止其旁而不取也。问其故,曰:“无所可用。”庄子曰:“此木以不材&lt;sup id=&#34;fnref:8&#34;&gt;&lt;a href=&#34;#fn:8&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;得终其天年&lt;sup id=&#34;fnref:9&#34;&gt;&lt;a href=&#34;#fn:9&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;9&lt;/a&gt;&lt;/sup&gt;。”&lt;/p&gt;
+&lt;p&gt;夫子出于山,舍于故人之家。故人喜,命竖子&lt;sup id=&#34;fnref:10&#34;&gt;&lt;a href=&#34;#fn:10&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;10&lt;/a&gt;&lt;/sup&gt;杀雁&lt;sup id=&#34;fnref:11&#34;&gt;&lt;a href=&#34;#fn:11&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;11&lt;/a&gt;&lt;/sup&gt;而烹之。竖子请曰:“其一能鸣,其一不能鸣,请奚杀?”主人曰:“杀不能鸣者。”明日,弟子问于庄子曰:“昨日山中之木,以不材得终其天年;今主人之雁,以不材死。先生将何处?”庄子笑曰:“周将处乎材与不材之间。”&lt;/p&gt;
+&lt;p&gt;出自《庄子·山木》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“人皆知有用之用，而莫知无用之用也。”&lt;/p&gt;
+&lt;p&gt;出自《庄子·人间世》篇末&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;如何理解有用？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;有用无用只是相对与个体而言，一棵参天大树，对于伐木工来说是有用的，但是对于不需要他的人就是无用的。一个人想要成为栋梁之材、有用之人，“有用”是相对于谁来说才是真正做到“有用”，国家、社会还是人民。于我有用当用，相反，于我无弃之。这是一种功利之心。&lt;/p&gt;
+&lt;hr&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;马 : 原作“者”。从《百子全书》本改。&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;不 : 或作“是”。《百子全书》本“不”作“是”。&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;反者：循环往复。一说意为相反，对立面。&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;弱者：柔弱、渺小。&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;有：这里指道的有形质，与一章中“有名万物之母的”的有“相同。但不是有无相生的“有”字。&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34;&gt;
+&lt;p&gt;无：与一章中的“无名天地之始”的“无”相同。但不同于“有无相生”的“无”。此处的“无”指超现实世界的形上之道。&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34;&gt;
+&lt;p&gt;木：树。&amp;#160;&lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34;&gt;
+&lt;p&gt;不材：没有用处。&amp;#160;&lt;a href=&#34;#fnref:8&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:9&#34;&gt;
+&lt;p&gt;天年：自然寿命。&amp;#160;&lt;a href=&#34;#fnref:9&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:10&#34;&gt;
+&lt;p&gt;竖子：小子,家童。&amp;#160;&lt;a href=&#34;#fnref:10&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:11&#34;&gt;
+&lt;p&gt;雁：古代有雁报晓的说法。&amp;#160;&lt;a href=&#34;#fnref:11&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
   </channel>
 </rss>

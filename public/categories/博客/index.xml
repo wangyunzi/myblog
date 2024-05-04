@@ -4,7 +4,7 @@
     <title>博客 on 长街短梦</title>
     <link>//localhost:1313/categories/%E5%8D%9A%E5%AE%A2/</link>
     <description>Recent content in 博客 on 长街短梦</description>
-    <generator>Hugo 0.125.1</generator>
+    <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 27 Apr 2024 14:46:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/categories/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
@@ -13,119 +13,1151 @@
       <link>//localhost:1313/notion/120/</link>
       <pubDate>Sat, 27 Apr 2024 14:46:00 +0000</pubDate>
       <guid>//localhost:1313/notion/120/</guid>
-      <description>看这个情况上网搜了一下应该是代理问题，Google 了一下有几个解决方案。 我的解决方案是删掉关于代理的代码： 终端输入~/.ssh/config 打开代理代码页面，我的是这样的： 注释掉下面的代码。 由于只删掉</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://prod-files-secure.s3.us-west-2.amazonaws.com/bd149e3b-0e7a-42b8-baac-792ed17672e5/d7e40c49-9666-42d4-b45d-206f6dd4e209/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;amp;X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240427%2Fus-west-2%2Fs3%2Faws4_request&amp;amp;X-Amz-Date=20240427T144838Z&amp;amp;X-Amz-Expires=3600&amp;amp;X-Amz-Signature=f0be421d5968d9ba6d6d5e1327b4fa5b29086dcb318c206a5f24c47bb45a6adf&amp;amp;X-Amz-SignedHeaders=host&amp;amp;x-id=GetObject&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;看这个情况上网搜了一下应该是代理问题，Google 了一下有几个解决方案。&lt;/p&gt;
+&lt;p&gt;我的解决方案是删掉关于代理的代码：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;终端输入&lt;code&gt;~/.ssh/config&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://prod-files-secure.s3.us-west-2.amazonaws.com/bd149e3b-0e7a-42b8-baac-792ed17672e5/4e87688e-b815-4700-9056-d1f092a343a1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;amp;X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240427%2Fus-west-2%2Fs3%2Faws4_request&amp;amp;X-Amz-Date=20240427T144838Z&amp;amp;X-Amz-Expires=3600&amp;amp;X-Amz-Signature=d86067c9bda6e83ecc1be459e5aac4a7729f1d868860294c4339c9f410c7812e&amp;amp;X-Amz-SignedHeaders=host&amp;amp;x-id=GetObject&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;打开代理代码页面，我的是这样的：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://prod-files-secure.s3.us-west-2.amazonaws.com/bd149e3b-0e7a-42b8-baac-792ed17672e5/77ac57ff-c584-4a16-b270-ad9e509fb12b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;amp;X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240427%2Fus-west-2%2Fs3%2Faws4_request&amp;amp;X-Amz-Date=20240427T144838Z&amp;amp;X-Amz-Expires=3600&amp;amp;X-Amz-Signature=aec5d5937a49c7266893e6e5430f62d4c59a79642ee561be958101cc4a225f06&amp;amp;X-Amz-SignedHeaders=host&amp;amp;x-id=GetObject&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;注释掉下面的代码。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;aside&gt;
+&lt;img class=&#34;emoji&#34; draggable=&#34;false&#34; alt=&#34;⚠️&#34; src=&#34;https://twemoji.maxcdn.com/v/13.1.0/72x72/26a0.png&#34;/&gt;由于只删掉最下面的代码还是显示错误，于是我删掉该文件左右代码，最后结果显示正常。
+&lt;/aside&gt;
+&lt;h3 id=&#34;参考文章&#34;&gt;参考文章&lt;/h3&gt;
+&lt;div style=&#34;margin:5px 1px;&#34;&gt; &lt;a href=&#34;https://github.com/fncheng/Error/issues/1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; style=&#34;display:flex;color:inherit;background:#f5f5f5;text-decoration:none;user-select:none;transition:background 20ms ease-in 0s;cursor:pointer;flex-grow:1;min-width:0;align-items:center;border:1px solid rgba(55,53,47,.16);border-radius:5px;padding:6px;fill:inherit&#34;&gt;&lt;div style=&#34;display:flex;align-self:start;height:32px;width:32px;margin:3px 12px 3px 4px;position:relative&#34;&gt;&lt;div&gt;&lt;div style=&#34;width:100%;height:100%&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/37958055?v=4&#34; referrerpolicy=&#34;same-origin&#34; style=&#34;display:block;object-fit:cover;border-radius:34px;width:30.192px;height:30.192px;transition:opacity .1s ease-out 0s;box-shadow:rgba(15,15,15,.1) 0 2px 4px&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;position:absolute;bottom:-2px;right:-2px&#34;&gt;&lt;div style=&#34;width:100%;height:100%&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewbox=&#34;0 0 496 512&#34; style=&#34;display:block;object-fit:cover;border-radius:5px;width:14.208px;height:14.208px;transition:opacity .1s ease-out 0s;filter:drop-shadow(white 0 0 1px) drop-shadow(white 0 0 1px) drop-shadow(white 0 0 1px)&#34;&gt;&lt;path d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;display:flex;flex-direction:column;justify-content:center;flex-grow:1;flex-shrink:1;overflow:hidden&#34;&gt;&lt;div style=&#34;display:flex;align-items:baseline;font-size:14px&#34;&gt;&lt;div spellcheck=&#34;false&#34; style=&#34;white-space:nowrap;color:#37352f;font-weight:500;overflow:hidden;text-overflow:ellipsis&#34;&gt;Git报错: FATAL: Unable to connect to relay host, errno=10061 &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;12.5&#34; height=&#34;12.5&#34;&gt;&lt;path d=&#34;M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z&#34;&gt;&lt;/path&gt;&lt;path d=&#34;M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt; #1&lt;span style=&#34;margin-left:3px;margin-right:3px&#34;&gt;•&lt;/span&gt;Open&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;display:flex;align-items:center;color:rgba(55,53,47,.65);font-size:12px&#34;&gt;&lt;div spellcheck=&#34;false&#34; style=&#34;white-space:nowrap;color:rgba(55,53,47,.65)&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;12.5&#34; height=&#34;12.5&#34;&gt;&lt;path d=&#34;M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z&#34;&gt;&lt;/path&gt;&lt;path d=&#34;M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt; #1&lt;span style=&#34;margin-left:3px;margin-right:3px&#34;&gt;•&lt;/span&gt;fncheng&lt;/div&gt;&lt;span style=&#34;margin-left:3px;margin-right:3px&#34;&gt;•&lt;/span&gt;&lt;div style=&#34;color:rgba(55,53,47,.65);font-size:12px;white-space:nowrap&#34;&gt;Created: 2020-07-25T13:29:21Z&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div role=&#34;button&#34; tabindex=&#34;0&#34; style=&#34;user-select:none;transition:background 20ms ease-in 0s;cursor:pointer;opacity:0;display:flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:5px;flex-shrink:0;margin-right:4px;color:rgba(55,53,47,.65)&#34;&gt;&lt;svg viewbox=&#34;0 0 13 3&#34; class=&#34;dots&#34; style=&#34;width:14px;height:100%;display:block;fill:inherit;flex-shrink:0;backface-visibility:hidden;color:rgba(55,53,47,.45)&#34;&gt;&lt;g&gt;&lt;path d=&#34;M3,1.5A1.5,1.5,0,1,1,1.5,0,1.5,1.5,0,0,1,3,1.5Z&#34;&gt;&lt;/path&gt;&lt;path d=&#34;M8,1.5A1.5,1.5,0,1,1,6.5,0,1.5,1.5,0,0,1,8,1.5Z&#34;&gt;&lt;/path&gt;&lt;path d=&#34;M13,1.5A1.5,1.5,0,1,1,11.5,0,1.5,1.5,0,0,1,13,1.5Z&#34;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div style=&#34;width: 100%; margin-top: 4px; margin-bottom: 4px;&#34;&gt;&lt;div style=&#34;display: flex; background:white;border-radius:5px&#34;&gt;&lt;a href=&#34;https://www.maple13.cn/posts/74a670b7/&#34;target=&#34;_blank&#34;rel=&#34;noopener noreferrer&#34;style=&#34;display: flex; color: inherit; text-decoration: none; user-select: none; transition: background 20ms ease-in 0s; cursor: pointer; flex-grow: 1; min-width: 0px; flex-wrap: wrap-reverse; align-items: stretch; text-align: left; overflow: hidden; border: 1px solid rgba(55, 53, 47, 0.16); border-radius: 5px; position: relative; fill: inherit;&#34;&gt;&lt;div style=&#34;flex: 4 1 180px; padding: 12px 14px 14px; overflow: hidden; text-align: left;&#34;&gt;&lt;div style=&#34;font-size: 14px; line-height: 20px; color: rgb(55, 53, 47); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-height: 24px; margin-bottom: 2px;&#34;&gt;www.maple13.cn&lt;/div&gt;&lt;div style=&#34;font-size: 12px; line-height: 16px; color: rgba(55, 53, 47, 0.65); height: 32px; overflow: hidden;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;display: flex; margin-top: 6px; height: 16px;&#34;&gt;&lt;img src=&#34;&#34;style=&#34;width: 16px; height: 16px; min-width: 16px; margin-right: 6px;&#34;&gt;&lt;div style=&#34;font-size: 12px; line-height: 16px; color: rgb(55, 53, 47); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;&#34;&gt;https://www.maple13.cn/posts/74a670b7/&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&#34;width: 100%; margin-top: 4px; margin-bottom: 4px;&#34;&gt;&lt;div style=&#34;display: flex; background:white;border-radius:5px&#34;&gt;&lt;a href=&#34;https://www.v2ex.com/t/290545#reply17&#34;target=&#34;_blank&#34;rel=&#34;noopener noreferrer&#34;style=&#34;display: flex; color: inherit; text-decoration: none; user-select: none; transition: background 20ms ease-in 0s; cursor: pointer; flex-grow: 1; min-width: 0px; flex-wrap: wrap-reverse; align-items: stretch; text-align: left; overflow: hidden; border: 1px solid rgba(55, 53, 47, 0.16); border-radius: 5px; position: relative; fill: inherit;&#34;&gt;&lt;div style=&#34;flex: 4 1 180px; padding: 12px 14px 14px; overflow: hidden; text-align: left;&#34;&gt;&lt;div style=&#34;font-size: 14px; line-height: 20px; color: rgb(55, 53, 47); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-height: 24px; margin-bottom: 2px;&#34;&gt;ssh -T git@github.com 出现 ssh_exchange_identification: Connection closed by remote host 的错误 - V2EX&lt;/div&gt;&lt;div style=&#34;font-size: 12px; line-height: 16px; color: rgba(55, 53, 47, 0.65); height: 32px; overflow: hidden;&#34;&gt;git - @DaCong - 本人是在 win10 系统下使用在 https://git-scm.com/download/win 下载的 git 命令行。在使用 ssh -vT git@github.com 后，输出如下：&lt;/div&gt;&lt;div style=&#34;display: flex; margin-top: 6px; height: 16px;&#34;&gt;&lt;img src=&#34;https://www.v2ex.com/static/favicon.ico&#34;style=&#34;width: 16px; height: 16px; min-width: 16px; margin-right: 6px;&#34;&gt;&lt;div style=&#34;font-size: 12px; line-height: 16px; color: rgb(55, 53, 47); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;&#34;&gt;https://www.v2ex.com/t/290545#reply17&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;flex: 1 1 180px; display: block; position: relative;&#34;&gt;&lt;div style=&#34;position: absolute; inset: 0px;&#34;&gt;&lt;div style=&#34;width: 100%; height: 100%;&#34;&gt;&lt;img src=&#34;https://cdn.v2ex.com/avatar/db03/0f90/71794_large.png?m=1643825600&#34; referrerpolicy=&#34;no-referrer&#34; style=&#34;display: block; object-fit: cover; border-radius: 3px; width: 100%; height: 100%;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&#34;width: 100%; margin-top: 4px; margin-bottom: 4px;&#34;&gt;&lt;div style=&#34;display: flex; background:white;border-radius:5px&#34;&gt;&lt;a href=&#34;https://blog.csdn.net/weixin_43561029/article/details/121258685&#34;target=&#34;_blank&#34;rel=&#34;noopener noreferrer&#34;style=&#34;display: flex; color: inherit; text-decoration: none; user-select: none; transition: background 20ms ease-in 0s; cursor: pointer; flex-grow: 1; min-width: 0px; flex-wrap: wrap-reverse; align-items: stretch; text-align: left; overflow: hidden; border: 1px solid rgba(55, 53, 47, 0.16); border-radius: 5px; position: relative; fill: inherit;&#34;&gt;&lt;div style=&#34;flex: 4 1 180px; padding: 12px 14px 14px; overflow: hidden; text-align: left;&#34;&gt;&lt;div style=&#34;font-size: 14px; line-height: 20px; color: rgb(55, 53, 47); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-height: 24px; margin-bottom: 2px;&#34;&gt;blog.csdn.net&lt;/div&gt;&lt;div style=&#34;font-size: 12px; line-height: 16px; color: rgba(55, 53, 47, 0.65); height: 32px; overflow: hidden;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;display: flex; margin-top: 6px; height: 16px;&#34;&gt;&lt;img src=&#34;&#34;style=&#34;width: 16px; height: 16px; min-width: 16px; margin-right: 6px;&#34;&gt;&lt;div style=&#34;font-size: 12px; line-height: 16px; color: rgb(55, 53, 47); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;&#34;&gt;https://blog.csdn.net/weixin_43561029/article/details/121258685&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
     </item>
     <item>
       <title>docker项目记录</title>
       <link>//localhost:1313/posts/113/</link>
       <pubDate>Mon, 15 Apr 2024 16:10:00 +0000</pubDate>
       <guid>//localhost:1313/posts/113/</guid>
-      <description>2024/4/17 问题再现 执行sudo docker compose up -d命令的时候出现这个报错： WARN[0000] /www/wwwroot/memos.wangyunzi.com/docker-compose.yml: `version` is obsolete 这个是说版本过期，因为最新版本的docker不支持版本这种（其实我也是因为一个报错才知道的，所以compose里面的代码第一样关于ve</description>
+      <description>&lt;h3 id=&#34;2024417-问题再现&#34;&gt;2024/4/17 问题再现&lt;/h3&gt;
+&lt;p&gt;  执行&lt;code&gt;sudo docker compose up -d&lt;/code&gt;命令的时候出现这个报错：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-mysql&#34; data-lang=&#34;mysql&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;WARN&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0000&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;www&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;wwwroot&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;memos&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;wangyunzi&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;com&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;docker&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;compose&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;yml&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;`&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;version&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;`&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;is&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;obsolete&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;  这个是说版本过期，因为最新版本的docker不支持版本这种（其实我也是因为一个报错才知道的，所以compose里面的代码第一样关于version可以注释掉的，等我找到这个GitHub网页在说）。&lt;/p&gt;
+&lt;h3 id=&#34;2024416&#34;&gt;2024/4/16&lt;/h3&gt;
+&lt;p&gt;  因为昨天关闭防火墙忘记重新打开了，所以今天的好多个docker安装项目都出现问题，评论通知收不到，freshrss导入不了文档，询问杜老师才知道“Docker是需要防火墙转发数据的”，所以记录一下自己的一个小失误。&lt;/p&gt;
+&lt;h3 id=&#34;2024415&#34;&gt;2024/4/15&lt;/h3&gt;
+&lt;p&gt;  最近因为买了服务器之后比较兴奋，把几个自己没有尝试的过的项目都安装了一遍，包括Alist、FreshRSS、Artalk、等，因为前面都是随意安装，比如docker一键安装之类的，所以导致文件夹部分比较混乱，加上自己不熟悉docker所以出现了很多bugs，比如因为没有提前关闭镜像导致升级新docker之后镜像一直删不掉，还有就是莫名奇妙删掉了好几个文档，统一docker安装方式，采用docker-compose方式，方便整理。因为这些项目都需要设置反代理，所以首先新建网站xxx.wangyunzi.com，这时候就会有一个网站目录，接下来所有的操作都会在这个网站目录下进行。&lt;/p&gt;
+&lt;h4 id=&#34;docker升级步骤&#34;&gt;docker升级步骤&lt;/h4&gt;
+&lt;p&gt;  直接参考这篇文章，&lt;a href=&#34;https://weiliang-ms.github.io/wl-awesome/2.%E5%AE%B9%E5%99%A8/%E8%BF%90%E8%A1%8C%E6%97%B6/docker/%E5%AE%89%E5%85%A8%E5%8A%A0%E5%9B%BA/%E4%B8%BB%E6%9C%BA%E5%AE%89%E5%85%A8%E9%85%8D%E7%BD%AE/03%E6%9B%B4%E6%96%B0Docker%E5%88%B0%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC.html&#34;&gt;更新docker到最新版本&lt;/a&gt;，前面随便找了一篇教程安装docker就开始乱弄，教程如下&lt;/p&gt;
+&lt;h5 id=&#34;老的教程&#34;&gt;老的教程&lt;/h5&gt;
+&lt;p&gt;直接脚本安装，安装命令如下：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h5 id=&#34;新教程&#34;&gt;新教程&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;较旧的 Docker 版本称为 docker 或 docker-engine 。如果已安装这些程序，请卸载它们以及相关的依赖项。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo yum remove docker \
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                  docker-client \
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                  docker-client-latest \
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                  docker-common \
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                  docker-latest \
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                  docker-latest-logrotate \
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                  docker-logrotate \
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                  docker-engine
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;按照这个教程吧：&lt;a href=&#34;https://www.runoob.com/docker/centos-docker-install.html&#34;&gt;菜鸟教程&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;##检查docker版本
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;docker version  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;#安装一些必要的系统工具
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;yum -y install yum-utils device-mapper-persistent-data lvm2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;#添加软件源信息
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;yum-config-manager --add-repo http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;#更新 yum 缓存
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;yum makecache fast
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;#安装docker-ce
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;yum -y install docker-ce
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# 或更新
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;yum -y update docker-ce
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;alist安装&#34;&gt;Alist安装&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;新建&lt;code&gt;docker-compose.yml&lt;/code&gt;文件，输入下面的代码：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;version: &amp;#39;3.3&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;services:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    alist:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        image: &amp;#39;xhofe/alist:latest&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        container_name: alist
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        volumes:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            - &amp;#39;/etc/alist:/opt/alist/data&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        ports:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            - &amp;#39;5244:5244&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        environment:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            - PUID=0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            - PGID=0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            - UMASK=022
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        restart: unless-stopped
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;接着打开终端，输入下面代码部署：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo docker compose up -d
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;因为上面的那个代码alist路径不是保存到当前目录，所以我希望数据在我所熟悉的文件夹内，改之后${PWD}/alist发现报错，也不知道为什么${PWD}不是保存在当前路径，一直报错&lt;code&gt;WARN[0000] The &amp;quot;PWD&amp;quot; variable is not set. Defaulting to a blank string. &lt;/code&gt;最后还是改成了下面的代码，根据这个&lt;a href=&#34;https://stackoverflow.com/questions/41948232/docker-compose-wont-find-pwd-environment-variable&#34;&gt;Docker compose won&amp;rsquo;t find $PWD environment variable&lt;/a&gt;找到了答案，话说真的好爱这个网站，什么问题都能在这上面找到答案：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# version: &amp;#34;3.8&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;services:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  # Alist 的官方部署文档: https://alist-doc.nn.ci/en/docs/install/docker/
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  # docker run -d --restart=always -v /etc/alist:/opt/alist/data -p 5244:5244 --name=&amp;#34;alist&amp;#34; xhofe/alist:latest
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  alist:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    image: xhofe/alist:latest
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    container_name: alist
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    ports:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      - &amp;#34;5244:5244&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    restart: always
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    volumes:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      - &amp;#34;.:/opt/alist/data&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;artalk安装&#34;&gt;Artalk安装&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;新建&lt;code&gt;docker-compose.yml&lt;/code&gt;文件，输入下面的代码：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;version: &amp;#39;3.5&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;services:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  artalk:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    container_name: artalk
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    image: artalk/artalk-go
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    restart: always
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    ports:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      - 8080:23366
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    volumes:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      - ./data:/data
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;执行命令创建容器：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;docker-compose up -d
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;freshrss安装&#34;&gt;Freshrss安装&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;新建&lt;code&gt;docker-compose.yml&lt;/code&gt;文件，输入下面的代码，记得更改自己的端口（我的是8282）：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;3&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;services&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;latest&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;container_name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;hostname&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;app&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;restart&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;always&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;ports&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;8282:80&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;volumes&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;./&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;var&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;www&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FreshRSS&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;./&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;extensions&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;var&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;www&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FreshRSS&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;extensions&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;environment&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;CRON_MIN&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;*/20&amp;#39;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# 刷新频率&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;TZ&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Asia&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Shanghai&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;按道理说第二步应该执行命令创建镜像，但是按照这篇教程———&lt;a href=&#34;https://liuyude.com/archives/break-out-information-cocoon-embrace-content-freedom-deploy-freshrss-in-ten-minutes-with-pagoda-panel-docker-compose-open-new-chapter-in-autonomous.html&#34;&gt;突破信息茧房，拥抱内容自由：使用宝塔面板docker-compose十分钟极速部署FreshRSS，开启自主阅读新篇章&lt;/a&gt;，按照他的操作也可以的。但是应该也可以一步创建命令执行：&lt;code&gt;docker-compose up -d&lt;/code&gt;;&lt;/li&gt;
+&lt;li&gt;这过程中我找到一篇不错的教程——&lt;a href=&#34;https://meta.appinn.net/t/topic/48598&#34;&gt;shRSS如何持久化配置？&lt;/a&gt;，这篇教程里的答案很有参考价值，做法就是创建文件后输入下面的代码：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;2.4&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;services&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;db&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;postgres&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;15&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;container_name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;db&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;hostname&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;db&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;restart&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;unless&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;stopped&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;logging&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;options&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;nb&#34;&gt;max&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;m&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;volumes&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;./&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;db&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;var&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;postgresql&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;environment&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;POSTGRES_DB&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;DB_BASE&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;POSTGRES_USER&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;DB_USER&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;POSTGRES_PASSWORD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;DB_PASSWORD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;c1&#34;&gt;#command:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;c1&#34;&gt;# Examples of PostgreSQL tuning.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;c1&#34;&gt;# https://wiki.postgresql.org/wiki/Tuning_Your_PostgreSQL_Server&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;c1&#34;&gt;# When in doubt, skip and stick to default PostgreSQL settings.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;c1&#34;&gt;#  - -c&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;c1&#34;&gt;#  - shared_buffers=1GB&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;c1&#34;&gt;#  - -c&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;c1&#34;&gt;#  - work_mem=32MB&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;app&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;latest&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;container_name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;app&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;hostname&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;app&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;restart&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;unless&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;stopped&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;ports&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;8080:80&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;depends_on&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;db&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;logging&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;options&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;nb&#34;&gt;max&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;m&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;volumes&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;./&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;var&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;www&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FreshRSS&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;./&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;extensions&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;var&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;www&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FreshRSS&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;extensions&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;environment&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;TZ&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Asia&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Shanghai&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;CRON_MIN&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;*/45&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;c1&#34;&gt;#  TRUSTED_PROXY: 172.16.0.1/12 192.168.0.1/16&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;volumes&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;freshrss&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;db&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;extensions&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;然后执行：&lt;code&gt;sudo docker compose up -d&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;memos安装&#34;&gt;Memos安装&lt;/h4&gt;
+&lt;p&gt;新建&lt;code&gt;docker-compose.yml&lt;/code&gt;文件，然后输入以下代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;3&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;services&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;memos&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;neosmemo&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;memos&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;latest&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;container_name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;memeos&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;hostname&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;memeos&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;ports&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;5230:5230&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;volumes&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;./&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;memos&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;memos&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;var&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;opt&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;memos&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;restart&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;always&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>近期博客</title>
       <link>//localhost:1313/posts/93/</link>
       <pubDate>Mon, 22 Jan 2024 14:18:00 +0000</pubDate>
       <guid>//localhost:1313/posts/93/</guid>
-      <description>其实我还是蛮专一的，小时候喜欢洋娃娃换装，长大喜欢给博客换主题。 最近有小伙伴发现我这两天主题一直在变化，几秒钟估计就变了，额，无关其他，其实我就是闲的慌，不想开始写论文。我最近换过的几个主题都很好看，</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;其实我还是蛮专一的，小时候喜欢洋娃娃换装，长大喜欢给博客换主题。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;  最近有小伙伴发现我这两天主题一直在变化，几秒钟估计就变了，额，无关其他，其实我就是闲的慌，不想开始写论文。我最近换过的几个主题都很好看，所以分享给小伙伴！&lt;/p&gt;
+&lt;h4 id=&#34;gplus-typecho-仿-g-轻博客主题&#34;&gt;Gplus Typecho 仿 G+ 轻博客主题&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;主题介绍：https://lms.pub/theme/typecho-theme-gplus.html&lt;/li&gt;
+&lt;li&gt;主题预览：(我上一个主题）&lt;/li&gt;
+&lt;li&gt;主题下载：https://github.com/happyet/Gplus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;aspire-图文博客模板&#34;&gt;Aspire 图文博客模板&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;主题介绍：https://typechx.com/themes/aspire.html&lt;/li&gt;
+&lt;li&gt;主题预览： &lt;a href=&#34;http://aspire.aspirethemes.com/&#34;&gt;http://aspire.aspirethemes.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;主题下载：https://typechx.com/themes/aspire.html&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;typecho-jianghu-主题&#34;&gt;Typecho JiangHu 主题&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;主题介绍：https://www.typecho.wiki/typecho-theme-jianghu.html&lt;/li&gt;
+&lt;li&gt;主题预览：https://o.ocox.cc/&lt;/li&gt;
+&lt;li&gt;主题下载：https://github.com/qian52493/JiangHu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;meaword-一款体现文字美感的极简主题&#34;&gt;MeaWord 一款体现文字美感的极简主题&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;主题介绍：https://www.bawge.com/archives/63.html&lt;/li&gt;
+&lt;li&gt;主题预览：https://www.bawge.com/&lt;/li&gt;
+&lt;li&gt;主题下载：https://github.com/Meayair/Typecho-Theme-MeaWord&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;lifelist-人生清单主题&#34;&gt;lifeList 人生清单主题&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;主题介绍：https://typecho.work/archives/lifelist.html&lt;/li&gt;
+&lt;li&gt;主题预览：无&lt;/li&gt;
+&lt;li&gt;主题下载：https://github.com/XingHehy/lifeList&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;nabo-theme-typecho&#34;&gt;Nabo-theme-typecho&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;主题介绍：https://nabo.krait.cn/docs/#/course-nabo-theme&lt;/li&gt;
+&lt;li&gt;主题预览：https://twitter.krait.cn&lt;/li&gt;
+&lt;li&gt;主题下载：https://github.com/krahy/Nabo-theme-typecho&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;story-for-typecho&#34;&gt;Story-for-Typecho&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;主题介绍：https://github.com/txperl/Story-for-Typecho&lt;/li&gt;
+&lt;li&gt;主题预览：https://yumoe.com/&lt;/li&gt;
+&lt;li&gt;主题下载：https://github.com/txperl/Story-for-Typecho&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;moricolor&#34;&gt;Moricolor&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;主题介绍：https://github.com/txperl/Moricolor-for-Typecho&lt;/li&gt;
+&lt;li&gt;主题预览：https://null.yumoe.com/2-0/&lt;/li&gt;
+&lt;li&gt;主题下载：https://github.com/txperl/Moricolor-for-Typecho&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;word主题&#34;&gt;Word主题&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;主题介绍：https://xwsir.cn/4031.html&lt;/li&gt;
+&lt;li&gt;主题预览：https://xwsir.cn/&lt;/li&gt;
+&lt;li&gt;主题下载：https://github.com/dinphy/Word&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;几个typecho主题站&#34;&gt;几个typecho主题站&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://typechx.com/&#34;&gt;https://typechx.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://typecho.work/&#34;&gt;https://typecho.work/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.boke8.net/category/typecho/tetheme/&#34;&gt;https://www.boke8.net/category/typecho/tetheme/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.typecho.wiki/&#34;&gt;https://www.typecho.wiki/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     <item>
       <title>这是一个bug</title>
       <link>//localhost:1313/posts/81/</link>
       <pubDate>Mon, 10 Jul 2023 00:04:00 +0000</pubDate>
       <guid>//localhost:1313/posts/81/</guid>
-      <description>因为迁移主题的问题，有好多小伙伴反映我使用两个主题，其实我也很茫然不知道怎么回事，很多小伙伴访问首页直接跳转至原先一个主题的首页，甚至前几天我还收到了前面一个主题的文章留言。 首先我很肯定我没有给博客套</description>
+      <description>&lt;p&gt;  因为迁移主题的问题，有好多小伙伴反映我使用两个主题，其实我也很茫然不知道怎么回事，很多小伙伴访问首页直接跳转至原先一个主题的首页，甚至前几天我还收到了前面一个主题的文章留言。
+  首先我很肯定我没有给博客套上CDN，我只给文章使用的的图片设置了CDN，所以不是缓存的问题；
+  其次，我发现在chrome浏览器中这个问题有甚严重，电脑端访问刚开始出现这个问题我删除所有的浏览记录就解决了，但是在移动端的chrome浏览器无论删除多少遍浏览记录都还是存在这个问题，索性我今天把chrome卸载了又安装一遍，再次打开问题果然好了。
+  所以最后在我前面一个主题文章留言的小伙伴说声抱歉，我不会回复你们是因为前面一个主题我已经不再使用，如果你能看到这篇文章，希望你能尝试删除本博客的浏览记录或者换成无痕浏览模式试试，或者就是最好不要用chrome浏览器，尝试其他浏览器。如果都没法访问最新博客样式，我只能说声抱歉。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;相逢即是缘分，如果我们不能遇见，可能上天自有安排。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
     </item>
     <item>
       <title>Hexo和Notion的神级联动</title>
       <link>//localhost:1313/posts/64/</link>
       <pubDate>Mon, 17 Apr 2023 14:01:00 +0000</pubDate>
       <guid>//localhost:1313/posts/64/</guid>
-      <description>完成目标 notion 文章转化为 markdown 格式 在 notion 上写博客 发布 notion 文章到 hexo 项目起源 初代：项目由@Mo Huishou 最初创建使用，但只支持阿里云图床，且不支持文章修改。 目前：由@Doradx 大佬改造后支持多种图床，且支持文章修改 项目教程</description>
+      <description>&lt;h3 id=&#34;完成目标&#34;&gt;完成目标&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;notion 文章转化为 markdown 格式&lt;/li&gt;
+&lt;li&gt;在 notion 上写博客&lt;/li&gt;
+&lt;li&gt;发布 notion 文章到 hexo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;项目起源&#34;&gt;项目起源&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;初代：项目由&lt;a href=&#34;https://github.com/mohuishou/notion-blog-actions&#34;&gt;@&lt;/a&gt;&lt;a href=&#34;https://github.com/mohuishou/notion-blog-actions&#34;&gt;&lt;strong&gt;Mo Huishou&lt;/strong&gt;&lt;/a&gt; 最初创建使用，但只支持阿里云图床，且不支持文章修改。&lt;/li&gt;
+&lt;li&gt;目前：由&lt;a href=&#34;https://github.com/Doradx/notion2markdown-action&#34;&gt;&lt;strong&gt;@Doradx&lt;/strong&gt;&lt;/a&gt; 大佬改造后支持多种图床，且支持文章修改&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;项目教程&#34;&gt;项目教程&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.cuger.cn/p/634642fd/&#34;&gt;&lt;strong&gt;Notion-Hexo 联动发布博客 - 自动化部署方案&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lailin.xyz/post/notion-markdown-blog.html&#34;&gt;&lt;strong&gt;使用 Notion Database 管理静态博客文章&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;我的个人流程&#34;&gt;我的个人流程&lt;/h3&gt;
+&lt;p&gt;上面的教程已经够完整了，但是我喜欢自己写一写自己在这个过程中自己操作上的失误，可以选择性浏览。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;打开下面链接创建一个 notion 机器人，获取&lt;code&gt;Secrets&lt;/code&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.notion.so/my-integrations&#34;&gt;机器人链接&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;复制模板&lt;a href=&#34;https://www.notion.so/397943b2d0384e15ba69448900823984&#34;&gt;Untitled&lt;/a&gt; 。&lt;/li&gt;
+&lt;li&gt;授权数据库，打开复制过的模板，点击右上角三个点，点击下面的添加 connection，加上刚刚的机器人。&lt;/li&gt;
+&lt;li&gt;在博客仓库  &lt;code&gt;settings/secrets/actions&lt;/code&gt;中添加环境变量，分别是&lt;code&gt;NOTION_DATABASE_ID&lt;/code&gt;, &lt;code&gt;NOTION_TOKEN&lt;/code&gt;和  &lt;code&gt;PICBED_CONFIG&lt;/code&gt;。下面是大佬的原文：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/2023/123a424123e9d1abfbcb8c03628df90a.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在博客中目录&lt;code&gt;.github/workflows&lt;/code&gt; 新建&lt;code&gt;deploy.yml&lt;/code&gt;和&lt;code&gt;notion_sync.yml&lt;/code&gt; 这两个我的代码如下：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Automatic deployment&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;on&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;branches&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;master&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;paths&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;s2&#34;&gt;&amp;#34;source/**&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;s2&#34;&gt;&amp;#34;**.yml&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;workflow_dispatch&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;workflow_call&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;env&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;GIT_USER&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;wangyunzi&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;GIT_EMAIL&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;xueq695@gmail.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;jobs&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;build&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Ubuntu and node ${{ matrix.node_version }} and ${{ matrix.os }}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;runs-on&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ubuntu-latest&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;strategy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;matrix&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;os&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ubuntu-latest]&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;node_version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;16.19.1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;steps&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Checkout blog and theme&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;uses&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;actions/checkout@v3&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;with&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;submodules&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;recursive&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Use Node.js ${{ matrix.node_version }}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;uses&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;actions/setup-node@v3&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;with&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;node-version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;${{ matrix.node_version }}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Install dependencies&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;sd&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;          git pull&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;          
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Depoly&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;sd&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;          git ls-files -z | while read -d &amp;#39;&amp;#39; path; do touch -d &amp;#34;$(git log -1 --format=&amp;#34;@%ct&amp;#34; &amp;#34;$path&amp;#34;)&amp;#34; &amp;#34;$path&amp;#34;; done
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;          npm install
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;          npx hexo clean
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;          npx hexo douban
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;          npx hexo g&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;          
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Commit &amp;amp; Push&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;uses&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;stefanzweifel/git-auto-commit-action@v4&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;with&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;commit_message&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Automatic deployment.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Automatic sync pages from notion&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;on&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;#   push:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;#     branches: master&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;workflow_dispatch&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;schedule&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;cron&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;5 */1 * * *&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;jobs&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;notionSyncTask&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Ubuntu and node ${{ matrix.node_version }} and ${{ matrix.os }}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;runs-on&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ubuntu-latest&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;strategy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;matrix&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;os&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ubuntu-latest]&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;node_version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;16.&lt;/span&gt;&lt;span class=&#34;l&#34;&gt;x]&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;outputs&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;HAS_CHANGES&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;${{ steps.checkStep.outputs.HAS_CHANGES }}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;steps&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Checkout&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;uses&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;actions/checkout@v3&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Use Node.js ${{ matrix.node_version }}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;uses&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;actions/setup-node@v3&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;with&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;node-version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;${{ matrix.node_version }}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Convert notion to markdown&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;uses&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Doradx/notion2markdown-action@latest&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;with&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;notion_secret&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;${{ secrets.NOTION_TOKEN }}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# NOTION授权码&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;database_id&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;${{ secrets.NOTION_DATABASE_ID }}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# Dataset ID&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;migrate_image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;picBedConfig&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;${{ secrets.PICBED_CONFIG}}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# picBed的配置，JSON格式，建议为minify JSON, 否则可能报错. 不同图床的配置可参考：https://picgo.github.io/PicGo-Core-Doc/zh/guide/config.html#picbed&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;page_output_dir&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;source&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# page 类文章的输出目录，例如about。&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;post_output_dir&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;source/_posts/notion&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# post 的输出目录，切记当clean_unpublished_post为true时，勿设置为 &amp;#39;source/_posts&amp;#39;, 可能会删除你原目录下的文章！！！&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;clean_unpublished_post&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# 是否清除未发表的文章，例如之前发表了，你又在notion中给移到草稿箱了.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Check if there is anything changed&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;id&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;checkStep&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;sd&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;          if [[ -n &amp;#34;$(git status --porcelain)&amp;#34; ]]; then
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            echo &amp;#34;HAS_CHANGES=true&amp;#34; &amp;gt;&amp;gt; $GITHUB_OUTPUT;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            echo &amp;#34;Updates available &amp;amp; redeployment required.&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;          else
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            echo &amp;#34;HAS_CHANGES=false&amp;#34; &amp;gt;&amp;gt; $GITHUB_OUTPUT;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            echo &amp;#34;Nothing to commit &amp;amp; deploy.&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;          fi&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;          
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Commit &amp;amp; Push&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;uses&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;stefanzweifel/git-auto-commit-action@v4&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;with&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;commit_message&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Automatic sync from notion.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;callDepolyTask&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Call the depoly workflow&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;needs&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;notionSyncTask&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;${{ needs.notionSyncTask.outputs.HAS_CHANGES==&amp;#39;true&amp;#39; }}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;uses&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;wangyunzi/Annie/.github/workflows/hexo_deploy.yml@master&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# 根据自身Github地址修改即可&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol&gt;
+&lt;li&gt;检查上面两个代码的&lt;code&gt;node&lt;/code&gt;版本，改成和自己一样的即可。（ps:没有改的话就会出现一点小问题，譬如我）&lt;/li&gt;
+&lt;li&gt;需要发表的文章放置在待发布这一栏，如果需要及时看到效果手动运行 action，源代码默认是 1 个小时检查一次是否有文章需要发布。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;这次能够完美完成完全是依靠&lt;/strong&gt;&lt;a href=&#34;https://blog.cuger.cn/&#34;&gt;&lt;strong&gt;@Doradx&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;大佬的倾情帮助，写这篇文章不仅是感谢他改造这样便捷的项目，也是为了感谢大佬的不辞辛苦，一遍遍的指导我完成这些配置。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
     </item>
     <item>
       <title>五分钟拥有一个在线博客</title>
       <link>//localhost:1313/posts/61/</link>
       <pubDate>Wed, 12 Apr 2023 13:53:00 +0000</pubDate>
       <guid>//localhost:1313/posts/61/</guid>
-      <description>写作。拥有。赚取。 xLog 是面向所有人的最棒 链上 开源 博客社区。 话说很早就有看到我的推圈有大佬在推荐这个项目了，但是刚开始一看到区块链这个东西就感觉是陌生的领域，并且登录什么的都是需要拥有钱包账户，就打了退堂</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;写作。拥有。赚取。
+&lt;strong&gt;xLog&lt;/strong&gt; 是面向所有人的最棒 &lt;a href=&#34;https://scan.crossbell.io/&#34;&gt;链上&lt;/a&gt; &lt;a href=&#34;https://github.com/Crossbell-Box/xlog&#34;&gt;开源&lt;/a&gt; 博客社区。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;话说很早就有看到我的推圈有大佬在推荐这个项目了，但是刚开始一看到区块链这个东西就感觉是陌生的领域，并且登录什么的都是需要拥有钱包账户，就打了退堂鼓，今天兴致来了之后尝试用邮件注册登录也成功了，体验感真的不错，还听说在开发移动端，也算是一个蛮具有开发前途的领域。支持自定义页面、自定义css以及更多，值得一试。&lt;/p&gt;
+&lt;p&gt;我的地址：https://xlog.wangyunzi.com&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>PC使用obsidian发布博客</title>
       <link>//localhost:1313/posts/59/</link>
       <pubDate>Tue, 11 Apr 2023 11:45:00 +0000</pubDate>
       <guid>//localhost:1313/posts/59/</guid>
-      <description>这是一篇obsidian发布的博客，会不会与qexo发布博客冲突呢？让我测试一下。 测试了一下，总之在obsidian上写博客之前必须pull一下，要不然会冲突，所以到底应不应该选择这两个作为移动端和电</description>
+      <description>&lt;p&gt;这是一篇obsidian发布的博客，会不会与qexo发布博客冲突呢？让我测试一下。
+测试了一下，总之在obsidian上写博客之前必须pull一下，要不然会冲突，所以到底应不应该选择这两个作为移动端和电脑端写博客呢？&lt;/p&gt;
+&lt;p&gt;Qexo虽然支持其他图床，但就是不支持七牛云图床，真是让我小小的遗憾了一下，只不过在PC端我最终还是觉得obsidian的编辑体验感好极了。至于移动端就用Qexo来发布博客，只不过图床我需要用到手机上的第三方图片上传工具支持，前不久买了一个图床上传软件小白图床和Inbox软件，可以在Inbox记录下一些碎片然后复制一下再在Qexo网页端发布，Inbox最大的好处就是支持图片直接上传到图床，这对我来说便捷了不少。&lt;/p&gt;
+&lt;p&gt;&lt;sub&gt;Inbox（随时记录）——Qexo网页端发布——Binggo！！！&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;虽然上面的流程可以彻底支持我在移动端随时发布hexo博客的需求，但是流程稍微麻烦了一点，希望以后可以更便捷的工具吧。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>用Qexo写博客</title>
       <link>//localhost:1313/posts/58/</link>
       <pubDate>Tue, 11 Apr 2023 11:40:00 +0000</pubDate>
       <guid>//localhost:1313/posts/58/</guid>
-      <description>这是一篇用qexo发布的文章。 正在测试中。 测试完毕。 Qexo官方文档：https://www.oplog.cn/qexo/ 最让我震惊的是还支持hugo框架博客，真的是一个大惊喜，只不过我现在不用hug</description>
+      <description>&lt;p&gt;这是一篇用qexo发布的文章。
+&lt;del&gt;正在测试中。&lt;/del&gt;
+测试完毕。
+Qexo官方文档：&lt;a href=&#34;https://www.oplog.cn/qexo/&#34;&gt;https://www.oplog.cn/qexo/&lt;/a&gt;
+最让我震惊的是还支持hugo框架博客，真的是一个大惊喜，只不过我现在不用hugo博客了😭😭。
+部署教程已经很详细了按照教程一步步做就可以了。
+但是！！！！我还是要&lt;strong&gt;谴责&lt;/strong&gt;一下我这个粗心的人，要不就是吧变量设置错了要不就是漏掉了一个小步骤，导致部署过程频频出现问题，我真的吐血。但这次还好，自己也找到问题所在了。出现下面错误的最大问题就是我不知道怎么弄的总是将&lt;strong&gt;按步骤设置允许所有 IP 地址的连接&lt;/strong&gt;这一个步骤设置成添加了自己的ip地址，真的是受罪了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/2023/04/11/1681186397.png&#34; alt=&#34;3bf65009b3b04170b1563b9fd43fe0a.png&#34;&gt;&lt;img src=&#34;https://blog.wangyunzi.com/2023/04/11/1681186416.png&#34; alt=&#34;ee82a5171e6e9faba6d46293f2a187f.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;最后在初始化设置的过程中又出现了这样的问题：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/2023/04/11/1681186557.png&#34; alt=&#34;475ed76b4d5aad3eddbaa743f71d189.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;但没关系，我强制上传了github代码了。🤣😒&lt;/p&gt;
+&lt;p&gt;最后大功告成啦，页面真的蛮好看的。💕👍&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>用AI为自己的博客取一个名称</title>
       <link>//localhost:1313/posts/56/</link>
       <pubDate>Mon, 10 Apr 2023 20:37:00 +0000</pubDate>
       <guid>//localhost:1313/posts/56/</guid>
-      <description>前言 因为这段时间博客其实小小变动了一些，突然就想起来自己的博客名称和头像都不是自己原创的，当时做博客也是一个偶然的机会，什么都是网上找的，现在想起来既然是属于自己的一片天地，还是尽量全部用自己的东西最</description>
+      <description>&lt;h4 id=&#34;前言&#34;&gt;前言&lt;/h4&gt;
+&lt;p&gt;因为这段时间博客其实小小变动了一些，突然就想起来自己的博客名称和头像都不是自己原创的，当时做博客也是一个偶然的机会，什么都是网上找的，现在想起来既然是属于自己的一片天地，还是尽量全部用自己的东西最好，虽然这个博客不是作为营利性质的存在，但是难保不会出现什么问题。遂还是在网上买了一个定制的头像，但需要两三天之后才能做好。
+《长街短梦》是现任&lt;a href=&#34;https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%AE%B6%E5%8D%8F%E4%BC%9A/2049478?fromModule=lemma_inlink&#34;&gt;中国作家协会&lt;/a&gt;主席铁凝所著散文集，主要内容包括：风筝仙女、山不在高、长街短梦、空中朋友四卷。记得还是初中的时候在图书馆看到的这本书，其中里面最广为流传的一句“假若人生犹如一条长街，我就不愿意错过这街上每一处细小的风景。假若人生不过是长街上的一个短梦，我也愿意把这短梦做得生意盎然。”一直作为我的座右铭多年，我想，我可能是个假的文艺青年，偶尔附庸风雅、自怜自爱，却拿不出属于自创的作品，每每想起就是愧疚难当。
+至此，想给博客换个名称，或许因为心中无墨的缘故，久久没有思绪迸发出来，或许这是一个需要时间打磨的活，须得细细雕琢打磨，想起AI，或许能够我一些灵感，但是给出的答案又让我哭笑不得，但总之是一份较不错的答案。&lt;/p&gt;
+&lt;h4 id=&#34;古风文雅的名称&#34;&gt;古风文雅的名称&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;风雅阁&lt;/li&gt;
+&lt;li&gt;瑾瑜轩&lt;/li&gt;
+&lt;li&gt;清音轩&lt;/li&gt;
+&lt;li&gt;韵苑斋&lt;/li&gt;
+&lt;li&gt;离亭客栈&lt;/li&gt;
+&lt;li&gt;琴瑟书斋&lt;/li&gt;
+&lt;li&gt;雅言斋&lt;/li&gt;
+&lt;li&gt;梦幻阁&lt;/li&gt;
+&lt;li&gt;醉香楼&lt;/li&gt;
+&lt;li&gt;晴川阁&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;有特别内涵意义的名称&#34;&gt;有特别内涵、意义的名称&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;心随博客：表达了“随心所欲”的意思，同时也强调了博客中展现的是作者内心的真实想法和感受。&lt;/li&gt;
+&lt;li&gt;缘起博客：寓意一切缘起于心，博客中的每篇文章都是由内心的情感所驱动而产生的。&lt;/li&gt;
+&lt;li&gt;飘逸博客：有自由、轻松、不拘束的意思，表达了作者在博客中想要自由发挥、自由创作的愿望。&lt;/li&gt;
+&lt;li&gt;心灵驿站：表达了博客是作者内心的驿站，可以随时停靠、留下自己的痕迹和思考。&lt;/li&gt;
+&lt;li&gt;茗心斋：茗指茶，心指内心，寓意是在这个博客里，作者会分享自己的一些内心感悟，就像品茶一样细细品味。&lt;/li&gt;
+&lt;li&gt;随意盏：寓意是在博客里，作者可以尽情地发挥自己的创造力和想象力，随意书写自己的故事。&lt;/li&gt;
+&lt;li&gt;心蝶阁：寓意是在博客里，作者会用自己的文字抒发内心的感受和情感，让读者在阅读中像蝴蝶一样飞舞。&lt;/li&gt;
+&lt;li&gt;潇洒博客：潇洒寓意着自由自在，博客中的每篇文章都是作者用自己的方式自由地表达内心感受的产物。&lt;/li&gt;
+&lt;li&gt;灵动居：表达了博客中每篇文章都充满了生命力和灵气，可以给读者带来不一样的感受和启发。&lt;/li&gt;
+&lt;li&gt;随心乐：寓意是在博客中，作者可以尽情地表达自己的喜怒哀乐，让读者在阅读中感受到作者的情感共鸣和生活态度。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;古文名称&#34;&gt;古文名称&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;琴棋书画楼：寓意是博客是一个文化庇护所，作者可以在这里尽情书写琴棋书画之美，让读者领略到文化的精髓。&lt;/li&gt;
+&lt;li&gt;洛阳纸贵：表达了作者渴望成为文坛上的佼佼者的愿望，同时也寓意着博客中的每篇文章都会被珍视，成为人们口耳相传的经典之作。&lt;/li&gt;
+&lt;li&gt;言行一贯斋：寓意是博客中的每篇文章都是作者的真实想法和生活态度，表达了作者追求真诚和一贯的品性之心。&lt;/li&gt;
+&lt;li&gt;游山玩水阁：寓意是在博客中，作者可以像游山玩水一样自由自在地表达自己的想法和情感，尽情享受写作带来的乐趣。&lt;/li&gt;
+&lt;li&gt;墨香书屋：墨香寓意着文化的博大精深，表达了作者在博客中要展现自己的文化素养和书写功夫，让读者在阅读中感受到文化的魅力。&lt;/li&gt;
+&lt;li&gt;意气风发阁：意气风发寓意着作者充满了青春活力和创作激情，表达了作者在博客中要充分发挥自己的创造力和想象力，写出充满活力的文章。&lt;/li&gt;
+&lt;li&gt;淡泊明志堂：表达了作者淡泊名利的人生态度和坚定的追求，让读者在阅读中感受到淡泊名利的真谛和坚守信念的力量。&lt;/li&gt;
+&lt;li&gt;挥墨斋：挥墨寓意着自由发挥和尽情书写，表达了作者在博客中要展现自己的创作才华和写作技巧，让读者在阅读中感受到文字的魅力。&lt;/li&gt;
+&lt;li&gt;草木知音斋：草木知音寓意着作者对自然万物的热爱和感悟，表达了作者要在博客中传达自己对自然的独特理解和感受。&lt;/li&gt;
+&lt;li&gt;天涯海角阁：寓意是博客是一个可以让作者自由遨游于天涯海角的场所，展现自己的才华和情感，让读者在阅读中感受到自由和远方的魅力。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;借用诗经&#34;&gt;借用《诗经》&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;桃之夭夭，灼灼其华：寓意是博客中的每篇文章都如桃花般娇艳动人，让读者心花怒放，陶醉其中。&lt;/li&gt;
+&lt;li&gt;虽有荣华，亦复何益：表达了作者淡泊名利的人生态度和追求，让读者在阅读中感受到淡泊名利的真谛和坚守信念的力量。&lt;/li&gt;
+&lt;li&gt;此时无声胜有声：寓意是博客中的文字比声音更能打动人心，作者可以通过自己的笔触传达自己的情感和思想。&lt;/li&gt;
+&lt;li&gt;虽千万人吾往矣：表达了作者勇往直前、追求梦想的决心和勇气，让读者在阅读中感受到坚定的信念和追求卓越的精神。&lt;/li&gt;
+&lt;li&gt;燕于飞之矫矫兮，善夫思之，昭昭其仪：表达了作者追求卓越、不断进取的精神和态度，让读者在阅读中感受到积极向上的力量和无限的潜能。&lt;/li&gt;
+&lt;li&gt;其乐融融，其歌嘤嘤：寓意是博客中的每篇文章都充满欢乐和温馨，作者可以用自己的笔触带给读者欢乐和快乐。&lt;/li&gt;
+&lt;li&gt;虽小道必有可观者焉：表达了作者的审美观和生活态度，让读者在阅读中感受到生活中的点滴美好和细节之处。&lt;/li&gt;
+&lt;li&gt;天生我材必有用：寓意是每个人都有自己独特的才华和天赋，作者要在博客中发挥自己的才华和潜能，让读者在阅读中感受到作者的独特魅力和才华横溢。&lt;/li&gt;
+&lt;li&gt;知我者谓我心忧，不知我者谓我何求：表达了作者独特的思想和情感世界，让读者在阅读中感受到作者深刻的内心世界和精神追求。&lt;/li&gt;
+&lt;li&gt;昔我往矣，杨柳依依：寓意是博客中的每篇文章都是作者过往经历和感悟的记录，让读者在阅读中感受到时间的流转和生命的&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     <item>
       <title>hexo博客安装PWA</title>
       <link>//localhost:1313/posts/54/</link>
       <pubDate>Thu, 06 Apr 2023 20:15:00 +0000</pubDate>
       <guid>//localhost:1313/posts/54/</guid>
-      <description>随着移动设备的普及，越来越多的人开始使用移动设备浏览网页。为了提高用户的体验，许多网站都已经实现了PWA（渐进式Web应用程序）功能。 安装hexo-pwa插件 在Hexo博客中，我们可以使用hexo-p</description>
+      <description>&lt;p&gt;随着移动设备的普及，越来越多的人开始使用移动设备浏览网页。为了提高用户的体验，许多网站都已经实现了PWA（渐进式Web应用程序）功能。&lt;/p&gt;
+&lt;h4 id=&#34;安装hexo-pwa插件&#34;&gt;安装hexo-pwa插件&lt;/h4&gt;
+&lt;p&gt;在Hexo博客中，我们可以使用hexo-pwa插件来实现PWA功能。首先，我们需要在命令行中输入以下命令进行安装：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm install hexo-pwa --save
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;注意：这一步我的博客安装之后会报错，所以我最后卸载的，但是很多教程都有些到这一步。&lt;/p&gt;
+&lt;h4 id=&#34;安装hexo-service-worker插件&#34;&gt;安装hexo-service-worker插件&lt;/h4&gt;
+&lt;p&gt;在终端输入下面代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm install hexo-service-worker --save
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;配置manifestjson文件&#34;&gt;配置manifest.json文件&lt;/h4&gt;
+&lt;p&gt;PWA功能的核心是manifest.json文件。这个文件包含了应用程序的名称、图标、主题颜色等信息，浏览器可以根据这些信息来显示应用程序的图标，以及为其创建应用快捷方式。&lt;/p&gt;
+&lt;p&gt;在这个文件中，我们需要指定应用程序的各种信息
+我们可以在Hexo博客的根目录中创建一个新的文件夹&lt;code&gt;source/&lt;/code&gt;，并在其中创建一个名为&lt;code&gt;manifest.json&lt;/code&gt;的文件。
+同样可以直接通过工具生成，推荐该网站：&lt;a href=&#34;https://www.simicart.com/manifest-generator.html/&#34;&gt;Need help building your headless eCommerce storefront?&lt;/a&gt;。
+&lt;img src=&#34;https://blog.wangyunzi.com/2023/04/06/1680784854.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;下面是一个示例（我的示例）：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;#34;theme_color&amp;#34;: &amp;#34;#f69435&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;#34;background_color&amp;#34;: &amp;#34;#f69435&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;#34;display&amp;#34;: &amp;#34;fullscreen&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;#34;scope&amp;#34;: &amp;#34;/&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;#34;start_url&amp;#34;: &amp;#34;/&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;#34;name&amp;#34;: &amp;#34;\u957f\u8857\u77ed\u68a6&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;#34;short_name&amp;#34;: &amp;#34;\u957f\u8857\u77ed\u68a6&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;#34;description&amp;#34;: &amp;#34;\u6b64\u8def\u5c71\u9ad8\u8def\u8fdc\uff0c\u6211\u53ea\u5269\u53e3\u888b\u73ab\u7470\u4e00\u7bc7&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;#34;icons&amp;#34;: [
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &amp;#34;src&amp;#34;: &amp;#34;/img/icon-192x192.png&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &amp;#34;sizes&amp;#34;: &amp;#34;192x192&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &amp;#34;type&amp;#34;: &amp;#34;image/png&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        },
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &amp;#34;src&amp;#34;: &amp;#34;/img/icon-256x256.png&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &amp;#34;sizes&amp;#34;: &amp;#34;256x256&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &amp;#34;type&amp;#34;: &amp;#34;image/png&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        },
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &amp;#34;src&amp;#34;: &amp;#34;/img/icon-384x384.png&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &amp;#34;sizes&amp;#34;: &amp;#34;384x384&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &amp;#34;type&amp;#34;: &amp;#34;image/png&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        },
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &amp;#34;src&amp;#34;: &amp;#34;/img/icon-512x512.png&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &amp;#34;sizes&amp;#34;: &amp;#34;512x512&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &amp;#34;type&amp;#34;: &amp;#34;image/png&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        }
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    ]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;其中，&lt;code&gt;name&lt;/code&gt;指定了应用程序的名称，&lt;code&gt;short_name&lt;/code&gt;指定了应用程序的短名称，&lt;code&gt;icons&lt;/code&gt;指定了应用程序的图标，&lt;code&gt;start_url&lt;/code&gt;指定了应用程序的首页地址，&lt;code&gt;theme_color&lt;/code&gt;指定了应用程序的主题颜色，&lt;code&gt;background_color&lt;/code&gt;指定了应用程序的背景颜色，&lt;code&gt;display&lt;/code&gt;指定了应用程序的展示方式。&lt;/p&gt;
+&lt;h4 id=&#34;配置swjs文件&#34;&gt;配置sw.js文件&lt;/h4&gt;
+&lt;p&gt;PWA功能还需要使用Service Worker（服务工作者）来实现离线缓存等功能。我们可以在Hexo博客的根目录中创建一个新的文件夹&lt;code&gt;source/sw.js&lt;/code&gt;，并在其中创建一个名为&lt;code&gt;sw.js&lt;/code&gt;的文件。在这个文件中，我们需要编写一些代码来实现离线缓存等功能。下面是一个示例：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;cacheName&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;my-cache&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;bp&#34;&gt;self&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;addEventListener&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;install&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;event&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;event&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;waitUntil&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;n&#34;&gt;caches&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;open&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cacheName&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;then&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cache&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;cache&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;addAll&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;([&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                &lt;span class=&#34;s1&#34;&gt;&amp;#39;/&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                &lt;span class=&#34;s1&#34;&gt;&amp;#39;/index.html&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                &lt;span class=&#34;s1&#34;&gt;&amp;#39;/css/style.css&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                &lt;span class=&#34;s1&#34;&gt;&amp;#39;/js/script.js&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                &lt;span class=&#34;s1&#34;&gt;&amp;#39;/images/logo.png&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            &lt;span class=&#34;p&#34;&gt;]);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;})&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;});&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;bp&#34;&gt;self&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;addEventListener&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;fetch&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;event&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;event&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;respondWith&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;caches&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;match&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;event&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;request&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;then&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;response&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;response&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;fetch&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;event&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;request&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;})&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;});&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;其中，&lt;code&gt;cacheName&lt;/code&gt;指定了缓存的名称，在&lt;code&gt;install&lt;/code&gt;事件中，我们可以将需要缓存的资源添加到缓存中；在&lt;code&gt;fetch&lt;/code&gt;事件中，我们可以从缓存中读取资源，如果缓存中没有需要的资源，则从网络上获取。&lt;/p&gt;
+&lt;h4 id=&#34;部署博客并测试&#34;&gt;部署博客并测试&lt;/h4&gt;
+&lt;p&gt;配置完成后，我们可以将博客部署到服务器上，并测试PWA功能是否正常工作。首先，在命令行中输入以下命令来生成静态页面：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 清理缓存 / 生成静态页面 / 本地预览&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ hexo clean &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; hexo g &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; hexo s
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;参考文章&#34;&gt;参考文章&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://senorui.top/posts/bce7.html&#34;&gt;Hexo博客适配并支持PWA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jaryoung.com/2022/02/03/Add-PWA-to-hexo-in-fluid-theme/#&#34;&gt;优化打开博客速度，给您的Hexo添加上PWA吧&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.naaln.com/2017/09/hexo-with-pwa/&#34;&gt;让PWA支持HEXO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hexo.fluid-dev.com/posts/hexo-pwa/&#34;&gt;给 Hexo 博客添加 PWA 支持_&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://syean.cn/2018/12/17/hexo%E5%8D%9A%E5%AE%A2%E9%85%8D%E7%BD%AEPWA/#%E5%AE%89%E8%A3%85hexo-pwa&#34;&gt;Hexo博客配置PWA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.simicart.com/manifest-generator.html/&#34;&gt;Need help building your headless eCommerce storefront?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bboy.app/2020/01/11/%E8%AE%A9hexo%E6%94%AF%E6%8C%81pwa/&#34;&gt;让hexo支持pwa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mobaijun.com/posts/1630447354.html&#34;&gt;【Hexo】hexo 博客添加到桌面应用程序&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     <item>
       <title>新主题</title>
       <link>//localhost:1313/posts/47/</link>
       <pubDate>Sun, 19 Mar 2023 18:04:00 +0000</pubDate>
       <guid>//localhost:1313/posts/47/</guid>
-      <description>我又又又又又换主题啦，这个主题是西瓜撞地球这位仁兄推荐的，当时第一眼就喜欢上了，但是这个主题年久失修，作者最后一次提交依然停留在四年前，当时对于hexo主题的结构又不太熟悉，还不知道怎么改动，中途还小</description>
+      <description>&lt;p&gt;我&lt;strong&gt;又又又又又&lt;/strong&gt;换主题啦，这个主题是&lt;a href=&#34;https://www.bio-w.cn/&#34;&gt;西瓜撞地球&lt;/a&gt;这位仁兄推荐的，当时第一眼就喜欢上了，但是这个主题年久失修，作者最后一次提交依然停留在四年前，当时对于hexo主题的结构又不太熟悉，还不知道怎么改动，中途还小小的换过一次，但是其他方面不满意就放弃了，前几天忙的团团转，这几天想休息就想着把这个博客主题研究研究，于是终于还是有点眉目，从周二开始琢磨，到这个周末，刚好一个周的时间，上网搜了很多的教程，终于进入到尾声，其实昨天晚上我还在想，要不就算了，但是还不甘心，毕竟花费了这几天的时间，搞得我生活作息都不规律了。我也不知道为什么一眼就看中了这个主题，直到前几天有个朋友留言说“这个主题看起来很文艺”，我才恍然明白，原来我一直都是钟爱这类偏文艺风的风格。但是不知道这个主题还能坚持多久，想当初信誓旦旦的说自己再也不换主题，现在感觉还是把话说太满，现在只能祈祷与下一个怦然心动的主题相遇的时间晚一点，但这种可能性比较大，大部分的hexo博客主题和hugo博客主题我几乎都浏览完毕了，就遇见这几款中意的。&lt;/p&gt;
+&lt;p&gt;这个主题的改造相较还是比较简单的，我发现我写到一半的文章又开始去改动博客设置了，过程中遇到的很多问题我都不会，比如移动端适配，到现在我也不知道我的朋友圈页面怎么适配移动端，等到我哪天灵魂开窍了再说，以及我几天一直在找文章想弄明白GitHub action是怎么回事，发现看懂了，但是自己写一个代码还是不会，所以还是“借鉴”了其他人的代码，弄明白GitHub action的最终目的是想和obsidian连动起来，但是最终还是有一些缺陷，比如为什么obsidian每次使用obsidian-git插件上传改动到仓库的时候都会显示&lt;code&gt;No changes to push&lt;/code&gt;，也就是我的改动上传不了GitHub，但是从新关闭再打开仓库上传一次就成功了，如此循环往复，难道这就是我追求的丝滑写博客流程，绝对不是，但我还没找到问题在哪，所以想借用另外一个obsidian插件shell command，大概初步设想是利用shell command运行&lt;code&gt;.\hexo.sh&lt;/code&gt;，实现一键上传博客，再为shell command设置一个快捷键，这样在obsidian写好文章，然后点击快捷键的就可以了,可惜的是我还没实现，很好，到这篇博客写完也没弄好。&lt;/p&gt;
+&lt;p&gt;根据上面，目前剩下的问题有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;del&gt;朋友圈移动端适配&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;友链页面朋友圈适配&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;hexo+obsidian+GitHub写作工作流程&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;obsidian-git插件偶尔会失效&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;meta栏的爱心点击数据和热度显示已经失效不知道怎么回事。&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;后续，发现一个问题，hexo-deployer-heroku这个插件好像最近有点问题，导致我使用obsidian git出现问题，当我删掉根目录下&lt;code&gt;.deploy_git&lt;/code&gt;这个文件后，obsidian-git就恢复了正常，于是我决定卸载这个插件，我估计前几次我执行GitHub action失败也有这个插件的问题。一个小问题就是我在obsidian里面改动一个小标点的时候它竟然提交不上去，气死我了。以及显示这&lt;code&gt;Aborting commit due to empty commit message&lt;/code&gt;是啥意思啊,真的状况百出。&lt;/p&gt;
+&lt;h4 id=&#34;更新--2023年03月20---118&#34;&gt;更新  2023年03月20   1:18&lt;/h4&gt;
+&lt;p&gt;meta栏爱心和热度显示不正确的原因找到：原来是必须使用国内版的leancloud才可以，并且必须是备案的。&lt;/p&gt;
+&lt;h4 id=&#34;更新-2023年03月20日--11点&#34;&gt;更新 2023年03月20日  11点&lt;/h4&gt;
+&lt;p&gt;朋友圈移动端适配解决。&lt;/p&gt;
+&lt;h4 id=&#34;更新-2023年03月20日--1239&#34;&gt;更新 2023年03月20日  12:39&lt;/h4&gt;
+&lt;p&gt;友链页面朋友圈适配解决&lt;/p&gt;
+&lt;h4 id=&#34;更新-2023年03月22日--1345&#34;&gt;更新 2023年03月22日  13:45&lt;/h4&gt;
+&lt;p&gt;安装两个hexo博客速度优化的插件：&lt;/p&gt;
+&lt;h5 id=&#34;1安装资源压缩插件&#34;&gt;1.安装资源压缩插件&lt;/h5&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm install hexo-neat --save
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;在博客目录文件&lt;code&gt;_config&lt;/code&gt;添加如下代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# hexo-neat 压缩
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;neat_enable: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# 压缩html
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;neat_html:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  enable: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  exclude:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# 压缩css  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;neat_css:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  enable: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  exclude:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    - &amp;#39;**/*.min.css&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# 压缩js
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;neat_js:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  enable: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  mangle: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  output:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  compress:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  exclude:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    - &amp;#39;**/*.min.js&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    - &amp;#39;**/jquery.fancybox.pack.js&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    - &amp;#39;**/index.js&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这个插件虽然能压缩资源，在hexo-g的时候压缩，随着文章数量多了之后就会压缩加载很多，导致hexo-g的时间变长。&lt;/p&gt;
+&lt;h5 id=&#34;2安装图片懒加载插件&#34;&gt;2.安装图片懒加载插件&lt;/h5&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;npm&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;install&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;hexo&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lazyload&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;image&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;save&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;在博客目录文件&lt;code&gt;_config&lt;/code&gt;添加如下代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 图片懒加载&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;lazyload&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;bp&#34;&gt;true&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;onlypost&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;bp&#34;&gt;true&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;loadingImg&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;images&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;loading&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gif&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#如果不填写图片则使用默认的图片&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;因为我有相册页面，如果不只加载文章页面的话就会出现相册页面的图片加载不出来的现象，于是将&lt;code&gt;onlypost&lt;/code&gt;设置为true。&lt;/p&gt;
+&lt;h5 id=&#34;3安装代码突出插件&#34;&gt;3.安装代码突出插件&lt;/h5&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm i -S hexo-prism-plugin
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;设置如下：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;highlight:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  enable: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  line_number: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  auto_detect: false
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  tab_replace: &amp;#39;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  wrap: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  hljs: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prismjs:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  enable: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  preprocess: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  line_number: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  tab_replace: &amp;#39;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h5 id=&#34;4安装发布字数统计插件&#34;&gt;4.安装发布字数统计插件&lt;/h5&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm i --save hexo-wordcount
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;设置如下：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;postInfo:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  date: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  update: false
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  wordCount: false # set true.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  totalCount: false # set true.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  min2read: false # set true.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  readCount: false # set true.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h5 id=&#34;5安装rss-feed插件&#34;&gt;5.安装RSS feed插件&lt;/h5&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm install hexo-generator-feed --save
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;feed:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  type: atom
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  path: atom.xml
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  limit: 20
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  hub:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  content:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  content_limit: 140
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  content_limit_delim: &amp;#39; &amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  order_by: -date
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h5 id=&#34;6安装豆瓣插件&#34;&gt;6.安装豆瓣插件&lt;/h5&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm install hexo-douban --save
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;douban:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  id: 162448367
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  builtin: false
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  item_per_page: 10
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  meta_max_line: 4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  book:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    path: books/index.html
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    title: &amp;#39;This is my book title&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    quote: &amp;#39;This is my book quote&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    option:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  movie:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    path: movies/index.html
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    title: &amp;#39;This is my movie title&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    quote: &amp;#39;This is my movie quote&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    option:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  game:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    path: games/index.html
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    title: &amp;#39;This is my game title&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    quote: &amp;#39;This is my game quote&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    option:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  song:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    path: songs/index.html
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    title: &amp;#39;This is my song title&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    quote: &amp;#39;This is my song quote&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    option:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  timeout: 10000 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;更新-2023年03月22日--1412&#34;&gt;更新 2023年03月22日  14:12&lt;/h4&gt;
+&lt;p&gt;询问chatgpt4“如何将obsidian和hexo联动”，得到的答案令我感到满意，回答如下：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1.  使用Obsidian插件obsidian-git和Hexo插件hexo-deployer-git进行联动。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    首先，在Obsidian中使用obsidian-git插件将笔记同步到GitHub上，然后在Hexo的博客目录中使用hexo-deployer-git插件将GitHub上的笔记同步到静态网站中。这将确保Obsidian和Hexo之间的内容同步。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2.  使用Hexo插件hexo-generator-obsidian和Obsidian插件Dataview进行联动。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    hexo-generator-obsidian是一个Hexo插件，它将Obsidian笔记转换为Markdown文件，并将其添加到Hexo博客中。Dataview是一个Obsidian插件，它可以在Obsidian中使用SQL查询语言搜索和过滤笔记。通过将这两个插件结合起来，可以在Hexo博客中使用Dataview的查询语言搜索和过滤笔记。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;3.  使用Hexo主题Vault和Obsidian插件Vault进行联动。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Vault是一个Hexo主题，它专门设计用于与Obsidian一起使用。它可以从Obsidian中导入笔记，并将它们作为静态页面添加到Hexo博客中。Vault还支持Obsidian插件Vault，该插件可以在Obsidian中添加元数据，例如标签和别名。这些元数据可以在Vault主题中使用，以便在Hexo博客中更好地组织和呈现笔记。
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;注意：我发现&lt;code&gt;hexo-generator-obsidian&lt;/code&gt;根本不存在，只有一个hexo主题叫obsidian，所以谨慎使用。&lt;/p&gt;
+&lt;h4 id=&#34;更新-2023年03月22日-1517&#34;&gt;更新 2023年03月22日 15:17&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;出现一个bug&lt;/strong&gt;
+&lt;sub&gt;Pushing to github.com:wangyunzi/Annie.git kex_exchange_identification:Connection closed by remote host
+Connection closed by UNKNOWN port 65535
+fatal:Could not read from remote repository. Please make sure you have the correct access rights
+and the repository exists.
+&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;在重新git push 的时候出现这样的提示，在另外一个系统也遇到过这样的错误提示，当时解决了但没记录下来，这次想着记录下来&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;解决方案&lt;/strong&gt;
+将下列代码添加至 &lt;code&gt;~/.ssh/config&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Host github.com
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; Hostname ssh.github.com
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; Port 443
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;更新--2023年03年30日&#34;&gt;更新  2023年03年30日&lt;/h4&gt;
+&lt;p&gt;遇到这样的问题不知道怎么解决：
+&lt;img src=&#34;https://blog.wangyunzi.com/2023/03/30/1680186630.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;参考文章&#34;&gt;参考文章&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Sariay/hexo-theme-Annie&#34;&gt;Annie theme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sariay.github.io/2018/09/25/Annie%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/&#34;&gt;Annie主题更新日志&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sariay.github.io/2018/08/27/Annie%E4%B8%BB%E9%A2%98%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/&#34;&gt;Annie主题使用说明&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://yulinzhong.xyz/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/Github-Hexo-Annie%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/&#34;&gt;Github+Hexo+Annie博客搭建&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shaogui.life/2022/01/05/Hexo%E5%8D%9A%E5%AE%A2%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96/&#34;&gt;Hexo博客速度优化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://livejq.github.io/2019/optimize-hexo-blog.html&#34;&gt;HEXO博客的优化问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hexo.io/plugins/&#34;&gt;hexo插件合集&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.tencent.com/developer/article/2214749?areaSource=&amp;amp;traceId=&#34;&gt;【工具】用AI辅助论文/博客的写作：Obsidian+Text Generator的详细安装教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wtqdreamer.top/2020/05/24/hexo-chang-yong-an-zhuang-cha-jian/&#34;&gt;hexo常用安装插件&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/65059250/ssh-and-scp-failed-with-createprocessw-failed-error2-posix-spawn-no-such-file&#34;&gt;解决方案来源&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     <item>
       <title>常用命令合集</title>
       <link>//localhost:1313/posts/commands/</link>
       <pubDate>Sun, 13 Nov 2022 11:30:00 +0000</pubDate>
       <guid>//localhost:1313/posts/commands/</guid>
-      <description>mangodb的twikoo评论数据上传和下载 下载数据命令 mongoexport --uri mongodb+srv://xxx:xxx@cluster0.z5rsya3.mongodb.net/ --collection comment --type json --out twikoo-comments.json 上传数据命令 mongoimport --uri mongodb+srv://xxx:xxx@cluster0.z5rsya3.mongodb.net/test --collection comment --type json --file twikoo-comments.json --mode upsert 说明： 第一个xxx：数据名称 第二个xxx：密码 test是指mangodb数据库的名称 git</description>
+      <description>&lt;h4 id=&#34;mangodb的twikoo评论数据上传和下载&#34;&gt;mangodb的twikoo评论数据上传和下载&lt;/h4&gt;
+&lt;p&gt;下载数据命令&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; mongoexport --uri mongodb+srv://xxx:xxx@cluster0.z5rsya3.mongodb.net/ --collection comment --type json --out twikoo-comments.json
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;上传数据命令&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; mongoimport --uri mongodb+srv://xxx:xxx@cluster0.z5rsya3.mongodb.net/test --collection comment --type json --file twikoo-comments.json --mode upsert
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;说明：&lt;/p&gt;
+&lt;p&gt;第一个xxx：数据名称&lt;/p&gt;
+&lt;p&gt;第二个xxx：密码&lt;/p&gt;
+&lt;p&gt;test是指mangodb数据库的名称&lt;/p&gt;
+&lt;h4 id=&#34;git命令&#34;&gt;git命令&lt;/h4&gt;
+&lt;p&gt;写文章常用git&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &amp;#34;first commit&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch -M master
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -u origin master
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>折腾博客的尾声</title>
       <link>//localhost:1313/posts/10/</link>
       <pubDate>Mon, 22 Aug 2022 17:43:00 +0000</pubDate>
       <guid>//localhost:1313/posts/10/</guid>
-      <description>这几天十分纠结要不要买一个服务器给我的域名备案，但是自己并没有使用服务器的需求，其次是一个 服务器的价格真的贵的离谱，而且在阿里云购买服务器甚至需要购买三个月以上的。我起初认为像我这样的小博客，没有几个</description>
+      <description>&lt;p&gt;这几天十分纠结要不要买一个服务器给我的域名备案，但是自己并没有使用服务器的需求，其次是一个 服务器的价格真的贵的离谱，而且在阿里云购买服务器甚至需要购买三个月以上的。我起初认为像我这样的小博客，没有几个人浏览的网站，像备案这种复杂繁琐正规的流程就应该免除去，但是近来发现“没有备案的域名真的就是寸步难行”。想要给自己的网站加上CDN提速，但是域名没有备案；想使用国内版的leancloud，域名还是没有备案。今天去认真了解各个出售服务器的商家平台，发现大多都不适合我，欸，都有着繁琐的流程和要求，看的我脑袋疼。&lt;/p&gt;
+&lt;p&gt;关于这个博客搭建逐渐接近尾声，当然其中还有几个功能我还没设置完全，比如说相册页面，始终在网上没有找到我想要的教程，或是找到了按照教程操作没有成功，至于博客其他的到现在为止都很满意。这几天算是是而非，没有认真的寻找其他的教程，但是还是想吐槽一下hugo的教程实在是太少了，相较于hexo博客，使用hugo博客人屈指可数，只不过我感到十分庆幸的是在这条跌跌撞撞的道路上遇到了很多&lt;strong&gt;大佬&lt;/strong&gt;，正是他们无私的帮助才让我的博客搭建完美落幕。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>我的博客搭建历程——hugo</title>
       <link>//localhost:1313/posts/6/</link>
       <pubDate>Sat, 28 May 2022 15:44:00 +0000</pubDate>
       <guid>//localhost:1313/posts/6/</guid>
-      <description>继hexo搭建博客之后，完成hugo搭建博客就相对简单多了，因为hugo博客的搭建环境和hexo博客搭建环境是一样的，而且两个博客的部署都是一样的只需要记住一些简单常用的命令即可。 如果非要我选择一个博</description>
+      <description>&lt;p&gt;继hexo搭建博客之后，完成hugo搭建博客就相对简单多了，因为hugo博客的搭建环境和hexo博客搭建环境是一样的，而且两个博客的部署都是一样的只需要记住一些简单常用的命令即可。&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;如果非要我选择一个博客来当自己的主站使用的话，我应该会选hugo博客，但是对于我来说，hugo博客的致命打击就是主题好看的太少了，吸引我的是他的速度，我前面搭建的hugo博客速度真的是非常快，hexo博客也有他的缺点，比如我这个博客最大的缺点就是css和图片渲染太慢了，打开我的博客第一眼看到的就是我的白板，极其影响浏览博客的观感，而且一些icon有时候也会比较慢，我刚开始时以为是我用阿里云图床慢的原因，后来发现其实这就是hexo博客的缺点。&lt;/p&gt;
+&lt;p&gt;话不多说了，直接上步骤吧！&lt;/p&gt;
+&lt;h2 id=&#34;安装chocolatey&#34;&gt;安装CHOCOLATEY&lt;/h2&gt;
+&lt;p&gt;其实我也不知道这是什么东西，可以去&lt;a href=&#34;https://docs.chocolatey.org/en-us/choco/setup#more-install-options&#34;&gt;官网&lt;/a&gt;浏览了解，我当时是稀里糊涂的安装的，因为后面安装hugo需要，官网上写了两种安装方式，我不知到这两种有啥区别，我选择简单的一种，打开终端输入&lt;/p&gt;
+&lt;p&gt;（ Install with cmd.exe）：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;@&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;%SystemRoot%\System32\WindowsPowerShell&lt;/span&gt;&lt;span class=&#34;se&#34;&gt;\v&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;1.0\powershell.exe&amp;#34;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;NoProfile&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;InputFormat&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;None&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ExecutionPolicy&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Bypass&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Command&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;[System.Net.ServicePointManager]::SecurityProtocol = 3072; iex ((New-Object System.Net.WebClient).DownloadString(&amp;#39;https://community.chocolatey.org/install.ps1&amp;#39;))&amp;#34;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;SET&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey&lt;/span&gt;&lt;span class=&#34;se&#34;&gt;\b&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;in&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;安装hugo&#34;&gt;安装hugo&lt;/h2&gt;
+&lt;p&gt;还是老规矩，自己去&lt;a href=&#34;https://gohugo.io/getting-started/installing&#34;&gt;官网&lt;/a&gt;浏览，这里我们选择用到前面的**Chocolatey (Windows)**安装，这里也可以用两种方式安装，分别是：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;choco install hugo -confirm
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;and&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;choco install hugo-extended -confirm
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这里博主强烈建议&lt;strong&gt;安装第二种方案&lt;/strong&gt;，因为刚开始我比较随意选择安装了第一种，后面开始上传博客的时候就出现问题了，就会出现你缺少&lt;code&gt;hugo-ectended&lt;/code&gt;，没错，就是第二种，后来我安装第二种之后才解决连这个问题。&lt;/p&gt;
+&lt;p&gt;安装之后建议检查一下版本，看看安装成功没，输入代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo version
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;就会出现下面：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/image-20220528173536193.png&#34; alt=&#34;image-20220528173536193&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这里注意和hexo检查版本的代码不一样。&lt;/p&gt;
+&lt;h2 id=&#34;建立博客&#34;&gt;建立博客&lt;/h2&gt;
+&lt;p&gt;为博客创建本地项目：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo new site blog-name
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;进入博客：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cd blog-name
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;生成静态文件public&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;更换主题&#34;&gt;更换主题&lt;/h2&gt;
+&lt;p&gt;由于前面我说过hexo主题我很难找到自己喜欢的，但是我认为有几个主题不错，分别是：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;ghcard Ice-Hazymoon/hugo-theme-luna&lt;/th&gt;
+&lt;th&gt;ghcard reuixiy/hugo-theme-meme&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;p&gt;自己选择喜欢的去更换即可。&lt;/p&gt;
+&lt;h2 id=&#34;发布文章&#34;&gt;发布文章&lt;/h2&gt;
+&lt;p&gt;新建文章&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo new post/我的第一篇文章.md
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;本地预览&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo sever -D
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;文章根目录下生成静态文章：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;进入&lt;code&gt;public&lt;/code&gt;文件夹&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cd public
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;接着输入以下代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add . 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &amp;#39;first commit&amp;#39; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -u origin master
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;引用图片&#34;&gt;引用图片&lt;/h2&gt;
+&lt;p&gt;一般博客文章引用图片都是需要相对路径，在hugo博客里面的数据都是放在&lt;code&gt;static&lt;/code&gt;目录下的，所以我们需要将图片放置在这个文件夹下面，步骤如下：&lt;/p&gt;
+&lt;p&gt;1.在文章目录下，hugo博客一般都是&lt;code&gt;D:\Blog\wangyunzi\content\posts&lt;/code&gt;这样的目录下面的，然后新建专门放文件图片的文件夹；&lt;/p&gt;
+&lt;p&gt;2.写文章时本来需要引用这个文件夹的图片的相对路径，比如&lt;code&gt;![](images/blog.jpg)&lt;/code&gt;，我们需要将它改为&lt;code&gt;![](/images/blog.jpg)&lt;/code&gt;,这样后面才会图片不会出错；&lt;/p&gt;
+&lt;p&gt;3.最后将这些你引用过的文章转移到&lt;code&gt;static&lt;/code&gt;文件夹下面。&lt;/p&gt;
+&lt;p&gt;最后经过我实践之后发现上面的步骤有点臃肿，固将步骤更改为下：&lt;/p&gt;
+&lt;p&gt;1.&lt;code&gt;static&lt;/code&gt;目录下直接新建放置图片的文件夹比如说&lt;code&gt;D:\Blog\wangyunzi\static\imgs&lt;/code&gt;,要用的图片直接放进去;&lt;/p&gt;
+&lt;p&gt;2.引用图片的时候直接按照&lt;code&gt;![](/imgs/blog.jpg)&lt;/code&gt;这样的格式写就可以了。&lt;/p&gt;
+&lt;h2 id=&#34;总结&#34;&gt;总结&lt;/h2&gt;
+&lt;p&gt;最后关于图片的使用其实一般有两种方式，一种就是上面的直接使用本地图片上传，还有就是会使用图床。在刚开始接触博客的时候我一直坚信本地上传图片是最好的，因为图床不仅折腾起来有点麻烦，最重要的是需要花费money，这对一个贫穷的大学生无疑是一个不小的打击。但是在后面的接触中，我慢慢“真香”了，图床使用起来确实方便了许多，而且移动性比较方便，有时候引用速度比本都引用还要快一点。目前我使用的是阿里云储存oss当做图床，感觉还不错，没有太大的问题。但是可能是我比较放肆的缘故，今天阿里云突然发给我一个&lt;strong&gt;余量预警&lt;/strong&gt;，犹如一个晴天霹雳，因为一元钱优惠买的40G储存才几天时间几乎就被我花光了，太难了，以后还是悠着点用吧。&lt;/p&gt;
+&lt;img src=&#34;https://blog.wangyunzi.com/article/image-20220528191205618.png&#34; width=&#34;&#34; height=&#34;200&#34;&gt;
+</description>
     </item>
     <item>
       <title>hexo博客错误锦集</title>
       <link>//localhost:1313/posts/5/</link>
       <pubDate>Sat, 28 May 2022 11:49:00 +0000</pubDate>
       <guid>//localhost:1313/posts/5/</guid>
-      <description>最近刚把博客搭建成功，自己松了一口气，准备美美的为自己博客送上几篇文章欣赏一番，却不料后面的情况又层出不穷，真就是“一波未平，一波又起”，但咱也算是见过大场面的人了，所以冷静了一下，上网迅速一搜，事情</description>
+      <description>&lt;p&gt;最近刚把博客搭建成功，自己松了一口气，准备美美的为自己博客送上几篇文章欣赏一番，却不料后面的情况又层出不穷，真就是“一波未平，一波又起”，但咱也算是见过大场面的人了，所以冷静了一下，上网迅速一搜，事情差不多就美满解决了。&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;就像小时候做数学题一样，这些错误经历过了，不懂得记录下来，其实也算是白白经历了一遭倒不如不去经历这一遭。所以为了弥补本人“鱼的记忆”的缺陷，我决定慢慢将这些问题收集起来，并附上我当时成功的解决经验，这只能算作我自己的解决经验，并不能作为一个普遍经验使用，毕竟人类的真理是通过广大人民群众的共同的经历总结出来的，所以我一个也不能算做正确的、唯一的做法。&lt;/p&gt;
+&lt;h3 id=&#34;github仓库&#34;&gt;github仓库&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;当我推送到了github上之后，好家伙，给了我这一个警告，于是连忙使用“搜索大法”，最后的解决的方案是：&lt;/p&gt;
+&lt;p&gt;1.首先将本地博客的文件里面删除&lt;code&gt;package-lock.json&lt;/code&gt;这个文件夹；&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/image-20220528123924449.png&#34; alt=&#34;image-20220528123924449&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2.然后打开&lt;code&gt;.gitignore&lt;/code&gt;将&lt;code&gt;package-lock.json&lt;/code&gt;输入进去：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/image-20220528124309643.png&#34; alt=&#34;image-20220528124309643&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;最后正常将本地博客push到github仓库，就会发现仓库里面没有了&lt;code&gt;package-lock.json&lt;/code&gt;
+&lt;img src=&#34;https://blog.wangyunzi.com/article/image-20220528124650882.png&#34; alt=&#34;image-20220528124650882&#34;&gt;&lt;/li&gt;
+&lt;li&gt;最后把你删除的&lt;code&gt;package-lock.json&lt;/code&gt;文件再还原回来就行了，以后正常推送都没问题了。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;推送时出现问题&#34;&gt;推送时出现问题&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/image-20220528122548731.png&#34; alt=&#34;image-20220528122548731&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;依旧是git出现问题，这个我上网搜了一下原因，但是我也看不懂，有兴趣可以去知乎上看一下这个&lt;a href=&#34;https://www.zhihu.com/question/50862500&#34;&gt;回答&lt;/a&gt;,但是对于我的解决时终端输入这个代码&lt;code&gt;git config --global core.autocrlf false&lt;/code&gt; ，这是廖雪峰老师的解决方案哦&lt;/p&gt;
+&lt;h3 id=&#34;发布时出现问题&#34;&gt;发布时出现问题&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/2.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;不知道什么原因我用&lt;code&gt;git add ..&lt;/code&gt; 推送就会出现这个问题，但是用&lt;code&gt;git add .&lt;/code&gt; 就不会出现这个问题，刚开始的解决方案是输入代码 &lt;code&gt;git master&lt;/code&gt; 还能有用，但是现在还是直接用&lt;code&gt;git add .&lt;/code&gt; 推送&lt;/p&gt;
+&lt;h3 id=&#34;发布时出现问题-1&#34;&gt;发布时出现问题&lt;/h3&gt;
+&lt;p&gt;由于自己没有截图意识所以导致问题没有图片，但是是我一次推送的时候显示&lt;code&gt;ssh_exchange_identification: Connection closed by remote host&lt;/code&gt;，刚开始上网搜了很多都说是ssh的问题，就是什么公钥、私钥的问题 ，但是我还是没找到具体的解决方案，终于在&lt;a href=&#34;https://www.zhihu.com/question/20023544&#34;&gt;知乎&lt;/a&gt;上看到另一个解决方案:&lt;/p&gt;
+&lt;p&gt;我是直接使用第一种解决方法就可以了，因为我时刻都开着代理的，只需要关闭代理就好了&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>我的博客搭建历程——hexo</title>
       <link>//localhost:1313/posts/4/</link>
       <pubDate>Fri, 27 May 2022 15:36:00 +0000</pubDate>
       <guid>//localhost:1313/posts/4/</guid>
-      <description>hexo搭建博客学习经过只是作为自己的经验总结，并不作为教程使用，主要是将博客搭建在github上。里面包含自己搭建博客的一些踩的坑，虽然不是很全面，但是可以大概了解。 前言 如果大家想要了解hexo，可</description>
+      <description>&lt;p&gt;hexo搭建博客学习经过只是作为自己的经验总结，并不作为教程使用，主要是将博客搭建在github上。里面包含自己搭建博客的一些踩的坑，虽然不是很全面，但是可以大概了解。&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;如果大家想要了解&lt;a href=&#34;https://hexo.io/zh-cn/&#34;&gt;hexo&lt;/a&gt;，可以去&lt;a href=&#34;https://hexo.io/zh-cn/&#34;&gt;hexo&lt;/a&gt;官方文档看一下,这里主要以纯教程为主。以下的博客搭建主要是在windows下进行，搭建需要&lt;strong&gt;NodeJS&lt;/strong&gt;和&lt;a href=&#34;https://git-scm.com/downloads&#34;&gt;&lt;strong&gt;git&lt;/strong&gt;&lt;/a&gt;，强烈推荐在CSDN上搜索就会有一大堆详细的教程，前期还需要准备一个&lt;strong&gt;github&lt;/strong&gt;账号，但是对于第一次安装git需要仔细一点，最好找一个全面的教程一步步跟着做，这些我没有写的但是提到的步骤我都会列在我的文末参考资料。&lt;/p&gt;
+&lt;h2 id=&#34;实践操作&#34;&gt;实践操作&lt;/h2&gt;
+&lt;h3 id=&#34;github账号&#34;&gt;Github账号&lt;/h3&gt;
+&lt;p&gt;创建一个GitHub账号，新建一个仓库，仓库名字一定要写成&lt;em&gt;&lt;strong&gt;name.github.io&lt;/strong&gt;&lt;/em&gt;这样的形式，name可以随便改，选择选择public，然后创建仓库。&lt;/p&gt;
+&lt;img src=&#34;https://blog.wangyunzi.com/article/image-20220527152530735.png&#34; alt=&#34;image-20220527152530735&#34; style=&#34;zoom: 50%;&#34; /&gt;
+&lt;h3 id=&#34;安装hexo&#34;&gt;安装hexo&lt;/h3&gt;
+&lt;p&gt;1.打开电脑终端输入以下代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;npm&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;install&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;g&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;hexo&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;cli&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;2.查看hexo版本：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hexo -v
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;3.此时创建一个博客，我的博客是安装在D:\Blog下面的，你们也可以选择自己喜欢的目录下进行（myblog博客名称，可以更改）&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hexo init myblog
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;4.进入博客&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cd myblog
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;5.安装npm&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm install
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;6.生成静态文件&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hexo g
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;7.本地测试&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hexo s
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;此时一个简单的博客就完成了。&lt;/p&gt;
+&lt;h3 id=&#34;安装主题&#34;&gt;安装主题&lt;/h3&gt;
+&lt;p&gt;hexo博客官网有很多主题，也可以在github上直接搜索hexo主题 ，可以选择一个你最喜欢，我用的是volantis主题。以下步骤在D:\Blog\myblog下进行&lt;/p&gt;
+&lt;p&gt;1.依然是终端打开博客，将主题下载下来&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone https://github.com/xaoxuu/hexo-theme-volantis themes/Volantis
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;2.安装依赖包&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm i -S hexo-generator-search hexo-generator-feed hexo-renderer-less hexo-autoprefixer hexo-generator-json-content hexo-recommended-posts
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;3.打开博客目录（D:\Blog\myblog）下的配置文件&lt;code&gt;_config.yml&lt;/code&gt;,然后找到如下代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;## Themes: https://hexo.io/themes/
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;theme: landscape
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;将landscape改为volantis。&lt;/p&gt;
+&lt;p&gt;4.接下来就是艰难的主题修改了，用的啥主题就是看主题文档，看着给的提示修改。&lt;/p&gt;
+&lt;h3 id=&#34;部署到github&#34;&gt;部署到Github&lt;/h3&gt;
+&lt;p&gt;1.打开上个步骤目录下的配置文件&lt;code&gt;_config.yml&lt;/code&gt;，然后找到如下代码修改：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;deploy:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  type: git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  repo: git@github.com:wangyunzi/wangyunzi.github.io.git（仓库地址，如下图）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  branch: master（分支）
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2.安装插件：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm install hexo-deployer-git --save
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;3.由于安装git步骤已经跳过，默认你已经安装成功了，本地与远程已经部署好了，所以接下来输入以下清除缓存文件&lt;code&gt;db.json&lt;/code&gt;和已生成的静态文件public&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; hexo clean  
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;4.生成网站静态文件到默认设置的public文件夹&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hexo g
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;5.部署网站到设定的仓库&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hexo d
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;6.创建文章&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hexo new post 第一篇文章
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;输入以上代码就会发现在source文件夹下的post里面就会有“第一篇文章”这个md文件，编写内容。&lt;/p&gt;
+&lt;p&gt;7.提交文章和部署到文章差不多，依次输入下面的代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hexo clean
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hexo g
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hexo d
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;到此，博客就布置的差不多啦。&lt;/p&gt;
+&lt;h3 id=&#34;部署到github和vercel&#34;&gt;部署到github和vercel&lt;/h3&gt;
+&lt;p&gt;由于后来安装的博客越来越多，发现继续使用name.github.io这个行不通了，具体原理我也说不通，后来虽然我发现也可以布置两个这样的博客，但是有点复杂，就果断选择放弃了，于是选择将文件push到github上，然后github与vercel链接，这样vercel就会给你一个类似name.vercel.app这样的免费域名，在vercel上你可以拥有无数个博客，这也是我后来逐渐喜欢上vercel的原因，最后我发现可以不push到github上，直接push到vercel上，这也是一个非常不错的办法，在我末尾的参考文献可以找到。（此部分可以选择看或不看）&lt;/p&gt;
+&lt;p&gt;1.同样，新建一个博客，可以私密也可以公开，我建议最好设置成私密的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/2.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2.初始化博客，然后你就会发现博客目录下多了一个&lt;code&gt;.git&lt;/code&gt;文件&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;3.接着输入一下代码，这是第一次push到仓库的步骤：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add ..
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &amp;#34;first commit&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git remote add origin git@github.com:wangyunzi/a.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch -M master
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -u origin master
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;git remote部分输入自己的仓库ssh，就是前面步骤提到的那个，“first commit”可以改成其他的，这个表示提交名称，提交之后会在仓库上看到。&lt;/p&gt;
+&lt;p&gt;4.如果以后修改博客或是提交文章就可以直接输入以下步骤：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hexo clean
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hexo g
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add ..
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &amp;#34;first commit&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch -M master
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -u origin master
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;5.上面我们已经将博客push到github上保存好了，接下来就直接和vercel连接起来，登录的时候就用github的账号登录这样方便快捷一点，然后新建一个项目：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/3.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;6.导入我们刚刚创建的github博客&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/4.jpg&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
+&lt;p&gt;7.填写名称，这个名称就是你网址前面部分名字，比如我的博客网址yunzi.vercel.app在vercel上的项目名称就是yunzi，然后deploy，稍等几分钟就会出现一个页面写着congratulation，说明成功了，回到项目主页：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/5.jpg&#34; alt=&#34;5&#34;&gt;&lt;/p&gt;
+&lt;p&gt;8.打开网址看一下，这样以后别人打开你的这个网址就看到你的博客啦：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/6.jpg&#34; alt=&#34;6&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;直接部署到vercel&#34;&gt;直接部署到vercel&lt;/h3&gt;
+&lt;p&gt;虽然在参考文献里面已经有了一篇比较完整的文章了，但是我在按照步骤进行的时候还是出现了一点小问题，主要是我实际操作和他的有一些不一样，所以我来捋顺一下我的整个步骤，为此我新开了一篇hexo博客演示😂😂。&lt;/p&gt;
+&lt;p&gt;1.首先安装vercel&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm install -g vercel 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/7.jpg&#34; alt=&#34;7&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2.生成hexo静态文件&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hexo g
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;3.按照教程是要求到public下进行的，但是我那样操作后有错误，所以直接在博客目录下进行以下步骤即可，输入代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;vercel
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/8.jpg&#34; alt=&#34;8&#34;&gt;&lt;/p&gt;
+&lt;p&gt;直接点击&lt;strong&gt;enter&lt;/strong&gt;，因为前面我们是使用github登录的，我没使用过下面几个选项，想尝试的可以尝试，接着就会在浏览器出现让你使用github账户登录的页面，有些可能不会出现，接着就会出现：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/9.jpg&#34; alt=&#34;9&#34;&gt;&lt;/p&gt;
+&lt;p&gt;慢慢分析这些代码，success表示用github登录成功，然后询问你是否需要将本地博客文件test上传，直接点击enter，会询问你是否想上传到你的vercel账户，wangyunzi是我的vercel账户名称，是否上传已经有的vercel项目，因为我没有在vercel上建过这个项目，我就直接填一个n（NO)，如果你已经建立了，就还是继续enter，项目名称是什么，就和我们上面那个步骤一样，网址的名称，接下来一直enter，稍等一会儿：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/10.jpg&#34; alt=&#34;10&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这张图片就表示我已经上传成功了，然后我们在我们的vercel页面来看看：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/11.jpg&#34; alt=&#34;11&#34;&gt;&lt;/p&gt;
+&lt;p&gt;看来我的博客已经成功了哈，点击链接进去看就是我的博客啦！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/article/12.jpg&#34; alt=&#34;12&#34;&gt;&lt;/p&gt;
+&lt;p&gt;4.依次输入以下代码发表文章：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hexo cl 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hexo g 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;vercel --prod --confirm 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;总结&#34;&gt;总结&lt;/h2&gt;
+&lt;p&gt;以上差不多就是我一整个hexo搭建博客的历程，虽然现在自己操作这些流程非常顺畅没遇到啥问题，但是像当初的我只要做一个步骤就会出现一个错误，一连串报错常常让我措手不及，浏览器打开的网页比我写论文时打开的网页都还要多😪，真真就是“一把辛酸泪”。接下来还是会慢慢记述自己用hugo搭建博客和notion搭建博客的历程。其实对于我自己来说，弄这些博客的步骤都是比较混乱的一个状态，都是出现一个错误然后上网搜索一个错误，没有正常、完整的步骤，所以现在也算是一个复盘的过程，以便于自己日后若是忘记了也可以回顾一下。最后想对自己说，你慢慢回去删除那些因为需要演示建立的仓库以及截图的样子真美，写完一篇文章，桌面上布满了截图。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;See you later!&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
     </item>
     <item>
       <title>我的博客搭建历程</title>
       <link>//localhost:1313/posts/3/</link>
       <pubDate>Fri, 27 May 2022 14:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/3/</guid>
-      <description>在此之前的几个月，我还是一个对博客搭建一窍不通的小白，已经忘记具体是什么时候开始一步步学会把博客搭建成功的。 最开始的初心其实很简单，只是想要一个可以供自己随心所欲写作或是属于自己的小空间，于是不断地上</description>
+      <description>&lt;p&gt;在此之前的几个月，我还是一个对博客搭建一窍不通的小白，已经忘记具体是什么时候开始一步步学会把博客搭建成功的。&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;最开始的初心其实很简单，只是想要一个可以供自己随心所欲写作或是属于自己的小空间，于是不断地上网搜索，终于一篇“教小白搭建属于自己的博客”的文章标题映入眼帘，欣然打开文章，然后毫不犹豫的跟着教程一步步的进行，但是结果可想而知，错误、失误以及根本不懂什么意思成为了我搭建博客的绊脚石，不断会有各种错误出现，即使拥有强大的谷歌搜索浏览器的我也束手无策，因为不知从何下手，整个人就是一种深有、懵懂状态，也不知道什么什么神秘的力量驱使我，我好像一定要学会这个教程，直到现在我也觉得很幸运。接下来的步骤其实就是一通乱搜，就像一个初生牛犊到处乱撞，即使已经很久没有熬夜的我竟也开始为了完成这个开始熬夜。&lt;/p&gt;
+&lt;p&gt;后来的故事我觉得是一段很奇妙的经历，在网上向陌生人寻求帮助，为此还看到了很多大佬漂亮、实用的博客，正是因为看到了他们的博客，我更加坚定了自己需要搭建自己的博客信念。作为一个几乎很少上网冲浪的00后，却在这段经历中遇到了很多好朋友，即使是面对陌生人的我，即使我向他们询问的问题多么简单，也有很多的大佬依旧耐心帮助我。你向一个陌生人发送了一封邮件，然后邮件的另一方回复你回答你的疑惑，这是一种奇妙的感觉。&lt;/p&gt;
+&lt;p&gt;毫无疑问的说，我喜欢上了这种不断创造的过程，即使遇到很多未知的错误。这是一种探索的历程，心中没有太多的杂质，只想要完成一个目标，然后将自己沉浸其中，这样的快乐对于我来讲妙不可言。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;“真实的、永恒的、最高级的快乐，只能从三样东西中取得，就是工作，自我控制，和爱。”&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;人总要有一些兴趣爱好才能让自己的生活不再枯燥，但是我已经枯燥很久，我对于外面的世界似乎少了一份好奇心，这样的状态就像一滩死水，激荡不起一丝涟漪，搭建博客刚好让我沉浸在另外一个世界，让我开始有了一些期待和渴望，学习的过程可以抛弃一些原本生活的沉闷，同样也可以结识许多有趣的人，何尝不是生活的另外一种尝试。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>

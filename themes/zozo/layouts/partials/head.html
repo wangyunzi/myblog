@@ -32,7 +32,7 @@
 	{{ with .OutputFormats.Get "rss" }}
 	{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end }}
-    
+
     <link rel="shortcut icon" href="{{ "images/favicon.ico" | absURL }}" />
 
     <link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}css/normalize.css" />
@@ -50,6 +50,7 @@
     {{ if .Site.Params.enableMathJax }}
     {{ partial "mathjax.html" . }}
     {{ end }}
+
     <!-- custom css -->
     {{ range .Site.Params.customCSS }}
     <link rel="stylesheet" href="{{ "css/" | absURL }}{{ . }}" />
