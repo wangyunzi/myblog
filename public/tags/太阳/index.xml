@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>太阳 on 长街短梦</title>
     <link>//localhost:1313/tags/%E5%A4%AA%E9%98%B3/</link>
     <description>Recent content in 太阳 on 长街短梦</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 14 Jan 2024 20:35:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/%E5%A4%AA%E9%98%B3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jan 2024 20:35:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E5%A4%AA%E9%98%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>寒假第一天</title>
       <link>//localhost:1313/posts/90/</link>
       <pubDate>Sun, 14 Jan 2024 20:35:00 +0000</pubDate>
+      
       <guid>//localhost:1313/posts/90/</guid>
-      <description>&lt;p&gt;晒太阳，感受暖洋洋的阳光，久违的平静。
-碰见一老大爷，走路缓慢，他也在晒太阳。
-还碰见一对双胞胎姐妹，两个人可爱的嬉笑。
-天空真的很蓝，喜欢蓝色不仅是一种心情，更是一种生活。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://album.wangyunzi.com/2024/01/14/QLOZ42.JPG&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://album.wangyunzi.com/2024/01/14/jnWzKa.JPG&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://album.wangyunzi.com/2024/01/14/Dux9ze.JPG&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://album.wangyunzi.com/2024/01/14/Xz5FAu.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
+      <description>晒太阳，感受暖洋洋的阳光，久违的平静。 碰见一老大爷，走路缓慢，他也在晒太阳。 还碰见一对双胞胎姐妹，两个人可爱的嬉笑。 天空真的很蓝，喜欢蓝色不仅是一种心情，更是一种生活。</description>
     </item>
+    
   </channel>
 </rss>

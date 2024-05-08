@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>时间 on 长街短梦</title>
     <link>//localhost:1313/tags/%E6%97%B6%E9%97%B4/</link>
     <description>Recent content in 时间 on 长街短梦</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 28 Mar 2024 21:02:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/%E6%97%B6%E9%97%B4/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Mar 2024 21:02:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E6%97%B6%E9%97%B4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>年少不再，青春逝去</title>
       <link>//localhost:1313/posts/105/</link>
       <pubDate>Thu, 28 Mar 2024 21:02:00 +0000</pubDate>
+      
       <guid>//localhost:1313/posts/105/</guid>
-      <description>&lt;p&gt;  杭州近来的天气十分喜怒无常，上班的时候天空昏沉沉，下班之后就是一轮火红的太阳挂在西边。地铁站口的斑马线上看到一个老奶奶，一下就吸引我的眼光，白色带着金色的短发，一双大红色的小皮鞋，通身透露着优雅和宁静。曾经从未想过老去的我会是什么样子的，或许是一个爬满皱纹的小老太，每天板着一张不开心的脸，穿着几件老头衫，站在路边吃着烤肠，但是绝对做不到是这样的优雅。
-  接触互联网多了才知道原来很多人都害怕脸上的皱纹，会害怕松弛下垂的皮肤，所以他们听信着很多商家的谎话，不断买这样那样的护肤产品，但我想，我们都会逝去的啊，如果能自然静静地等待老去何尝不是一种幸福而言。某天黑色的长发不知不觉多了两根白发，舍不得拔掉，也不会想着买产品剃掉手臂上的毛发，越来越能坦然的接受身体的每一处变化。
-  如果生命中奖逝去，我可以接受这样的变化，但是啊，我希望，时间慢一些，再慢一些。&lt;/p&gt;
-</description>
+      <description>杭州近来的天气十分喜怒无常，上班的时候天空昏沉沉，下班之后就是一轮火红的太阳挂在西边。地铁站口的斑马线上看到一个老奶奶，一下就吸引我的眼光，白色带着金色的短发，一双大红色的小皮鞋，通身透露着优雅和宁静</description>
     </item>
+    
   </channel>
 </rss>

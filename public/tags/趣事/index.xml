@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>趣事 on 长街短梦</title>
     <link>//localhost:1313/tags/%E8%B6%A3%E4%BA%8B/</link>
     <description>Recent content in 趣事 on 长街短梦</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 22 Mar 2024 20:20:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/%E8%B6%A3%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Mar 2024 20:20:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E8%B6%A3%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>谁翻了我的垃圾桶？</title>
       <link>//localhost:1313/posts/103/</link>
       <pubDate>Fri, 22 Mar 2024 20:20:00 +0000</pubDate>
+      
       <guid>//localhost:1313/posts/103/</guid>
-      <description>&lt;p&gt;  今天下班回到宿舍就发现自己的垃圾桶被翻了一地，心理慌了一下，想着不会是进贼了吧，但是仔细观察一番却发现只有垃圾桶被翻过，其他都是好好的，于是心里升起一丝疑惑，主要是我们宿舍的安保十分不错，接着就看到连接阳台的门没关纱窗门也没关，联想到昨天晚上有个同学在寝室群里说自己的衣服被小鸟拉屎了，就想着会不会是小鸟飞进来翻了垃圾桶，心里越这样想，就越是更加确定自己已经破案了，收拾好了之后问群里的小伙伴，于是就发生了很多有趣的对话。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/2024/03/22/ip78uD.jpg&#34; alt=&#34;ip78uD&#34;&gt;
-&lt;img src=&#34;https://blog.wangyunzi.com/2024/03/22/pdBo7N.jpg&#34; alt=&#34;pdBo7N&#34;&gt;
-&lt;img src=&#34;https://blog.wangyunzi.com/2024/03/22/bwGdJu.jpg&#34; alt=&#34;bwGdJu&#34;&gt;
-&lt;img src=&#34;https://blog.wangyunzi.com/2024/03/22/zrJw24.jpg&#34; alt=&#34;zrJw24&#34;&gt;
-&lt;img src=&#34;https://blog.wangyunzi.com/2024/03/22/Nc9QUM.jpg&#34; alt=&#34;Nc9QUM&#34;&gt;
-&lt;img src=&#34;https://blog.wangyunzi.com/2024/03/22/nI8jgO.jpg&#34; alt=&#34;nI8jgO&#34;&gt;&lt;/p&gt;
-</description>
+      <description>今天下班回到宿舍就发现自己的垃圾桶被翻了一地，心理慌了一下，想着不会是进贼了吧，但是仔细观察一番却发现只有垃圾桶被翻过，其他都是好好的，于是心里升起一丝疑惑，主要是我们宿舍的安保十分不错，接着就看到连</description>
     </item>
+    
   </channel>
 </rss>

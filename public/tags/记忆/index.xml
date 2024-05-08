@@ -1,29 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>记忆 on 长街短梦</title>
     <link>//localhost:1313/tags/%E8%AE%B0%E5%BF%86/</link>
     <description>Recent content in 记忆 on 长街短梦</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 20 Feb 2023 22:49:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/%E8%AE%B0%E5%BF%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 22:49:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E8%AE%B0%E5%BF%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>记忆七宗罪</title>
       <link>//localhost:1313/posts/40/</link>
       <pubDate>Mon, 20 Feb 2023 22:49:00 +0000</pubDate>
+      
       <guid>//localhost:1313/posts/40/</guid>
-      <description>&lt;p&gt;记忆七罪（The seven sins of memory)&lt;/p&gt;
-&lt;p&gt;记忆七罪分为：健忘、失神、空白、错认、暗示、偏颇及纠缠&lt;/p&gt;
-&lt;p&gt;健忘(Transience)：随着时间而记忆褪色或消失。&lt;/p&gt;
-&lt;p&gt;失神(Absent-mindedness)：心不在焉，忘东忘西。&lt;/p&gt;
-&lt;p&gt;空白(Blocking)：怎样想都想不出来但事后又突然间想回来。&lt;/p&gt;
-&lt;p&gt;错认(Misattribution)：张冠李戴，误把幻想当作事实。&lt;/p&gt;
-&lt;p&gt;暗示(Suggestibility)：受到外界的误导而扭曲记忆。&lt;/p&gt;
-&lt;p&gt;偏颇(Bias)：根据目前的认知或训练，而改变对过去的记忆。&lt;/p&gt;
-&lt;p&gt;纠缠(Persistence)：一直无法释怀的恼人回忆。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/2023/02/1132abf6069a3b9b477201fd7ce2ced1.jpg&#34; alt=&#34;记忆七宗罪&#34;&gt;&lt;/p&gt;
-</description>
+      <description>记忆七罪（The seven sins of memory) 记忆七罪分为：健忘、失神、空白、错认、暗示、偏颇及纠缠 健忘(Transience)：随着时间而记忆褪色或消失。 失神(Absent-mindedness)：心不在焉，忘东忘西。 空</description>
     </item>
+    
   </channel>
 </rss>

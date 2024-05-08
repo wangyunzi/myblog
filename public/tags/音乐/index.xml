@@ -1,185 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>音乐 on 长街短梦</title>
     <link>//localhost:1313/tags/%E9%9F%B3%E4%B9%90/</link>
     <description>Recent content in 音乐 on 长街短梦</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Apr 2024 21:59:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/%E9%9F%B3%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Apr 2024 21:59:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E9%9F%B3%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>分享音乐-青春的颜色</title>
       <link>//localhost:1313/posts/108/</link>
       <pubDate>Wed, 03 Apr 2024 21:59:00 +0000</pubDate>
+      
       <guid>//localhost:1313/posts/108/</guid>
-      <description>&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=330 height=86 src=&#34;//music.163.com/outchain/player?type=2&amp;id=1965113529&amp;auto=1&amp;height=66&#34;&gt;&lt;/iframe&gt;
-&lt;blockquote&gt;
-&lt;p&gt;作词 : 曾子岚&lt;br&gt;
-作曲 : 曾子岚&lt;br&gt;
-花儿流着泪 会枯萎 虽然美&lt;br&gt;
-时光飞逝悄然抹去了香味&lt;br&gt;
-我们不再追 追着谁 拖着谁&lt;br&gt;
-只是年少轻狂留下的疲惫&lt;br&gt;
-风儿伴着月 冷的夜 白的雪&lt;br&gt;
-饮着曾经沧海岁月酿的醉&lt;br&gt;
-你的那个谁 我的谁 靠着谁&lt;br&gt;
-如今天涯海角成了谁的谁&lt;br&gt;
-一睁眼 一眨眼 转身过了多少年&lt;/p&gt;
-&lt;p&gt;一段缘 残的缘 缠绕无边的思念&lt;/p&gt;
-&lt;p&gt;睁眼 眨眼 过了多少年&lt;br&gt;
-一段缘 残的缘 缠绕无边的思念&lt;/p&gt;
-&lt;p&gt;青春的颜色 那是真情的颜色&lt;br&gt;
-风吹雨打仍旧灿烂着&lt;br&gt;
-离散总是太多 真心总被无情错过&lt;/p&gt;
-&lt;p&gt;别问为什么 只是岁月太蹉跎&lt;br&gt;
-难为爱情总是太苦涩&lt;br&gt;
-眼泪中去诉说 沉默中去体会失落&lt;/p&gt;
-&lt;p&gt;花儿流着泪 会枯萎 虽然美&lt;br&gt;
-时光飞逝悄然抹去了香味&lt;br&gt;
-我们不再追 追着谁 拖着谁&lt;br&gt;
-只是年少轻狂留下的疲惫&lt;br&gt;
-风儿伴着月 冷的夜 白的雪&lt;br&gt;
-饮着曾经沧海岁月酿的醉&lt;br&gt;
-你的那个谁 我的谁 靠着谁&lt;br&gt;
-如今天涯海角成了谁的谁&lt;/p&gt;
-&lt;p&gt;一睁眼 一眨眼 转身过了多少年&lt;br&gt;
-一段缘 残的缘 缠绕无边的思念&lt;br&gt;
-睁眼 眨眼 过了多少年&lt;br&gt;
-一段缘 残的缘 缠绕无边的思念&lt;/p&gt;
-&lt;p&gt;青春的颜色 那是真情的颜色&lt;br&gt;
-风吹雨打仍旧灿烂着&lt;br&gt;
-离散总是太多 真心总被无情错过&lt;/p&gt;
-&lt;p&gt;别问为什么 只是岁月太蹉跎&lt;br&gt;
-难为爱情总是太苦涩&lt;br&gt;
-眼泪中去诉说 沉默中去体会失落&lt;/p&gt;
-&lt;p&gt;青春的颜色 那是真情的颜色&lt;br&gt;
-风吹雨打仍旧灿烂着&lt;br&gt;
-离散总是太多 真心总被无情错过&lt;/p&gt;
-&lt;p&gt;别问为什么 只是岁月太蹉跎&lt;br&gt;
-难为爱情总是太苦涩&lt;br&gt;
-眼泪中去诉说 沉默中去体会失落&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;  “看普法故事，品百味人生，这里是普法栏目剧，我是主持人屠化”，那时候每天晚上期待的《普法栏目剧》如今也成为历史，故事总是引人入胜，最后却带领着领悟人生道理，从人民喜闻乐见容易接受的方式将普法融进生活中。那时候总是很天真，想不明白为什么他们的故事总是充满戏剧性，似乎电视里面演绎的是另外一个世界，后来想不明白就剩下一句”人心总是多变的“了结。
-  天空总是灰蒙蒙的，发生了很多事情，很多同学说杭州今天有很强烈的震感，迷糊的我却一点也没感受到。近来我的记忆也变得很模糊，过去很多事情不仔细想也很难记住，我想也可能随着青春的颜色也渐渐淡去了吧。
-  临近清明节，城市里的人来去匆匆赶着回家，早点下班后悠闲逛了逛，这种享受一个人安静的时光真的太美妙了。
-下班这只小狗快乐的摇摆啊摇摆啊，真可爱！
-&lt;img src=&#34;https://blog.wangyunzi.com/2024/04/03/NEnJIp.jpg&#34; alt=&#34;NEnJIp&#34;&gt;
-楼下一大片不知名的小花，在风中摇曳。
-&lt;img src=&#34;https://blog.wangyunzi.com/2024/04/03/kYYYpN.jpg&#34; alt=&#34;kYYYpN&#34;&gt;
-学校附近不知名领养小动物，还在对我嗷嗷叫！
-&lt;img src=&#34;https://blog.wangyunzi.com/2024/04/03/Voga41.jpg&#34; alt=&#34;Voga41&#34;&gt;
-&lt;img src=&#34;https://blog.wangyunzi.com/2024/04/03/ez4pRI.jpg&#34; alt=&#34;ez4pRI&#34;&gt;
-五颜六色的青团，全都买来尝尝，我就不信没有好吃的。
-&lt;img src=&#34;https://blog.wangyunzi.com/2024/04/03/hc3lKm.jpg&#34; alt=&#34;hc3lKm&#34;&gt;&lt;/p&gt;
-</description>
+      <description>作词 : 曾子岚 作曲 : 曾子岚 花儿流着泪 会枯萎 虽然美 时光飞逝悄然抹去了香味 我们不再追 追着谁 拖着谁 只是年少轻狂留下的疲惫 风儿伴着月 冷的夜 白的雪 饮着曾经沧海岁月酿的醉 你的那个谁 我的谁 靠着谁 如今天涯海角成了谁的谁</description>
     </item>
+    
     <item>
       <title>敕勒歌</title>
       <link>//localhost:1313/posts/104/</link>
       <pubDate>Tue, 26 Mar 2024 17:24:00 +0000</pubDate>
+      
       <guid>//localhost:1313/posts/104/</guid>
-      <description>&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=298 height=52 src=&#34;//music.163.com/outchain/player?type=2&amp;id=2132042450&amp;auto=1&amp;height=32&#34;&gt;&lt;/iframe&gt;
-&lt;blockquote&gt;
-&lt;p&gt;心随天地走 意被牛羊牵
-大漠的孤烟 拥抱落日圆
-在天的尽头 与月亮聊天
-篝火映着脸 醉了套马杆
-心随天地走 寻找那达
-情缘你在哪 姑娘问着天
-在天的尽头 与月亮把盏
-篝火映着脸 走马敕勒川
-敕勒川 阴山下
-天似穹庐 笼盖四野
-天苍苍 野茫茫
-风吹草低见牛羊
-敕勒川 阴山下
-天似穹庐 笼盖四野
-天苍苍 野茫茫
-风吹草低见牛羊
-心随天地走 意被牛羊牵
-大漠的孤烟 拥抱落日圆
-在天的尽头 与月亮聊天
-情缘你在哪 姑娘问着天
-情缘你在哪 走马敕勒川&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;  这首歌的歌词我无法形容，加上一个小姐姐的倾情演绎，只想安静的听歌。&lt;/p&gt;
-</description>
+      <description>心随天地走 意被牛羊牵 大漠的孤烟 拥抱落日圆 在天的尽头 与月亮聊天 篝火映着脸 醉了套马杆 心随天地走 寻找那达 情缘你在哪 姑娘问着天 在天的尽头 与月亮把盏 篝火映着脸 走马敕勒川 敕勒川 阴山下 天似穹庐 笼盖四野 天苍苍 野茫茫 风</description>
     </item>
+    
     <item>
       <title>歌手</title>
       <link>//localhost:1313/posts/98/</link>
       <pubDate>Tue, 12 Mar 2024 13:27:00 +0000</pubDate>
+      
       <guid>//localhost:1313/posts/98/</guid>
-      <description>&lt;p&gt;  中学时候天天晚上都在期待着《我是歌手》播出，好像每个周末的夜晚都是属于我的一场听觉盛宴，那时候认识了才华歌手李健、深情唱将A-lin，还有那个青涩可爱的徐佳莹唱着《失落沙洲》，从第一季到第三季，每个周末晚上都在期待。
-  回首已是枉然，到现在没有看到任何一场音乐比赛是那样纯粹，只是再也回不到那样缓慢节奏的生活，每天看着手机不知不觉就度过一天整天，听音乐也不再那样精挑细选，好像时间模糊一切，好久才会有听到一首歌的惊艳。&lt;/p&gt;
-</description>
+      <description>中学时候天天晚上都在期待着《我是歌手》播出，好像每个周末的夜晚都是属于我的一场听觉盛宴，那时候认识了才华歌手李健、深情唱将A-lin，还有那个青涩可爱的徐佳莹唱着《失落沙洲》，从第一季到第三季，每个周</description>
     </item>
+    
     <item>
       <title>《心愿》— 四个女生</title>
       <link>//localhost:1313/posts/78/</link>
       <pubDate>Thu, 29 Jun 2023 21:36:00 +0000</pubDate>
+      
       <guid>//localhost:1313/posts/78/</guid>
-      <description>&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=330 height=86 src=&#34;//music.163.com/outchain/player?type=2&amp;id=379785&amp;auto=1&amp;height=66&#34;&gt;&lt;/iframe&gt;
-&gt; 湖水是你的眼神
-&gt; 梦想满天星辰
-&gt; 心情是一个传说
-&gt; 亘古不变地等候
-&gt; 成长是一扇树叶的门
-&gt; 童年有一群亲爱的人
-&gt; 春天是一段路程
-&gt; 沧海桑田的拥有
-&gt; 那些我爱的人
-&gt; 那些离逝的风
-&gt; 那些永远的誓言一遍一遍
-&gt; 那些爱我的人
-&gt; 那些沉淀的泪
-&gt; 那些永远的誓言一遍一遍
-&gt; 湖水是你的眼神
-&gt; 梦想满天星辰
-&gt; 心情是一个传说
-&gt; 亘古不变地等候
-&gt; 成长是一扇树叶的门
-&gt; 童年有一群亲爱的人
-&gt; 春天是一段路程
-&gt; 沧海桑田的拥有
-&gt; 那些我爱的人
-&gt; 那些离逝的风
-&gt; 那些永远的誓言一遍一遍
-&gt; 那些爱我的人
-&gt; 那些沉淀的泪
-&gt; 那些永远的誓言一遍一遍
-&gt; 我们都曾有过一张
-&gt; 天真而忧伤的脸
-&gt; 手握阳光我们望着遥远
-&gt; 轻轻地一天天
-&gt; 一年又一年
-&gt; 长大间
-&gt; 我们是否还会再唱起《心愿》
-&gt; 轻轻地一天天
-&gt; 一年又一年
-&gt; 长大间
-&gt; 我们是否还会再唱起《心愿》
-&gt; 长大间
-&gt; 我们是否还会再唱起《心愿》
-&lt;h3 id=&#34;歌曲背景&#34;&gt;歌曲背景&lt;/h3&gt;
-&lt;p&gt;  《心愿》，是1994年秋由王泽作词作曲，1996年夏由王泽、杨颖、乔媛和唐景莲（网络音乐平台常以“四个女生”代指四人）演唱的校园风歌曲，因曲风轻盈并且含有一丝淡淡的忧伤而得以广为传唱。
-  此歌原是作者在高二的秋天，大约16岁生日前后写的，而在高考刚结束的时候，作者邀请其好友杨颖、乔媛、唐景莲三人录制了这首歌。&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;  第一次听到这首歌心中感慨万千，清澈的嗓音，略带稚嫩的曲子，可能因为紧张带来的些微颤音，尽管当时看到下面个别人说这首歌不是很专业的歌曲，但我已经沉陷。
-  这种体验是新奇无比的，就好比你吃惯了大鱼大肉，突然给你一盘清爽可口的西瓜，心里不知熨帖了多少。歌词中带着对青春的回忆，婉转中带着忧伤，但是节奏拍子很轻快。那时候没有手机没有先进技术设备，这首歌就横空问世，最让我感到喜欢的是四个女生的音色各有特色，处于青春美好的少女，那年她们风华正茂，在一个阳光和煦的下午，唱着动听的歌谣。当开始回忆这段时光，我们已知葱葱岁月不可追，只能一遍又一遍的循环那时留下的那个可爱的自己。“我们都曾有过一张天真而忧伤的脸”或许就是对青春最好的解释。
-  歌词写得清新，微微带着少年那种干净的忧伤，像雨水一样微凉，听起来像空气里满盈着绿叶的芬芳。&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;[百度百科][https://baike.baidu.com/item/%E5%BF%83%E6%84%BF/3147464?fr=ge_ala#]&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
-&lt;p&gt;张觅 著．诗词清芬：诗词中的婉转芳华．北京：北京工业大学出版社，2014年：3&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <description>&gt; 湖水是你的眼神 &gt; 梦想满天星辰 &gt; 心情是一个传说 &gt; 亘古不变地等候 &gt; 成长是一扇树叶的门 &gt; 童年有一群亲爱的人 &gt; 春天是一段路程 &gt; 沧海桑田的拥有 &gt; 那些我爱的人 &gt; 那些离逝的风 &gt; 那些永远的誓言一遍一遍 &gt; 那些爱我的人</description>
     </item>
+    
   </channel>
 </rss>

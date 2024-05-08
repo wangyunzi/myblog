@@ -1,106 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>软件 on 长街短梦</title>
     <link>//localhost:1313/tags/%E8%BD%AF%E4%BB%B6/</link>
     <description>Recent content in 软件 on 长街短梦</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 24 May 2023 10:52:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 May 2023 10:52:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>千帆历尽，归来仍是word</title>
       <link>//localhost:1313/posts/71/</link>
       <pubDate>Wed, 24 May 2023 10:52:00 +0000</pubDate>
+      
       <guid>//localhost:1313/posts/71/</guid>
-      <description>&lt;p&gt;前面每天折腾了那么多笔记软件，结果现在还是觉得 word 是最好的，配合着 onedrive 同步或备份，在电脑上记笔记毫无压力。但是发现一个小 bug，因为一直开着代理，onedrive 同步其实超级废流量，平时一天一个 G 都用不到，结果那天因为同步了几个较大的文档，结果流量飙升到 6 个多 G，我还理直气壮的去问官方说为啥我前面的流量都显示正常，结果突然用这么多，真是闹笑话了。
-比较尴尬的是因为好久没有使用 word，发现一些最基础的使用功能都忘得差不多了，比如创建目录、页眉设置等，还要慢慢网上搜索，想着我的一个同学一直都是用 word 记笔记而且只坚持用 word，我突然觉得她很聪明，用最朴素的工具才能发挥最大的创造力，况且 word 的编辑能力并不差。最关键的还是因为自己的学科属性，如果用 word 的话方便打印出来浏览，即使在电子浏览如此便利盛行的时代，我依然还是喜欢纸质阅读，似乎那样才会深刻记忆。&lt;/p&gt;
-</description>
+      <description>前面每天折腾了那么多笔记软件，结果现在还是觉得 word 是最好的，配合着 onedrive 同步或备份，在电脑上记笔记毫无压力。但是发现一个小 bug，因为一直开着代理，onedrive 同步其实超级废流量，平时一天一个 G 都用不到</description>
     </item>
+    
     <item>
       <title>手机端上传图片</title>
       <link>//localhost:1313/posts/46/</link>
       <pubDate>Thu, 16 Mar 2023 18:38:00 +0000</pubDate>
+      
       <guid>//localhost:1313/posts/46/</guid>
-      <description>&lt;h4 id=&#34;前言碎碎念&#34;&gt;前言碎碎念&lt;/h4&gt;
-&lt;p&gt;昨天心血来潮去折腾那个hexo博客，最后就是倔强的折腾了昨天一天之后彻底心灰意冷，无奈放弃，记住，是无奈、无奈。&lt;/p&gt;
-&lt;p&gt;最近木木大佬更新了一篇文章&lt;a href=&#34;https://immmmm.com/hugo-shortcodes-recently-by-memos/&#34;&gt;Hugo 「近期」短代码（基于 Memos Docker）&lt;/a&gt;，将memos和相册页面完美结合，解决了平时在上传图片到相册的麻烦之处，烦请&lt;a href=&#34;https://immmmm.com/&#34;&gt;木木木木木&lt;/a&gt;大佬收下的我的膝盖，说实话，每次点开他的文章都感觉我像是去“进货”的，收获颇丰。与我而言，我的博客不能没有相册页面，算是我刚开始搭建博客的一个执念。我弟最近迷上了拍照，无时无刻不再拿着一个手机到处拍（当然这也可能是他谈了恋爱的缘故😅）。拍照是记录当时最真实、最直观的一个方式，想法可能得不到及时记录，但是拍照却能。刚开始我的相册页面搭建的时候我还能每天打开我的电脑，然后将手机里面的图片一张张上传到电脑上，最后上传到图床，最后在将链接一个个复制黏贴在网页上，这个过程无比麻烦（至少在线看来是这样的），那时候我就在想有没有一个APP可以直接上传手机上的图片到图床，但是即使直接上传图片还是要把链接复制到电脑网页端，想着就算了。&lt;/p&gt;
-&lt;p&gt;如今，&lt;a href=&#34;https://immmmm.com/&#34;&gt;木木木木木&lt;/a&gt;大佬的方案直接实现自动化，具体操作步骤如下：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;使用手机端APP将图片全部上传。一般的APP上传后都会自动复制所有图片的Markdown格式。&lt;/li&gt;
-&lt;li&gt;打开手机端memos或是网页端memos直接粘贴所有Markdown格式，记录下就可以了&lt;/li&gt;
-&lt;li&gt;最后你就可以看到你的相册页面发布了新的照片。🎉🎉可以移步我的相册页面预览。
-&lt;img src=&#34;https://blog.wangyunzi.com/2023/03/6b4462575c43318fa3de9655f1df4b00.png&#34; alt=&#34;&#34;&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;好的还是接入正题吧，接下来推荐几款手机端APP。&lt;/p&gt;
-&lt;h4 id=&#34;app图片上传&#34;&gt;APP（图片上传）&lt;/h4&gt;
-&lt;h5 id=&#34;咕咚云图&#34;&gt;咕咚云图&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;推荐指数：🌟🌟🌟🌟&lt;/li&gt;
-&lt;li&gt;作者博客：https://gudong.site/&lt;/li&gt;
-&lt;li&gt;推荐原因：作者我看到开发了好几个软件，都能让我眼前一亮，真的好久都没有体验到如此简洁的国产APP了，每次打开那些软件就是广告，就是各种五颜六色的功能，真的让人感到审美疲劳，以及“万恶”的手机摇动进入广告，以至于每次走路的时候打开一个APP莫名其妙就进入另外一个广告端。该软件支持众多大牌图床，但不支持多吉云，于是我就从新了开了一个七牛云的账号，专门作为新的相册图床，设置都很简单，而且能够数据同步坚果云，好家伙，我昨天才知道坚果云原来如此好用。软件有买断会员和一年会员，但都不贵。使用几次发现还是有点小卡顿。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5 id=&#34;pichoro&#34;&gt;PicHoro&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;推荐指数：🌟🌟🌟🌟🌟&lt;/li&gt;
-&lt;li&gt;作者博客：https://www.horosama.com/&lt;/li&gt;
-&lt;li&gt;文档地址：https://pichoro.horosama.com/#/PicHoroDocs/PicHoro&lt;/li&gt;
-&lt;li&gt;推荐原因：这个软件是和电脑端的PicGo完全对标的，能把PicGo的配置同步至手机端，如果你在电脑上使用PicGo，这个软件将是您的最佳选择，同样支持多个图床，体验下来没什么问题，完全免费。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5 id=&#34;小白图床&#34;&gt;小白图床&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;推荐原因：功能齐全&lt;/li&gt;
-&lt;li&gt;推荐指数：🌟🌟🌟🌟🌟&lt;/li&gt;
-&lt;li&gt;推荐原因：小白图床相较于前面两款软件我认为它的UI要精致一些，对于功能的划分也要更加明确和清晰，但致命的是这个软件的永久会员需要谷歌支付，刚好我又在前不久注销了我的几张虚拟信用卡，导致我现在买不了永久会员，但是请不要担心，基础功能对于每一个人来说都够用了。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;其他&#34;&gt;其他&lt;/h4&gt;
-&lt;h5 id=&#34;咕咚订阅&#34;&gt;咕咚订阅&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;推荐原因：简洁、美观、免费&lt;/li&gt;
-&lt;li&gt;推荐指数：🌟🌟🌟&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5 id=&#34;inbox笔记&#34;&gt;inBox笔记&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;推荐原因：配置云端备份和图床、便捷、美观&lt;/li&gt;
-&lt;li&gt;推荐指数：🌟🌟🌟🌟&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;作者说是根据flomo制作的，体验感确实和flomo以及最近大火的memos相似。
-&lt;img src=&#34;https://blog.wangyunzi.com/2023/03/ddafdb44afccdbd3f271096efb0dd28d.png&#34; alt=&#34;inbox&#34;&gt;&lt;/p&gt;
-</description>
+      <description>前言碎碎念 昨天心血来潮去折腾那个hexo博客，最后就是倔强的折腾了昨天一天之后彻底心灰意冷，无奈放弃，记住，是无奈、无奈。 最近木木大佬更新了一篇文章Hugo 「近期」短代码（基于 Memos Docker），将me</description>
     </item>
+    
     <item>
       <title>小众且好用的软件</title>
       <link>//localhost:1313/posts/35/</link>
       <pubDate>Tue, 13 Dec 2022 22:03:00 +0000</pubDate>
+      
       <guid>//localhost:1313/posts/35/</guid>
-      <description>&lt;h3 id=&#34;我的白日梦&#34;&gt;我的白日梦&lt;/h3&gt;
-&lt;p&gt;在我很小很小的时候，多么渴望有自己的一个日记本，每天记录自己的生活，后来我买了很多漂亮的笔记本却没能坚持记录。&lt;/p&gt;
-&lt;p&gt;eDiary3（英文名称）是我偶然冲浪的时候发现的，那时候看到介绍的网页图片就感觉不太符合我的审美，后来还是决定一试，这一试就发现了这样一个宝藏软件，软件作者从20世纪初（具体时间我不记得）就开始免费开发这款软件，直到现在依旧一个人支持着这款软件。该软件的功能十分丰富，页面也别具一格，文件属于本地，私密性强，唯一不足（在我看来）的是没有移动端，但有消息称作者明年6月份会开发移动端。&lt;/p&gt;
-&lt;h6 id=&#34;1-这是打开初页面需要密码才能打开&#34;&gt;1. 这是打开初页面，需要密码才能打开。&lt;/h6&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/2022/12/c69ac75e0e6e67aca8ed89ba8eb4d17b.png&#34; alt=&#34;image-20221213231716995&#34;&gt;&lt;/p&gt;
-&lt;h6 id=&#34;2-日记本首页风格是那种偏向于复古风很有有以前电脑的范&#34;&gt;2. 日记本首页，风格是那种偏向于复古风，很有有以前电脑的范。&lt;/h6&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/2022/12/a08a60cf2087d8e571bd13e92b57bd61.png&#34; alt=&#34;image-20221213232322618&#34;&gt;&lt;/p&gt;
-&lt;h6 id=&#34;3-等你真正使用这个软件写日记的时候你会发现真的是一个单纯的日记软件吗他很多编辑功能比很多笔记软件还要丰富更适合写东西之类的可以有很多模板更换以及搭配上获取实时天气导出pdf和插入视频音频文件等完全不输wps属于个人大放厥词&#34;&gt;3. 等你真正使用这个软件写日记的时候，你会发现真的是一个单纯的日记软件吗？他很多编辑功能比很多笔记软件还要丰富更适合写东西之类的。可以有很多模板更换，以及搭配上获取实时天气、导出pdf和插入视频音频文件等，完全不输wps。（属于个人大放厥词）&lt;/h6&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/2022/12/7a9e3f0bc0a2468893a3ed1edbe64c27.png&#34; alt=&#34;image-20221213232520716&#34;&gt;&lt;/p&gt;
-&lt;h6 id=&#34;4-这个软件谁用谁知道我将它列为我今年最喜欢并且最实用的软件榜首真的戳中一个小女生对于笔记本那种梦幻的追求和想象&#34;&gt;4. 这个软件谁用谁知道，我将它列为我今年最喜欢并且最实用的软件榜首。真的戳中一个小女生对于笔记本那种梦幻的追求和想象。&lt;/h6&gt;
-&lt;p&gt;官网及下载地址：&lt;a href=&#34;http://www.haoxg.net/&#34;&gt;我的白日梦&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;channelio&#34;&gt;Channel.io&lt;/h3&gt;
-&lt;p&gt;经常来逛我博客的小伙伴就会发现我的左下角的即时聊天（原来是&lt;a href=&#34;https://www.tidio.com/&#34;&gt;Tidio&lt;/a&gt;）被右下角的可爱的即时聊天取代了，这个小玩意儿是我在网上闲逛的时候发现一个很好看且有趣的博客（&lt;a href=&#34;https://irithys.com/&#34;&gt;@山茶花舍&lt;/a&gt;）使用的就是这个，这个小东西在我看来很可爱，虽然对于我的博客来说没有什么用处，只会增加加载量，但是还是很喜欢这种风格，于是果断换上了。这个聊天功能最重要的是他还有所有移动端的软件，直接到各个网站商店搜索这个（channel.io）名字就可以了；缺点就是需要&lt;strong&gt;魔法棒&lt;/strong&gt;才能打开。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/2022/12/ee8bc4d4041fe93b73d0caa368efc92d.png&#34; alt=&#34;image-20221213235535679&#34;&gt;&lt;/p&gt;
-&lt;p&gt;官网及下载地址：&lt;a href=&#34;https://channel.io/en&#34;&gt;channel.io&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;fluent-reader&#34;&gt;Fluent Reader&lt;/h3&gt;
-&lt;p&gt;这个软件差不多使用了一年半了，在电脑换了一个系统之后还是选择安装上，对于rss阅读的需求不是很大，更重要还是网页阅读体验感更好，但是对于很多网页比如博客之类的文章更新没有提醒，所以rss当然是最佳的选择，对于这款软件的评价是：简洁、美观、方便且免费（电脑端）。这个软件有移动端，但是在国内不能下载，我在App store（美区）上看到需要2美元多一点，当时卡里没钱就没买了，还是只有电脑端，只不过对于我已经足够了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/2022/12/3b04313098f9fddb41434bacb0a31685.png&#34; alt=&#34;image-20221214002432464&#34;&gt;&lt;/p&gt;
-&lt;p&gt;官网及下载地址：&lt;a href=&#34;https://hyliu.me/fluent-reader/&#34;&gt;Fluent Reader&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;i微信读书&#34;&gt;i微信读书&lt;/h3&gt;
-&lt;p&gt;这不是软件只是一个chrome插件，如果使用网页版微信读书，这个插件当之无愧的成为最好的“助手”，可以和notion、readwise和flomo联动起来将读书笔记导入。这个插件我差不多用了半年之久，但是前几天发现原作者将所有的项目及项目地址都删除了（目前不知道什么原因），在谷歌插件商店都找不到了，所以需要自己去寻找插件文件。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.wangyunzi.com/2022/12/49391d4e68b4a512514a0ef2958496f4.png&#34; alt=&#34;image-20221214002859890&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;白描天若ocr文字识别&#34;&gt;白描/天若OCR文字识别&lt;/h3&gt;
-&lt;p&gt;这两个软件都是文字识别软件，目前都在使用的两款，虽然他们主要功能区别不大，但是还是很多细节不一样。比如白描的功能更齐全，可以批量识别pdf、各种图片等，但是天若就是只能网页截图识别；白描拥有所有端设备，天若目前只有电脑端的。从我目前使用体验感来分析，白描在网页截图识别文字方面略差天若，有时白描会出现识别不了，但是天若基本都能识别，而且比较精准，但天若没有识别后排版功能，白描有这个功能。总体来讲，各有优劣。这两个软件都不是免费的，但价格不是很贵，普通人可以承受，而且都是一次购买终身的，算下来很划算。&lt;/p&gt;
-&lt;p&gt;官网及下载地址：&lt;a href=&#34;https://baimiao.uzero.cn/&#34;&gt;白描&lt;/a&gt;/&lt;a href=&#34;https://ocr.tianruo.net/&#34;&gt;天若识别&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;略略略略~~&lt;/p&gt;
-&lt;p&gt;以后发现了其他实用好看的宝藏软件再添加上！&lt;/p&gt;
-</description>
+      <description>我的白日梦 在我很小很小的时候，多么渴望有自己的一个日记本，每天记录自己的生活，后来我买了很多漂亮的笔记本却没能坚持记录。 eDiary3（英文名称）是我偶然冲浪的时候发现的，那时候看到介绍的网页图片就感</description>
     </item>
+    
   </channel>
 </rss>
