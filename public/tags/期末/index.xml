@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>期末 on 长街短梦</title>
-    <link>/tags/%E6%9C%9F%E6%9C%AB/</link>
+    <link>//localhost:1313/tags/%E6%9C%9F%E6%9C%AB/</link>
     <description>Recent content in 期末 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 31 May 2022 14:13:00 +0000</lastBuildDate><atom:link href="/tags/%E6%9C%9F%E6%9C%AB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 May 2022 14:13:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E6%9C%9F%E6%9C%AB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>难过的期末</title>
-      <link>/posts/7/</link>
+      <link>//localhost:1313/posts/7/</link>
       <pubDate>Tue, 31 May 2022 14:13:00 +0000</pubDate>
       
-      <guid>/posts/7/</guid>
+      <guid>//localhost:1313/posts/7/</guid>
       <description>期末的痛苦谁懂？小时候总想着到了大学就好了，现在想想那时候的自己太年轻，总是容易被一些看似美好的承诺欺骗，现在只想说一句，这个大学谁爱上谁上☆: .｡. o(≧▽≦)o .｡.:☆。 临近期末，我的噩梦也接着</description>
     </item>
     

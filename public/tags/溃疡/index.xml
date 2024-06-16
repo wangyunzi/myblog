@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>溃疡 on 长街短梦</title>
-    <link>/tags/%E6%BA%83%E7%96%A1/</link>
+    <link>//localhost:1313/tags/%E6%BA%83%E7%96%A1/</link>
     <description>Recent content in 溃疡 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 30 Mar 2023 17:05:00 +0000</lastBuildDate><atom:link href="/tags/%E6%BA%83%E7%96%A1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Mar 2023 17:05:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E6%BA%83%E7%96%A1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>溃疡之路</title>
-      <link>/posts/50/</link>
+      <link>//localhost:1313/posts/50/</link>
       <pubDate>Thu, 30 Mar 2023 17:05:00 +0000</pubDate>
       
-      <guid>/posts/50/</guid>
+      <guid>//localhost:1313/posts/50/</guid>
       <description>最近因为溃疡痛的我不行了，我才发现前一段时间我在自找苦吃，每天点餐都没有点一个蔬菜，水果也是只吃自己喜欢的，平时每天一个鸡蛋也在不知不觉中停了下来，作为一个深受溃疡迫害的的选手，本来感觉自己已经调理好</description>
     </item>
     

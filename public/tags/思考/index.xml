@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>思考 on 长街短梦</title>
-    <link>/tags/%E6%80%9D%E8%80%83/</link>
+    <link>//localhost:1313/tags/%E6%80%9D%E8%80%83/</link>
     <description>Recent content in 思考 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 08 May 2024 14:36:00 +0000</lastBuildDate><atom:link href="/tags/%E6%80%9D%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 May 2024 14:36:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E6%80%9D%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>明明不饿却总是想吃东西？</title>
-      <link>/notion/123/</link>
+      <link>//localhost:1313/notion/123/</link>
       <pubDate>Wed, 08 May 2024 14:36:00 +0000</pubDate>
       
-      <guid>/notion/123/</guid>
+      <guid>//localhost:1313/notion/123/</guid>
       <description>五一放假这几天胃口一般，每天晚上明明不饿却总是想吃点东西。今天中午吃饭的时候明明是平日里最可口的食物也味同嚼蜡，但是下午和室友一起吃面的时候却胃口打开，我想，难道真的是和别人一起吃饭胃口要好一些，到了</description>
     </item>
     
     <item>
       <title>我为什么折腾博客？</title>
-      <link>/notion/119/</link>
+      <link>//localhost:1313/notion/119/</link>
       <pubDate>Fri, 26 Apr 2024 14:36:00 +0000</pubDate>
       
-      <guid>/notion/119/</guid>
+      <guid>//localhost:1313/notion/119/</guid>
       <description>其实最开始有独立博客这个念头开始到现在，我最初想象的博客的样子我都差不多实现了，有一个能随时发布自己照片的位置，能随心所欲发布自己乱七八糟的想法的地方，想到什么说什么，这些都是我想拥有的。 那时候迸发出</description>
     </item>
     

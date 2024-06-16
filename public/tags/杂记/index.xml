@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>杂记 on 长街短梦</title>
-    <link>/tags/%E6%9D%82%E8%AE%B0/</link>
+    <link>//localhost:1313/tags/%E6%9D%82%E8%AE%B0/</link>
     <description>Recent content in 杂记 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 21 Oct 2022 20:19:00 +0000</lastBuildDate><atom:link href="/tags/%E6%9D%82%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Oct 2022 20:19:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E6%9D%82%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一周杂记</title>
-      <link>/posts/23/</link>
+      <link>//localhost:1313/posts/23/</link>
       <pubDate>Fri, 21 Oct 2022 20:19:00 +0000</pubDate>
       
-      <guid>/posts/23/</guid>
+      <guid>//localhost:1313/posts/23/</guid>
       <description>继上个周末睡眠问题的升级，博主满腹牢骚的发了一篇文，发现几个小伙伴的也有同样的问题，实在是天下人苦睡觉已久矣！好在很快就调整了过来，“山不来就我，我便去就山”。幸好很早以前就发现学校的一个绝佳去处——</description>
     </item>
     

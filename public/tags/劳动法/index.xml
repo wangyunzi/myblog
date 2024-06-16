@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>劳动法 on 长街短梦</title>
-    <link>/tags/%E5%8A%B3%E5%8A%A8%E6%B3%95/</link>
+    <link>//localhost:1313/tags/%E5%8A%B3%E5%8A%A8%E6%B3%95/</link>
     <description>Recent content in 劳动法 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 10 Apr 2023 23:47:00 +0000</lastBuildDate><atom:link href="/tags/%E5%8A%B3%E5%8A%A8%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Apr 2023 23:47:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E5%8A%B3%E5%8A%A8%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>华为“奋斗者承诺书”</title>
-      <link>/posts/57/</link>
+      <link>//localhost:1313/posts/57/</link>
       <pubDate>Mon, 10 Apr 2023 23:47:00 +0000</pubDate>
       
-      <guid>/posts/57/</guid>
+      <guid>//localhost:1313/posts/57/</guid>
       <description>2010年8月下旬，一份神秘邮件进入华为部分中高层干部邮箱，“公司倡导以奋斗者为本的文化，为使每位员工都有机会申请成为奋斗者，请您与部门员工沟通奋斗者申请的背景与意义，以及具体申请方式。在他们自愿的情</description>
     </item>
     

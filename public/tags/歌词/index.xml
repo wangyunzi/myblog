@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>歌词 on 长街短梦</title>
-    <link>/tags/%E6%AD%8C%E8%AF%8D/</link>
+    <link>//localhost:1313/tags/%E6%AD%8C%E8%AF%8D/</link>
     <description>Recent content in 歌词 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 13 Apr 2024 11:50:00 +0000</lastBuildDate><atom:link href="/tags/%E6%AD%8C%E8%AF%8D/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2024 11:50:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E6%AD%8C%E8%AF%8D/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>落花</title>
-      <link>/posts/112/</link>
+      <link>//localhost:1313/posts/112/</link>
       <pubDate>Sat, 13 Apr 2024 11:50:00 +0000</pubDate>
       
-      <guid>/posts/112/</guid>
+      <guid>//localhost:1313/posts/112/</guid>
       <description>胭脂泪 黯然留人醉 独上西楼 人影消瘦 心憔悴 问良人 为何不倦归 终日苦盼 泪却空垂 梦里笑 醒来却是悲 无言以对 痴情却换得一身负累 问一江春水 却剪不断伤悲 流不尽爱恨离愁的是非 如这般滋味 在往事中挥泪 相思都早已成堆 ———— 摘</description>
     </item>
     
     <item>
       <title>詞不達意</title>
-      <link>/posts/96/</link>
+      <link>//localhost:1313/posts/96/</link>
       <pubDate>Wed, 24 Jan 2024 11:43:00 +0000</pubDate>
       
-      <guid>/posts/96/</guid>
+      <guid>//localhost:1313/posts/96/</guid>
       <description>词不达意 作词：小寒 作曲：Peter Svensson 编曲：刘志远 有些人用一辈子去学习 化解沟通的难题 为你我也可以 我的快乐与恐惧猜疑 很想都翻译成言语 带你进我心底 我们就像隔着一层玻璃 看得见却触不及 虽然我离你几毫米 你不会知道</description>
     </item>
     
     <item>
       <title>《流年》王菲</title>
-      <link>/posts/66/</link>
+      <link>//localhost:1313/posts/66/</link>
       <pubDate>Thu, 20 Apr 2023 13:51:00 +0000</pubDate>
       
-      <guid>/posts/66/</guid>
+      <guid>//localhost:1313/posts/66/</guid>
       <description>爱上一个天使的缺点 用一种魔鬼的语言 上帝在云端 只眨了一眨眼 最后眉一皱 头一点 爱上一个认真的消遣 用一朵花开的时间 你在我旁边 只打了个照面 五月的晴天 闪了电 有生之年 狭路相逢 终不能幸免 手心忽然长出纠缠的曲线 懂事之前</description>
     </item>
     

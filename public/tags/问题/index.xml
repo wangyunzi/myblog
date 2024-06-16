@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>问题 on 长街短梦</title>
-    <link>/tags/%E9%97%AE%E9%A2%98/</link>
+    <link>//localhost:1313/tags/%E9%97%AE%E9%A2%98/</link>
     <description>Recent content in 问题 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 04 May 2024 09:15:00 +0000</lastBuildDate><atom:link href="/tags/%E9%97%AE%E9%A2%98/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 May 2024 09:15:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E9%97%AE%E9%A2%98/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo的rss问题</title>
-      <link>/notion/122/</link>
+      <link>//localhost:1313/notion/122/</link>
       <pubDate>Sat, 04 May 2024 09:15:00 +0000</pubDate>
       
-      <guid>/notion/122/</guid>
+      <guid>//localhost:1313/notion/122/</guid>
       <description>由于自己换成 hugo 博客之后对于 rss 这个问题似乎没什么在意，但是因为使用的主题是很早以前的，所以最开始 rss 提示以下错误，但是似乎还是能用，询问 chagpt 后解决这一问题。 WARN deprecated: .Site.RSSLink was deprecated in Hugo v0.114.0 and will be removed in a future release. Use the Output Format&amp;#39;s Permalink method instead, e.g. .OutputFormats.Get</description>
     </item>
     
     <item>
       <title>面试难题</title>
-      <link>/posts/101/</link>
+      <link>//localhost:1313/posts/101/</link>
       <pubDate>Mon, 18 Mar 2024 21:56:00 +0000</pubDate>
       
-      <guid>/posts/101/</guid>
+      <guid>//localhost:1313/posts/101/</guid>
       <description>面试的时候遇到一个问题我确实不知道，想留下疑惑请各位博友出谋划策。 公司召开股东大会，董事长在念公司重要数据的时候出现了错误，而这个数据又是特别重要的，你作为证券事务专员应该怎么做？</description>
     </item>
     

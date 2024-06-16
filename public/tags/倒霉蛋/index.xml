@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>倒霉蛋 on 长街短梦</title>
-    <link>/tags/%E5%80%92%E9%9C%89%E8%9B%8B/</link>
+    <link>//localhost:1313/tags/%E5%80%92%E9%9C%89%E8%9B%8B/</link>
     <description>Recent content in 倒霉蛋 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 04 Nov 2022 20:23:00 +0000</lastBuildDate><atom:link href="/tags/%E5%80%92%E9%9C%89%E8%9B%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Nov 2022 20:23:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E5%80%92%E9%9C%89%E8%9B%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>倒霉蛋的一天</title>
-      <link>/posts/25/</link>
+      <link>//localhost:1313/posts/25/</link>
       <pubDate>Fri, 04 Nov 2022 20:23:00 +0000</pubDate>
       
-      <guid>/posts/25/</guid>
+      <guid>//localhost:1313/posts/25/</guid>
       <description>唧唧复唧唧，倒霉蛋，倒霉蛋啊。 昨夜睡觉的时候总是容易被一些异样的声响吵醒，晚睡了一些。 午休睡着的时候被同学误认为是物品，偷拍照片，并被当作占座的人挂在朋友圈和学校墙上三个小时，感到十分难受生气，被误解</description>
     </item>
     

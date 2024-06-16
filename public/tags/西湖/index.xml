@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>西湖 on 长街短梦</title>
-    <link>/tags/%E8%A5%BF%E6%B9%96/</link>
+    <link>//localhost:1313/tags/%E8%A5%BF%E6%B9%96/</link>
     <description>Recent content in 西湖 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 23 Oct 2023 10:34:00 +0000</lastBuildDate><atom:link href="/tags/%E8%A5%BF%E6%B9%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Oct 2023 10:34:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E8%A5%BF%E6%B9%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>西湖游记</title>
-      <link>/posts/87/</link>
+      <link>//localhost:1313/posts/87/</link>
       <pubDate>Mon, 23 Oct 2023 10:34:00 +0000</pubDate>
       
-      <guid>/posts/87/</guid>
+      <guid>//localhost:1313/posts/87/</guid>
       <description>周六突发奇想去逛西湖，乘坐一个小时地铁即到目的地，虽然大一大二的时候经常在西湖边上做志愿活动，那时候几个同学总是在做完志愿的暮色黄昏下共游西湖，但西湖之大，以至于每次都是围着湖面周围一圈环游，还没去过</description>
     </item>
     

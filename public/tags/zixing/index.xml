@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Zi&#39;xing on 长街短梦</title>
-    <link>/tags/zixing/</link>
+    <link>//localhost:1313/tags/zixing/</link>
     <description>Recent content in Zi&#39;xing on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 02 Feb 2023 21:35:00 +0000</lastBuildDate><atom:link href="/tags/zixing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Feb 2023 21:35:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/zixing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>迷失</title>
-      <link>/posts/38/</link>
+      <link>//localhost:1313/posts/38/</link>
       <pubDate>Thu, 02 Feb 2023 21:35:00 +0000</pubDate>
       
-      <guid>/posts/38/</guid>
+      <guid>//localhost:1313/posts/38/</guid>
       <description>到底什么样的结局才能配得上这一路的颠沛流离。 春节悄然过去，恍然间临近开学，一些莫名情绪依然从过节期间萦绕至今，但我隐约知道这些情绪从何而来。 春节对于中国万千家庭来说都是团聚欢庆的时刻，但我家好像不是，</description>
     </item>
     

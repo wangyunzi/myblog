@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>长街短梦</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 15 Jun 2024 11:14:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jun 2024 11:14:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>热情羞耻症</title>
-      <link>/notion/127/</link>
+      <link>//localhost:1313/notion/127/</link>
       <pubDate>Sat, 15 Jun 2024 11:14:00 +0000</pubDate>
       
-      <guid>/notion/127/</guid>
+      <guid>//localhost:1313/notion/127/</guid>
       <description>说实话，我以前也是个挺天真活泼的小女孩的，喜欢和人聊天。但是读过大学之后就变成了一个超级 i 人状态，不喜欢除自己之外的任何噪音，比如在夜晚还有人聊天我是绝对会暴躁的，但是我会选择在深夜一个人放音乐听。最</description>
     </item>
     
     <item>
       <title>勇闯深圳</title>
-      <link>/notion/126/</link>
+      <link>//localhost:1313/notion/126/</link>
       <pubDate>Thu, 13 Jun 2024 13:27:00 +0000</pubDate>
       
-      <guid>/notion/126/</guid>
+      <guid>//localhost:1313/notion/126/</guid>
       <description>从杭州南站坐十几个小时的硬座火车即可到达深圳站，一夜几乎没睡着，你可以想象整个车厢全是呼噜声，此起彼伏的实在难以入睡，加上睡觉条件不足以支撑我进入深度睡眠，恍恍惚惚就来到第二天，于罗湖口岸落脚。找了一</description>
     </item>
     
     <item>
       <title>Netlify部署hugo博客失败怎么办？</title>
-      <link>/notion/125/</link>
+      <link>//localhost:1313/notion/125/</link>
       <pubDate>Fri, 07 Jun 2024 15:34:00 +0000</pubDate>
       
-      <guid>/notion/125/</guid>
+      <guid>//localhost:1313/notion/125/</guid>
       <description>起初是因为自己修改页面的时候发现 GitHub+Netlify 部署的时候出现一个部署成功一个失败，道理来讲一个博客每次修改应该只需要部署一次，但是不知道为什么 netlify 部署了两次，且名称都显示不一样，错误如下图所示： 经过查询得知应该是根</description>
     </item>
     
     <item>
       <title>生命中最简单又最困难的—摘抄</title>
-      <link>/notion/124/</link>
+      <link>//localhost:1313/notion/124/</link>
       <pubDate>Mon, 13 May 2024 15:57:00 +0000</pubDate>
       
-      <guid>/notion/124/</guid>
+      <guid>//localhost:1313/notion/124/</guid>
       <description>我认为，各位所接受的人文教育应当具有的实实在在的价 值在于:在你们舒适、富足、体面的成年生活中，如何摆脱日 复一日的重复单调，避免自己成为思维的奴隶，成为“如帝王一 般独一无二的自我中心”这一默认设置的奴隶</description>
     </item>
     
     <item>
       <title>明明不饿却总是想吃东西？</title>
-      <link>/notion/123/</link>
+      <link>//localhost:1313/notion/123/</link>
       <pubDate>Wed, 08 May 2024 14:36:00 +0000</pubDate>
       
-      <guid>/notion/123/</guid>
+      <guid>//localhost:1313/notion/123/</guid>
       <description>五一放假这几天胃口一般，每天晚上明明不饿却总是想吃点东西。今天中午吃饭的时候明明是平日里最可口的食物也味同嚼蜡，但是下午和室友一起吃面的时候却胃口打开，我想，难道真的是和别人一起吃饭胃口要好一些，到了</description>
     </item>
     
     <item>
       <title>hugo的rss问题</title>
-      <link>/notion/122/</link>
+      <link>//localhost:1313/notion/122/</link>
       <pubDate>Sat, 04 May 2024 09:15:00 +0000</pubDate>
       
-      <guid>/notion/122/</guid>
+      <guid>//localhost:1313/notion/122/</guid>
       <description>由于自己换成 hugo 博客之后对于 rss 这个问题似乎没什么在意，但是因为使用的主题是很早以前的，所以最开始 rss 提示以下错误，但是似乎还是能用，询问 chagpt 后解决这一问题。 WARN deprecated: .Site.RSSLink was deprecated in Hugo v0.114.0 and will be removed in a future release. Use the Output Format&amp;#39;s Permalink method instead, e.g. .OutputFormats.Get</description>
     </item>
     
     <item>
       <title>车站</title>
-      <link>/notion/121/</link>
+      <link>//localhost:1313/notion/121/</link>
       <pubDate>Mon, 29 Apr 2024 10:08:00 +0000</pubDate>
       
-      <guid>/notion/121/</guid>
+      <guid>//localhost:1313/notion/121/</guid>
       <description>在台州站看到就觉得这幅场景很美，拍出来更美了。</description>
     </item>
     
     <item>
       <title>git日常错误</title>
-      <link>/notion/120/</link>
+      <link>//localhost:1313/notion/120/</link>
       <pubDate>Sat, 27 Apr 2024 14:46:00 +0000</pubDate>
       
-      <guid>/notion/120/</guid>
+      <guid>//localhost:1313/notion/120/</guid>
       <description>看这个情况上网搜了一下应该是代理问题，Google 了一下有几个解决方案。 我的解决方案是删掉关于代理的代码： 终端输入~/.ssh/config 打开代理代码页面，我的是这样的： 注释掉下面的代码。 由于只删掉</description>
     </item>
     
     <item>
       <title>我为什么折腾博客？</title>
-      <link>/notion/119/</link>
+      <link>//localhost:1313/notion/119/</link>
       <pubDate>Fri, 26 Apr 2024 14:36:00 +0000</pubDate>
       
-      <guid>/notion/119/</guid>
+      <guid>//localhost:1313/notion/119/</guid>
       <description>其实最开始有独立博客这个念头开始到现在，我最初想象的博客的样子我都差不多实现了，有一个能随时发布自己照片的位置，能随心所欲发布自己乱七八糟的想法的地方，想到什么说什么，这些都是我想拥有的。 那时候迸发出</description>
     </item>
     
     <item>
       <title>[How to Study SMARTER, Not HARDER]</title>
-      <link>/notion/118/</link>
+      <link>//localhost:1313/notion/118/</link>
       <pubDate>Fri, 26 Apr 2024 13:37:00 +0000</pubDate>
       
-      <guid>/notion/118/</guid>
+      <guid>//localhost:1313/notion/118/</guid>
       <description>如何学习一直是一个人应该学会的事情，这个人视频中所说的事情都可以尝试一下。</description>
     </item>
     

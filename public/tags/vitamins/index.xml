@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Vitamins on 长街短梦</title>
-    <link>/tags/vitamins/</link>
+    <link>//localhost:1313/tags/vitamins/</link>
     <description>Recent content in Vitamins on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 23 Jun 2023 19:25:00 +0000</lastBuildDate><atom:link href="/tags/vitamins/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jun 2023 19:25:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/vitamins/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Right Way to Take Vitamins</title>
-      <link>/posts/77/</link>
+      <link>//localhost:1313/posts/77/</link>
       <pubDate>Fri, 23 Jun 2023 19:25:00 +0000</pubDate>
       
-      <guid>/posts/77/</guid>
+      <guid>//localhost:1313/posts/77/</guid>
       <description>前情提示 或许你认为我是一个养生博主，但实则不然，我只是一个喜欢关注自己身体健康的人。没有任何医学生的背景，凭借于互联网的强大，能学习一些自己从未接触过的东西。但请勿将这篇当做科普文章，因为只是作者的个</description>
     </item>
     

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>思源 on 长街短梦</title>
-    <link>/tags/%E6%80%9D%E6%BA%90/</link>
+    <link>//localhost:1313/tags/%E6%80%9D%E6%BA%90/</link>
     <description>Recent content in 思源 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 15 Nov 2022 17:02:00 +0000</lastBuildDate><atom:link href="/tags/%E6%80%9D%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Nov 2022 17:02:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E6%80%9D%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>爆炸吧，思源</title>
-      <link>/posts/30-1/</link>
+      <link>//localhost:1313/posts/30-1/</link>
       <pubDate>Tue, 15 Nov 2022 17:02:00 +0000</pubDate>
       
-      <guid>/posts/30-1/</guid>
+      <guid>//localhost:1313/posts/30-1/</guid>
       <description>今天来给大家小小的吐槽一下思源吧，以下内容均属于深度使用笔记软件后个人主观感受，并不存在对于思源笔记抹黑、造谣等行为。 前面我一直强烈推荐用思源，现在我觉得我打脸了，打得生疼，思源笔记同步真让人一言难尽</description>
     </item>
     
     <item>
       <title>我与思源的初遇</title>
-      <link>/posts/32/</link>
+      <link>//localhost:1313/posts/32/</link>
       <pubDate>Fri, 16 Sep 2022 21:14:00 +0000</pubDate>
       
-      <guid>/posts/32/</guid>
+      <guid>//localhost:1313/posts/32/</guid>
       <description>从昨天晚上到今天晚上，对于思源笔记的使用已经能够比较顺畅了。仔细算起来我折腾obsidian的时间大概有一年左右，在这一年的时间内，几乎大半部分的时间都在琢磨如何将obsidian变成另外一个noti</description>
     </item>
     

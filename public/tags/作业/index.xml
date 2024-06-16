@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>作业 on 长街短梦</title>
-    <link>/tags/%E4%BD%9C%E4%B8%9A/</link>
+    <link>//localhost:1313/tags/%E4%BD%9C%E4%B8%9A/</link>
     <description>Recent content in 作业 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 11 Apr 2023 13:05:00 +0000</lastBuildDate><atom:link href="/tags/%E4%BD%9C%E4%B8%9A/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Apr 2023 13:05:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E4%BD%9C%E4%B8%9A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>庄子和儒家内圣外王的区别</title>
-      <link>/posts/60/</link>
+      <link>//localhost:1313/posts/60/</link>
       <pubDate>Tue, 11 Apr 2023 13:05:00 +0000</pubDate>
       
-      <guid>/posts/60/</guid>
+      <guid>//localhost:1313/posts/60/</guid>
       <description>摘要：自古以来，关于庄子和儒家的”内圣外王“之分争议不断，作为一个道家术语然后来被儒家广为使用甚至奉为圭臬，因此认为儒学之理想和目标可以《天下》篇“内圣外王”一语概括之，儒学就是“内圣外王”之学。诚如</description>
     </item>
     
     <item>
       <title>华为“奋斗者承诺书”</title>
-      <link>/posts/57/</link>
+      <link>//localhost:1313/posts/57/</link>
       <pubDate>Mon, 10 Apr 2023 23:47:00 +0000</pubDate>
       
-      <guid>/posts/57/</guid>
+      <guid>//localhost:1313/posts/57/</guid>
       <description>2010年8月下旬，一份神秘邮件进入华为部分中高层干部邮箱，“公司倡导以奋斗者为本的文化，为使每位员工都有机会申请成为奋斗者，请您与部门员工沟通奋斗者申请的背景与意义，以及具体申请方式。在他们自愿的情</description>
     </item>
     
     <item>
       <title>《税痛源于民众的被剥夺感》读后感</title>
-      <link>/posts/53/</link>
+      <link>//localhost:1313/posts/53/</link>
       <pubDate>Thu, 06 Apr 2023 13:16:00 +0000</pubDate>
       
-      <guid>/posts/53/</guid>
+      <guid>//localhost:1313/posts/53/</guid>
       <description>这篇文章中主要探讨了“税痛”的产生原因，指出它并非仅仅源于税负高低，更在于国家征税权是否受到限制，民众有没有权利参与税法的制定，能不能决定税款用途。同时，文章批判了国家税务总局对于福布斯发布的“全球税</description>
     </item>
     

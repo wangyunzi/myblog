@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>易经 on 长街短梦</title>
-    <link>/tags/%E6%98%93%E7%BB%8F/</link>
+    <link>//localhost:1313/tags/%E6%98%93%E7%BB%8F/</link>
     <description>Recent content in 易经 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 21 Apr 2023 14:26:00 +0000</lastBuildDate><atom:link href="/tags/%E6%98%93%E7%BB%8F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 14:26:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E6%98%93%E7%BB%8F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>生活小记</title>
-      <link>/posts/67/</link>
+      <link>//localhost:1313/posts/67/</link>
       <pubDate>Fri, 21 Apr 2023 14:26:00 +0000</pubDate>
       
-      <guid>/posts/67/</guid>
+      <guid>//localhost:1313/posts/67/</guid>
       <description>第一天 我于不久前就换了一个头像，说起头像，是我在网上找人帮我定制的，当时定制的时候没想太多，当时想的是一个小小的头像涉及到的东西应该比较少，所以定制好了就没管了。这天想着要不将头像设计成 logo，需要</description>
     </item>
     

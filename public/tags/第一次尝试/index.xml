@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>第一次尝试 on 长街短梦</title>
-    <link>/tags/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B0%9D%E8%AF%95/</link>
+    <link>//localhost:1313/tags/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B0%9D%E8%AF%95/</link>
     <description>Recent content in 第一次尝试 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 04 Jul 2023 19:24:00 +0000</lastBuildDate><atom:link href="/tags/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B0%9D%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jul 2023 19:24:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B0%9D%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>螺蛳粉</title>
-      <link>/posts/80/</link>
+      <link>//localhost:1313/posts/80/</link>
       <pubDate>Tue, 04 Jul 2023 19:24:00 +0000</pubDate>
       
-      <guid>/posts/80/</guid>
+      <guid>//localhost:1313/posts/80/</guid>
       <description>第一次吃这样正宗的螺蛳粉。 端上来的那一刻差点没把我熏吐。 中途好几次都停下来，结果麻木了，闻不到味道了哈哈😃。 闻不到味道后觉得味道还不错，但是味道不能多闻。 饭后去钱塘江散步。 看见好多小动物，然后跟着这可</description>
     </item>
     

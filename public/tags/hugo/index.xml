@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo on 长街短梦</title>
-    <link>/tags/hugo/</link>
+    <link>//localhost:1313/tags/hugo/</link>
     <description>Recent content in Hugo on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 28 Feb 2023 21:53:00 +0000</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Feb 2023 21:53:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>obsidian发布hugo博客</title>
-      <link>/posts/44/</link>
+      <link>//localhost:1313/posts/44/</link>
       <pubDate>Tue, 28 Feb 2023 21:53:00 +0000</pubDate>
       
-      <guid>/posts/44/</guid>
+      <guid>//localhost:1313/posts/44/</guid>
       <description>首先非常感谢木木木木木和胡说大佬的教程和代码。 在刚开始使用hugo博客时候我就看到胡说大佬的这篇教程，只是当时折腾半天obsidian还没折腾明白在这上面就不了了之，今天偶然看到木木木木木的教程又开始</description>
     </item>
     
     <item>
       <title>我的博客搭建历程——hugo</title>
-      <link>/posts/6/</link>
+      <link>//localhost:1313/posts/6/</link>
       <pubDate>Sat, 28 May 2022 15:44:00 +0000</pubDate>
       
-      <guid>/posts/6/</guid>
+      <guid>//localhost:1313/posts/6/</guid>
       <description>继hexo搭建博客之后，完成hugo搭建博客就相对简单多了，因为hugo博客的搭建环境和hexo博客搭建环境是一样的，而且两个博客的部署都是一样的只需要记住一些简单常用的命令即可。 如果非要我选择一个博</description>
     </item>
     
     <item>
       <title>我的博客搭建历程</title>
-      <link>/posts/3/</link>
+      <link>//localhost:1313/posts/3/</link>
       <pubDate>Fri, 27 May 2022 14:00:00 +0000</pubDate>
       
-      <guid>/posts/3/</guid>
+      <guid>//localhost:1313/posts/3/</guid>
       <description>在此之前的几个月，我还是一个对博客搭建一窍不通的小白，已经忘记具体是什么时候开始一步步学会把博客搭建成功的。 最开始的初心其实很简单，只是想要一个可以供自己随心所欲写作或是属于自己的小空间，于是不断地上</description>
     </item>
     

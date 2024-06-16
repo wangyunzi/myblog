@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>意义感 on 长街短梦</title>
-    <link>/tags/%E6%84%8F%E4%B9%89%E6%84%9F/</link>
+    <link>//localhost:1313/tags/%E6%84%8F%E4%B9%89%E6%84%9F/</link>
     <description>Recent content in 意义感 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 13 Nov 2022 10:46:00 +0000</lastBuildDate><atom:link href="/tags/%E6%84%8F%E4%B9%89%E6%84%9F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Nov 2022 10:46:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E6%84%8F%E4%B9%89%E6%84%9F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【一席】張秋子：活著圖個啥？</title>
-      <link>/posts/29/</link>
+      <link>//localhost:1313/posts/29/</link>
       <pubDate>Sun, 13 Nov 2022 10:46:00 +0000</pubDate>
       
-      <guid>/posts/29/</guid>
+      <guid>//localhost:1313/posts/29/</guid>
       <description>视频介绍 张秋子，云南师范大学讲师。 “活著图个啥？文学并不能解决这个问题，文学也无法回答什麽才是有意义的生活，甚至它会把问题越描越黑，带给我们更多困惑。但是借由文学的隐喻，我们看到的生活可能更接近于： 人</description>
     </item>
     

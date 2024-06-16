@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>海子 on 长街短梦</title>
-    <link>/tags/%E6%B5%B7%E5%AD%90/</link>
+    <link>//localhost:1313/tags/%E6%B5%B7%E5%AD%90/</link>
     <description>Recent content in 海子 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 28 Feb 2023 21:38:00 +0000</lastBuildDate><atom:link href="/tags/%E6%B5%B7%E5%AD%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Feb 2023 21:38:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E6%B5%B7%E5%AD%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>姐姐，我在德令哈</title>
-      <link>/posts/43/</link>
+      <link>//localhost:1313/posts/43/</link>
       <pubDate>Tue, 28 Feb 2023 21:38:00 +0000</pubDate>
       
-      <guid>/posts/43/</guid>
+      <guid>//localhost:1313/posts/43/</guid>
       <description>偶然想起来高中时期在广播中听到的海子1的一首小诗，当时就被深深吸引，到至今仍然念念不忘，今日得以记录，我是一个不太爱记事的，大概看过就过去了，才懒得去记录这些悲春伤秋。 姐姐，今夜我在德令哈，夜色笼罩 姐</description>
     </item>
     

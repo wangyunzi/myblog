@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>偏见 on 长街短梦</title>
-    <link>/tags/%E5%81%8F%E8%A7%81/</link>
+    <link>//localhost:1313/tags/%E5%81%8F%E8%A7%81/</link>
     <description>Recent content in 偏见 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 13 Sep 2022 13:50:00 +0000</lastBuildDate><atom:link href="/tags/%E5%81%8F%E8%A7%81/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Sep 2022 13:50:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E5%81%8F%E8%A7%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>读《他人即地狱》整理</title>
-      <link>/posts/30/</link>
+      <link>//localhost:1313/posts/30/</link>
       <pubDate>Tue, 13 Sep 2022 13:50:00 +0000</pubDate>
       
-      <guid>/posts/30/</guid>
+      <guid>//localhost:1313/posts/30/</guid>
       <description>偏见是什么 偏见，一种没有明显依据易变的观点。 ——安布罗斯·比尔斯，《魔鬼词典》，1911 偏见的本质： 对一个群体及其个体成员的负面的预先判断。（有些偏见定义也包含了积极的预先判断） 偏见以多种形式展示——</description>
     </item>
     

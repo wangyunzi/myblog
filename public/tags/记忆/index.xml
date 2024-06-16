@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>记忆 on 长街短梦</title>
-    <link>/tags/%E8%AE%B0%E5%BF%86/</link>
+    <link>//localhost:1313/tags/%E8%AE%B0%E5%BF%86/</link>
     <description>Recent content in 记忆 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 20 Feb 2023 22:49:00 +0000</lastBuildDate><atom:link href="/tags/%E8%AE%B0%E5%BF%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 22:49:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E8%AE%B0%E5%BF%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>记忆七宗罪</title>
-      <link>/posts/40/</link>
+      <link>//localhost:1313/posts/40/</link>
       <pubDate>Mon, 20 Feb 2023 22:49:00 +0000</pubDate>
       
-      <guid>/posts/40/</guid>
+      <guid>//localhost:1313/posts/40/</guid>
       <description>记忆七罪（The seven sins of memory) 记忆七罪分为：健忘、失神、空白、错认、暗示、偏颇及纠缠 健忘(Transience)：随着时间而记忆褪色或消失。 失神(Absent-mindedness)：心不在焉，忘东忘西。 空</description>
     </item>
     

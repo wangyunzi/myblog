@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Xlog on 长街短梦</title>
-    <link>/tags/xlog/</link>
+    <link>//localhost:1313/tags/xlog/</link>
     <description>Recent content in Xlog on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 12 Apr 2023 13:53:00 +0000</lastBuildDate><atom:link href="/tags/xlog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Apr 2023 13:53:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/xlog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>五分钟拥有一个在线博客</title>
-      <link>/posts/61/</link>
+      <link>//localhost:1313/posts/61/</link>
       <pubDate>Wed, 12 Apr 2023 13:53:00 +0000</pubDate>
       
-      <guid>/posts/61/</guid>
+      <guid>//localhost:1313/posts/61/</guid>
       <description>写作。拥有。赚取。 xLog 是面向所有人的最棒 链上 开源 博客社区。 话说很早就有看到我的推圈有大佬在推荐这个项目了，但是刚开始一看到区块链这个东西就感觉是陌生的领域，并且登录什么的都是需要拥有钱包账户，就打了退堂</description>
     </item>
     

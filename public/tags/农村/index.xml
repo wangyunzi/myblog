@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>农村 on 长街短梦</title>
-    <link>/tags/%E5%86%9C%E6%9D%91/</link>
+    <link>//localhost:1313/tags/%E5%86%9C%E6%9D%91/</link>
     <description>Recent content in 农村 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 21 Nov 2022 20:01:00 +0000</lastBuildDate><atom:link href="/tags/%E5%86%9C%E6%9D%91/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Nov 2022 20:01:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E5%86%9C%E6%9D%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的大嫂</title>
-      <link>/posts/32-1/</link>
+      <link>//localhost:1313/posts/32-1/</link>
       <pubDate>Mon, 21 Nov 2022 20:01:00 +0000</pubDate>
       
-      <guid>/posts/32-1/</guid>
+      <guid>//localhost:1313/posts/32-1/</guid>
       <description>你们有没有一瞬间往事如洪水一般疯狂涌入大脑中。 那天早上我就是这样的，那是一个很平常的清晨，我照例打开电脑开始一天的运作，或许是好久没休息好的缘故，我开始控制不住自己的思考，就这样任由那些我早已遗弃甚至</description>
     </item>
     

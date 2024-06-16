@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>心情 on 长街短梦</title>
-    <link>/tags/%E5%BF%83%E6%83%85/</link>
+    <link>//localhost:1313/tags/%E5%BF%83%E6%83%85/</link>
     <description>Recent content in 心情 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 13 Jun 2023 10:22:00 +0000</lastBuildDate><atom:link href="/tags/%E5%BF%83%E6%83%85/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Jun 2023 10:22:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E5%BF%83%E6%83%85/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的花死了</title>
-      <link>/posts/75/</link>
+      <link>//localhost:1313/posts/75/</link>
       <pubDate>Tue, 13 Jun 2023 10:22:00 +0000</pubDate>
       
-      <guid>/posts/75/</guid>
+      <guid>//localhost:1313/posts/75/</guid>
       <description>我的花受不得寒冷， 它很娇弱， 但我没有好好保护。 前几天我还在炫耀自己拿到了一盆花种，今天我却不知道面对那些干枯的幼苗。说明书上要求放置在温暖的环境中，所以我把它放置在靠近阳台的那边。那天早上我一如既往的</description>
     </item>
     
     <item>
       <title>退一步，自讨苦吃</title>
-      <link>/posts/70/</link>
+      <link>//localhost:1313/posts/70/</link>
       <pubDate>Wed, 17 May 2023 08:44:00 +0000</pubDate>
       
-      <guid>/posts/70/</guid>
+      <guid>//localhost:1313/posts/70/</guid>
       <description>一个兵荒马乱的晚上，早上起来人都不知道在何方。 凌晨 2 点被舍友上床睡觉的响声吵醒，吵醒的那一刻还以为自己在梦中，结果一下子就清醒过来，当时真的只剩下愤怒，我知道，我今天晚上肯定废了，但是我还是尝试平复心</description>
     </item>
     
     <item>
       <title>那些回不去的年少时光</title>
-      <link>/posts/65/</link>
+      <link>//localhost:1313/posts/65/</link>
       <pubDate>Tue, 18 Apr 2023 14:28:00 +0000</pubDate>
       
-      <guid>/posts/65/</guid>
+      <guid>//localhost:1313/posts/65/</guid>
       <description>2023 年 4 月 13 日晚上，又一次匆匆浏览一遍《那些回不去的时光》，依然还是为了书中的罗琦琦而满怀感动。长大后的书单都被各类热榜书籍充斥，阅读也只是为了获取某一类知识，好久都忘了酣畅淋漓的阅读，再也找不到曾经在</description>
     </item>
     
     <item>
       <title>小意外</title>
-      <link>/posts/28/</link>
+      <link>//localhost:1313/posts/28/</link>
       <pubDate>Thu, 10 Nov 2022 19:38:00 +0000</pubDate>
       
-      <guid>/posts/28/</guid>
+      <guid>//localhost:1313/posts/28/</guid>
       <description>日期：周四 气温：17摄氏度 天气：晴 夜幕降临。 刚把共享单车停好，哐当一声，只听见左边一排的自行车辆都倒下了，还有一辆电动车被困其中。 无奈。 只好尴尬地在众人面前扶起一辆辆自行车。 心情平静如初。 电动车有点糟</description>
     </item>
     
     <item>
       <title>难过的期末</title>
-      <link>/posts/7/</link>
+      <link>//localhost:1313/posts/7/</link>
       <pubDate>Tue, 31 May 2022 14:13:00 +0000</pubDate>
       
-      <guid>/posts/7/</guid>
+      <guid>//localhost:1313/posts/7/</guid>
       <description>期末的痛苦谁懂？小时候总想着到了大学就好了，现在想想那时候的自己太年轻，总是容易被一些看似美好的承诺欺骗，现在只想说一句，这个大学谁爱上谁上☆: .｡. o(≧▽≦)o .｡.:☆。 临近期末，我的噩梦也接着</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>军训 on 长街短梦</title>
-    <link>/tags/%E5%86%9B%E8%AE%AD/</link>
+    <link>//localhost:1313/tags/%E5%86%9B%E8%AE%AD/</link>
     <description>Recent content in 军训 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 01 Jul 2023 19:33:00 +0000</lastBuildDate><atom:link href="/tags/%E5%86%9B%E8%AE%AD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 19:33:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E5%86%9B%E8%AE%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>那年今日</title>
-      <link>/posts/79/</link>
+      <link>//localhost:1313/posts/79/</link>
       <pubDate>Sat, 01 Jul 2023 19:33:00 +0000</pubDate>
       
-      <guid>/posts/79/</guid>
+      <guid>//localhost:1313/posts/79/</guid>
       <description>去年站在这里的是我。 那时天空也是这样蓝， 云朵一片一片的， 像棉花糖。 我很高兴，到处去拍了很多天空，那一刻真的很震惊，我从来没有看过这样惊心动魄的蓝天。</description>
     </item>
     

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>快乐 on 长街短梦</title>
-    <link>/tags/%E5%BF%AB%E4%B9%90/</link>
+    <link>//localhost:1313/tags/%E5%BF%AB%E4%B9%90/</link>
     <description>Recent content in 快乐 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 12 May 2023 11:21:00 +0000</lastBuildDate><atom:link href="/tags/%E5%BF%AB%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 May 2023 11:21:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E5%BF%AB%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>博客一周年（366）</title>
-      <link>/posts/69/</link>
+      <link>//localhost:1313/posts/69/</link>
       <pubDate>Fri, 12 May 2023 11:21:00 +0000</pubDate>
       
-      <guid>/posts/69/</guid>
+      <guid>//localhost:1313/posts/69/</guid>
       <description>哈哈哈，今天在页脚下面赫然显示“小破站风雨中飘摇了 366 天”，本来有点不舒服的情绪一下就开始变得高涨，按道理是应该昨天发现这个小惊喜的，但是今天发现了更好哈哈，366 天一个多么美妙的时间，从开始对博客懵懂</description>
     </item>
     
     <item>
       <title>我的碎碎念</title>
-      <link>/posts/2/</link>
+      <link>//localhost:1313/posts/2/</link>
       <pubDate>Sat, 21 May 2022 15:36:00 +0000</pubDate>
       
-      <guid>/posts/2/</guid>
+      <guid>//localhost:1313/posts/2/</guid>
       <description>这是一篇碎碎念！(❁´◡`❁) 我真的非常喜欢这个头图哈哈哈，先随便试一下吧！ 一条小鱼游啊游，最近在看《爸爸去哪儿3》，发现萌娃们真的太可爱了。 临近期末了，还是要收心搞期末论文，这个博客的设置差不多就要</description>
     </item>
     
