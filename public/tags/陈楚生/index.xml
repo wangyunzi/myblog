@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>陈楚生 on 长街短梦</title>
-    <link>//localhost:1313/tags/%E9%99%88%E6%A5%9A%E7%94%9F/</link>
+    <link>/tags/%E9%99%88%E6%A5%9A%E7%94%9F/</link>
     <description>Recent content in 陈楚生 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 24 Jan 2024 11:43:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E9%99%88%E6%A5%9A%E7%94%9F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jan 2024 11:43:00 +0000</lastBuildDate><atom:link href="/tags/%E9%99%88%E6%A5%9A%E7%94%9F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>詞不達意</title>
-      <link>//localhost:1313/posts/96/</link>
+      <link>/posts/96/</link>
       <pubDate>Wed, 24 Jan 2024 11:43:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/96/</guid>
+      <guid>/posts/96/</guid>
       <description>词不达意 作词：小寒 作曲：Peter Svensson 编曲：刘志远 有些人用一辈子去学习 化解沟通的难题 为你我也可以 我的快乐与恐惧猜疑 很想都翻译成言语 带你进我心底 我们就像隔着一层玻璃 看得见却触不及 虽然我离你几毫米 你不会知道</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Docker on 长街短梦</title>
-    <link>//localhost:1313/tags/docker/</link>
+    <link>/tags/docker/</link>
     <description>Recent content in Docker on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 15 Apr 2024 16:10:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Apr 2024 16:10:00 +0000</lastBuildDate><atom:link href="/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>docker项目记录</title>
-      <link>//localhost:1313/posts/113/</link>
+      <link>/posts/113/</link>
       <pubDate>Mon, 15 Apr 2024 16:10:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/113/</guid>
+      <guid>/posts/113/</guid>
       <description>2024/4/17 问题再现 执行sudo docker compose up -d命令的时候出现这个报错： WARN[0000] /www/wwwroot/memos.wangyunzi.com/docker-compose.yml: `version` is obsolete 这个是说版本过期，因为最新版本的docker不支持版本这种（其实我也是因为一个报错才知道的，所以compose里面的代码第一样关于ve</description>
     </item>
     

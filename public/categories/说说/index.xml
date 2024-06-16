@@ -2,63 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>说说 on 长街短梦</title>
-    <link>//localhost:1313/categories/%E8%AF%B4%E8%AF%B4/</link>
+    <link>/categories/%E8%AF%B4%E8%AF%B4/</link>
     <description>Recent content in 说说 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 13 Mar 2024 21:35:34 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/%E8%AF%B4%E8%AF%B4/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Mar 2024 21:35:34 +0000</lastBuildDate><atom:link href="/categories/%E8%AF%B4%E8%AF%B4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>沟通</title>
-      <link>//localhost:1313/posts/99/</link>
+      <link>/posts/99/</link>
       <pubDate>Wed, 13 Mar 2024 21:35:34 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/99/</guid>
+      <guid>/posts/99/</guid>
       <description>人与人之间切记不可深入交流，语言虽然称之为沟通桥梁，但人的偏见却是横在语言面前的一座大山，一句话在没有说出来就已经被对方加工过千万遍，最后彼此不愿退步，双双落幕。</description>
     </item>
     
     <item>
       <title>感冒&amp;amp;溃疡&amp;amp;糟糕</title>
-      <link>//localhost:1313/posts/95/</link>
+      <link>/posts/95/</link>
       <pubDate>Tue, 23 Jan 2024 10:25:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/95/</guid>
+      <guid>/posts/95/</guid>
       <description>天气太冷了，每天早上起来的喉咙痛的要死，曾经的溃疡又找上门。</description>
     </item>
     
     <item>
       <title>和解</title>
-      <link>//localhost:1313/posts/94/</link>
+      <link>/posts/94/</link>
       <pubDate>Sat, 13 Jan 2024 15:42:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/94/</guid>
+      <guid>/posts/94/</guid>
       <description>我永远也不会和像我爸这样一有点小事情就对你发火十分暴躁不堪的人和解，永远讨厌这样的人，一件小事情可以把你骂得狗血淋头，好像全是你的错一样，先把你骂一顿，然后在像你嬉皮笑脸的混过去，当我开始有意识到小时</description>
     </item>
     
     <item>
       <title>梦二</title>
-      <link>//localhost:1313/posts/89/</link>
+      <link>/posts/89/</link>
       <pubDate>Sun, 26 Nov 2023 09:54:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/89/</guid>
+      <guid>/posts/89/</guid>
       <description>第二天我又做梦了，我终于找到了语文老师。 我看见语文老师看见我很惊喜，看见他们好像在那边吃饭，老师笑着叫着我的名字让我过去，可是我却摆摆手说不了，因为我觉得很惭愧。 后来有梦到初中语文老师，我问他我想从大</description>
     </item>
     
     <item>
       <title>梦一</title>
-      <link>//localhost:1313/posts/88/</link>
+      <link>/posts/88/</link>
       <pubDate>Fri, 24 Nov 2023 13:43:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/88/</guid>
+      <guid>/posts/88/</guid>
       <description>今早做了一个梦。 我梦见我从大学转回小学读书，回到曾经的小学。心里还担心曾经的老师认不出我，然后就看见数学老师一眼叫出我的名字，抬头看却好像不是。碰到小学门口小卖部家的女儿，她带我去到六年级，我说我是转</description>
-    </item>
-    
-    <item>
-      <title>校园日记</title>
-      <link>//localhost:1313/posts/album-1/</link>
-      <pubDate>Thu, 29 Jun 2023 23:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/posts/album-1/</guid>
-      <description>2023-3 [photos] [/photos] 2022-10 [photos] ​ ​ [/photos] [photos] ​ ​ ​ ​ ​ [/photos] [photos] [/photos] 2022-09 [photos] [/photos] 2022-08 [photos] [/photos] [photos] ​ [/photos]</description>
     </item>
     
   </channel>

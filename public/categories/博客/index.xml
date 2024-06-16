@@ -2,99 +2,99 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>博客 on 长街短梦</title>
-    <link>//localhost:1313/categories/%E5%8D%9A%E5%AE%A2/</link>
+    <link>/categories/%E5%8D%9A%E5%AE%A2/</link>
     <description>Recent content in 博客 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 04 May 2024 09:15:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jun 2024 15:34:00 +0000</lastBuildDate><atom:link href="/categories/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Netlify部署hugo博客失败怎么办？</title>
+      <link>/notion/125/</link>
+      <pubDate>Fri, 07 Jun 2024 15:34:00 +0000</pubDate>
+      
+      <guid>/notion/125/</guid>
+      <description>起初是因为自己修改页面的时候发现 GitHub+Netlify 部署的时候出现一个部署成功一个失败，道理来讲一个博客每次修改应该只需要部署一次，但是不知道为什么 netlify 部署了两次，且名称都显示不一样，错误如下图所示： 经过查询得知应该是根</description>
+    </item>
+    
     <item>
       <title>hugo的rss问题</title>
-      <link>//localhost:1313/notion/122/</link>
+      <link>/notion/122/</link>
       <pubDate>Sat, 04 May 2024 09:15:00 +0000</pubDate>
       
-      <guid>//localhost:1313/notion/122/</guid>
+      <guid>/notion/122/</guid>
       <description>由于自己换成 hugo 博客之后对于 rss 这个问题似乎没什么在意，但是因为使用的主题是很早以前的，所以最开始 rss 提示以下错误，但是似乎还是能用，询问 chagpt 后解决这一问题。 WARN deprecated: .Site.RSSLink was deprecated in Hugo v0.114.0 and will be removed in a future release. Use the Output Format&amp;#39;s Permalink method instead, e.g. .OutputFormats.Get</description>
     </item>
     
     <item>
       <title>git日常错误</title>
-      <link>//localhost:1313/notion/120/</link>
+      <link>/notion/120/</link>
       <pubDate>Sat, 27 Apr 2024 14:46:00 +0000</pubDate>
       
-      <guid>//localhost:1313/notion/120/</guid>
+      <guid>/notion/120/</guid>
       <description>看这个情况上网搜了一下应该是代理问题，Google 了一下有几个解决方案。 我的解决方案是删掉关于代理的代码： 终端输入~/.ssh/config 打开代理代码页面，我的是这样的： 注释掉下面的代码。 由于只删掉</description>
     </item>
     
     <item>
       <title>docker项目记录</title>
-      <link>//localhost:1313/posts/113/</link>
+      <link>/posts/113/</link>
       <pubDate>Mon, 15 Apr 2024 16:10:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/113/</guid>
+      <guid>/posts/113/</guid>
       <description>2024/4/17 问题再现 执行sudo docker compose up -d命令的时候出现这个报错： WARN[0000] /www/wwwroot/memos.wangyunzi.com/docker-compose.yml: `version` is obsolete 这个是说版本过期，因为最新版本的docker不支持版本这种（其实我也是因为一个报错才知道的，所以compose里面的代码第一样关于ve</description>
     </item>
     
     <item>
       <title>近期博客</title>
-      <link>//localhost:1313/posts/93/</link>
+      <link>/posts/93/</link>
       <pubDate>Mon, 22 Jan 2024 14:18:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/93/</guid>
+      <guid>/posts/93/</guid>
       <description>其实我还是蛮专一的，小时候喜欢洋娃娃换装，长大喜欢给博客换主题。 最近有小伙伴发现我这两天主题一直在变化，几秒钟估计就变了，额，无关其他，其实我就是闲的慌，不想开始写论文。我最近换过的几个主题都很好看，</description>
     </item>
     
     <item>
       <title>这是一个bug</title>
-      <link>//localhost:1313/posts/81/</link>
+      <link>/posts/81/</link>
       <pubDate>Mon, 10 Jul 2023 00:04:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/81/</guid>
+      <guid>/posts/81/</guid>
       <description>因为迁移主题的问题，有好多小伙伴反映我使用两个主题，其实我也很茫然不知道怎么回事，很多小伙伴访问首页直接跳转至原先一个主题的首页，甚至前几天我还收到了前面一个主题的文章留言。 首先我很肯定我没有给博客套</description>
     </item>
     
     <item>
       <title>Hexo和Notion的神级联动</title>
-      <link>//localhost:1313/posts/64/</link>
+      <link>/posts/64/</link>
       <pubDate>Mon, 17 Apr 2023 14:01:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/64/</guid>
+      <guid>/posts/64/</guid>
       <description>完成目标 notion 文章转化为 markdown 格式 在 notion 上写博客 发布 notion 文章到 hexo 项目起源 初代：项目由@Mo Huishou 最初创建使用，但只支持阿里云图床，且不支持文章修改。 目前：由@Doradx 大佬改造后支持多种图床，且支持文章修改 项目教程</description>
     </item>
     
     <item>
       <title>五分钟拥有一个在线博客</title>
-      <link>//localhost:1313/posts/61/</link>
+      <link>/posts/61/</link>
       <pubDate>Wed, 12 Apr 2023 13:53:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/61/</guid>
+      <guid>/posts/61/</guid>
       <description>写作。拥有。赚取。 xLog 是面向所有人的最棒 链上 开源 博客社区。 话说很早就有看到我的推圈有大佬在推荐这个项目了，但是刚开始一看到区块链这个东西就感觉是陌生的领域，并且登录什么的都是需要拥有钱包账户，就打了退堂</description>
     </item>
     
     <item>
       <title>PC使用obsidian发布博客</title>
-      <link>//localhost:1313/posts/59/</link>
+      <link>/posts/59/</link>
       <pubDate>Tue, 11 Apr 2023 11:45:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/59/</guid>
+      <guid>/posts/59/</guid>
       <description>这是一篇obsidian发布的博客，会不会与qexo发布博客冲突呢？让我测试一下。 测试了一下，总之在obsidian上写博客之前必须pull一下，要不然会冲突，所以到底应不应该选择这两个作为移动端和电</description>
     </item>
     
     <item>
       <title>用Qexo写博客</title>
-      <link>//localhost:1313/posts/58/</link>
+      <link>/posts/58/</link>
       <pubDate>Tue, 11 Apr 2023 11:40:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/58/</guid>
+      <guid>/posts/58/</guid>
       <description>这是一篇用qexo发布的文章。 正在测试中。 测试完毕。 Qexo官方文档：https://www.oplog.cn/qexo/ 最让我震惊的是还支持hugo框架博客，真的是一个大惊喜，只不过我现在不用hug</description>
-    </item>
-    
-    <item>
-      <title>用AI为自己的博客取一个名称</title>
-      <link>//localhost:1313/posts/56/</link>
-      <pubDate>Mon, 10 Apr 2023 20:37:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/posts/56/</guid>
-      <description>前言 因为这段时间博客其实小小变动了一些，突然就想起来自己的博客名称和头像都不是自己原创的，当时做博客也是一个偶然的机会，什么都是网上找的，现在想起来既然是属于自己的一片天地，还是尽量全部用自己的东西最</description>
     </item>
     
   </channel>

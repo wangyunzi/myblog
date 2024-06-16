@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>小说 on 长街短梦</title>
-    <link>//localhost:1313/tags/%E5%B0%8F%E8%AF%B4/</link>
+    <link>/tags/%E5%B0%8F%E8%AF%B4/</link>
     <description>Recent content in 小说 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 07 Oct 2023 17:53:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E5%B0%8F%E8%AF%B4/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Oct 2023 17:53:00 +0000</lastBuildDate><atom:link href="/tags/%E5%B0%8F%E8%AF%B4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>随记（一）</title>
-      <link>//localhost:1313/posts/85/</link>
+      <link>/posts/85/</link>
       <pubDate>Sat, 07 Oct 2023 17:53:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/85/</guid>
+      <guid>/posts/85/</guid>
       <description>“这么多年来，我一直在学习一件事情，就是不回头，只为自己没有做过的事情后悔，不为自己做过的事情后悔。人生每一步行来，都是需要付出代价的。我得到了我想要的一切，失去了我不想失去的一些。可这世上的芸芸众生</description>
     </item>
     

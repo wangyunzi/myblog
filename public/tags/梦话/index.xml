@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>梦话 on 长街短梦</title>
-    <link>//localhost:1313/tags/%E6%A2%A6%E8%AF%9D/</link>
+    <link>/tags/%E6%A2%A6%E8%AF%9D/</link>
     <description>Recent content in 梦话 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 06 May 2023 10:12:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E6%A2%A6%E8%AF%9D/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 May 2023 10:12:00 +0000</lastBuildDate><atom:link href="/tags/%E6%A2%A6%E8%AF%9D/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>说梦话</title>
-      <link>//localhost:1313/posts/68/</link>
+      <link>/posts/68/</link>
       <pubDate>Sat, 06 May 2023 10:12:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/68/</guid>
+      <guid>/posts/68/</guid>
       <description>在我的印象里，没听过别人说我在半夜里说梦话这件事，直到我的大学生涯，一个偶然的平常瞬间，我室友告诉我在半夜说梦话这件事，其实我还是蛮震惊的，说梦话这个事情让我一度觉得很难以为情，不仅半夜会不会影响别人</description>
     </item>
     

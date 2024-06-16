@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>失眠 on 长街短梦</title>
-    <link>//localhost:1313/tags/%E5%A4%B1%E7%9C%A0/</link>
+    <link>/tags/%E5%A4%B1%E7%9C%A0/</link>
     <description>Recent content in 失眠 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 17 May 2023 08:44:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E5%A4%B1%E7%9C%A0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 08:44:00 +0000</lastBuildDate><atom:link href="/tags/%E5%A4%B1%E7%9C%A0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>退一步，自讨苦吃</title>
-      <link>//localhost:1313/posts/70/</link>
+      <link>/posts/70/</link>
       <pubDate>Wed, 17 May 2023 08:44:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/70/</guid>
+      <guid>/posts/70/</guid>
       <description>一个兵荒马乱的晚上，早上起来人都不知道在何方。 凌晨 2 点被舍友上床睡觉的响声吵醒，吵醒的那一刻还以为自己在梦中，结果一下子就清醒过来，当时真的只剩下愤怒，我知道，我今天晚上肯定废了，但是我还是尝试平复心</description>
     </item>
     

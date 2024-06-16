@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>校园 on 长街短梦</title>
-    <link>//localhost:1313/tags/%E6%A0%A1%E5%9B%AD/</link>
+    <link>/tags/%E6%A0%A1%E5%9B%AD/</link>
     <description>Recent content in 校园 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 08 Sep 2023 23:44:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E6%A0%A1%E5%9B%AD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Sep 2023 23:44:00 +0000</lastBuildDate><atom:link href="/tags/%E6%A0%A1%E5%9B%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>二三趣事（一）</title>
-      <link>//localhost:1313/posts/84/</link>
+      <link>/posts/84/</link>
       <pubDate>Fri, 08 Sep 2023 23:44:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/84/</guid>
+      <guid>/posts/84/</guid>
       <description>话说最近又是一年一度的迎新季，适逢亚运会风风火火在杭州开展，学校也开始折腾了起来，原来每至秋天萧条不堪的宿舍楼下也开始热闹了起来，全部店面焕然一新。像我们这样的老学长和学姐看了频频摇头，过去三年错过了</description>
     </item>
     

@@ -2,26 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>学习 on 长街短梦</title>
-    <link>//localhost:1313/tags/%E5%AD%A6%E4%B9%A0/</link>
+    <link>/tags/%E5%AD%A6%E4%B9%A0/</link>
     <description>Recent content in 学习 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 27 Apr 2024 14:46:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jun 2024 15:34:00 +0000</lastBuildDate><atom:link href="/tags/%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Netlify部署hugo博客失败怎么办？</title>
+      <link>/notion/125/</link>
+      <pubDate>Fri, 07 Jun 2024 15:34:00 +0000</pubDate>
+      
+      <guid>/notion/125/</guid>
+      <description>起初是因为自己修改页面的时候发现 GitHub+Netlify 部署的时候出现一个部署成功一个失败，道理来讲一个博客每次修改应该只需要部署一次，但是不知道为什么 netlify 部署了两次，且名称都显示不一样，错误如下图所示： 经过查询得知应该是根</description>
+    </item>
+    
+    <item>
+      <title>生命中最简单又最困难的—摘抄</title>
+      <link>/notion/124/</link>
+      <pubDate>Mon, 13 May 2024 15:57:00 +0000</pubDate>
+      
+      <guid>/notion/124/</guid>
+      <description>我认为，各位所接受的人文教育应当具有的实实在在的价 值在于:在你们舒适、富足、体面的成年生活中，如何摆脱日 复一日的重复单调，避免自己成为思维的奴隶，成为“如帝王一 般独一无二的自我中心”这一默认设置的奴隶</description>
+    </item>
+    
     <item>
       <title>git日常错误</title>
-      <link>//localhost:1313/notion/120/</link>
+      <link>/notion/120/</link>
       <pubDate>Sat, 27 Apr 2024 14:46:00 +0000</pubDate>
       
-      <guid>//localhost:1313/notion/120/</guid>
+      <guid>/notion/120/</guid>
       <description>看这个情况上网搜了一下应该是代理问题，Google 了一下有几个解决方案。 我的解决方案是删掉关于代理的代码： 终端输入~/.ssh/config 打开代理代码页面，我的是这样的： 注释掉下面的代码。 由于只删掉</description>
     </item>
     
     <item>
       <title>[How to Study SMARTER, Not HARDER]</title>
-      <link>//localhost:1313/notion/118/</link>
+      <link>/notion/118/</link>
       <pubDate>Fri, 26 Apr 2024 13:37:00 +0000</pubDate>
       
-      <guid>//localhost:1313/notion/118/</guid>
+      <guid>/notion/118/</guid>
       <description>如何学习一直是一个人应该学会的事情，这个人视频中所说的事情都可以尝试一下。</description>
     </item>
     

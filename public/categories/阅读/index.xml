@@ -2,80 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>阅读 on 长街短梦</title>
-    <link>//localhost:1313/categories/%E9%98%85%E8%AF%BB/</link>
+    <link>/categories/%E9%98%85%E8%AF%BB/</link>
     <description>Recent content in 阅读 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 07 Oct 2023 17:53:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 May 2024 15:57:00 +0000</lastBuildDate><atom:link href="/categories/%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>生命中最简单又最困难的—摘抄</title>
+      <link>/notion/124/</link>
+      <pubDate>Mon, 13 May 2024 15:57:00 +0000</pubDate>
+      
+      <guid>/notion/124/</guid>
+      <description>我认为，各位所接受的人文教育应当具有的实实在在的价 值在于:在你们舒适、富足、体面的成年生活中，如何摆脱日 复一日的重复单调，避免自己成为思维的奴隶，成为“如帝王一 般独一无二的自我中心”这一默认设置的奴隶</description>
+    </item>
+    
     <item>
       <title>随记（一）</title>
-      <link>//localhost:1313/posts/85/</link>
+      <link>/posts/85/</link>
       <pubDate>Sat, 07 Oct 2023 17:53:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/85/</guid>
+      <guid>/posts/85/</guid>
       <description>“这么多年来，我一直在学习一件事情，就是不回头，只为自己没有做过的事情后悔，不为自己做过的事情后悔。人生每一步行来，都是需要付出代价的。我得到了我想要的一切，失去了我不想失去的一些。可这世上的芸芸众生</description>
     </item>
     
     <item>
       <title>《税痛源于民众的被剥夺感》读后感</title>
-      <link>//localhost:1313/posts/53/</link>
+      <link>/posts/53/</link>
       <pubDate>Thu, 06 Apr 2023 13:16:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/53/</guid>
+      <guid>/posts/53/</guid>
       <description>这篇文章中主要探讨了“税痛”的产生原因，指出它并非仅仅源于税负高低，更在于国家征税权是否受到限制，民众有没有权利参与税法的制定，能不能决定税款用途。同时，文章批判了国家税务总局对于福布斯发布的“全球税</description>
     </item>
     
     <item>
       <title>记忆七宗罪</title>
-      <link>//localhost:1313/posts/40/</link>
+      <link>/posts/40/</link>
       <pubDate>Mon, 20 Feb 2023 22:49:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/40/</guid>
+      <guid>/posts/40/</guid>
       <description>记忆七罪（The seven sins of memory) 记忆七罪分为：健忘、失神、空白、错认、暗示、偏颇及纠缠 健忘(Transience)：随着时间而记忆褪色或消失。 失神(Absent-mindedness)：心不在焉，忘东忘西。 空</description>
     </item>
     
     <item>
       <title>《沉默的大多数》整理</title>
-      <link>//localhost:1313/posts/21/</link>
+      <link>/posts/21/</link>
       <pubDate>Sun, 16 Oct 2022 18:22:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/21/</guid>
+      <guid>/posts/21/</guid>
       <description>序言 假如一个社会的宗旨就是反对有趣，那它比寒冰地狱又有不如。在这个领域里发议论的人总是在说这个不宜提倡，那个不宜提倡，仿佛人活着就是为了被提倡。要真是这样，就不如不活。 罗素先生说，参差多态乃是幸福的本</description>
     </item>
     
     <item>
       <title>《每天懂一点趣味心理学》整理</title>
-      <link>//localhost:1313/posts/18/</link>
+      <link>/posts/18/</link>
       <pubDate>Fri, 23 Sep 2022 20:11:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/18/</guid>
+      <guid>/posts/18/</guid>
       <description>划线内容 心理测试 看看心理学对你的影响有多大 威廉斯综合征就是因为基因排列异常而造成的先天性疾病，患有这种病的人在出生的时候，体内的7号染色体就少了20个基因。全球每2万人中，就有一人患这种疾病。 疯子与天</description>
     </item>
     
     <item>
       <title>《山月记》笔记</title>
-      <link>//localhost:1313/posts/17/</link>
+      <link>/posts/17/</link>
       <pubDate>Wed, 21 Sep 2022 22:12:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/17/</guid>
+      <guid>/posts/17/</guid>
       <description>山月记 由此看来，恐怕无论是野兽还是人类，原本都是别种物体，最初还记得自己是什么，尔后便渐渐忘却，认定自己从来就是如此模样了。 这都是我那怯弱的自尊心和妄自尊大的羞耻心在作怪。我深怕自己本非美玉，故而不敢</description>
     </item>
     
     <item>
       <title>读《他人即地狱》整理</title>
-      <link>//localhost:1313/posts/30/</link>
+      <link>/posts/30/</link>
       <pubDate>Tue, 13 Sep 2022 13:50:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/30/</guid>
+      <guid>/posts/30/</guid>
       <description>偏见是什么 偏见，一种没有明显依据易变的观点。 ——安布罗斯·比尔斯，《魔鬼词典》，1911 偏见的本质： 对一个群体及其个体成员的负面的预先判断。（有些偏见定义也包含了积极的预先判断） 偏见以多种形式展示——</description>
     </item>
     
     <item>
       <title>名人名言整理</title>
-      <link>//localhost:1313/posts/11/</link>
+      <link>/posts/11/</link>
       <pubDate>Tue, 23 Aug 2022 21:34:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/11/</guid>
+      <guid>/posts/11/</guid>
       <description>很早以前很喜欢收集一些名人名言记录在册，一些在杂志或是在网上看到的对我有启发产生思考的东西我都喜欢随便记录下，但是由于自己没有整理收集的习惯，导致以前很多记录的都遗失了，今夜闲来无事整理笔记才发现一些</description>
     </item>
     

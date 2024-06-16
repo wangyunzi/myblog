@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>读后感 on 长街短梦</title>
-    <link>//localhost:1313/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/</link>
+    <link>/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/</link>
     <description>Recent content in 读后感 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 06 Apr 2023 13:16:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Apr 2023 13:16:00 +0000</lastBuildDate><atom:link href="/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>《税痛源于民众的被剥夺感》读后感</title>
-      <link>//localhost:1313/posts/53/</link>
+      <link>/posts/53/</link>
       <pubDate>Thu, 06 Apr 2023 13:16:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/53/</guid>
+      <guid>/posts/53/</guid>
       <description>这篇文章中主要探讨了“税痛”的产生原因，指出它并非仅仅源于税负高低，更在于国家征税权是否受到限制，民众有没有权利参与税法的制定，能不能决定税款用途。同时，文章批判了国家税务总局对于福布斯发布的“全球税</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>苹果 on 长街短梦</title>
-    <link>//localhost:1313/tags/%E8%8B%B9%E6%9E%9C/</link>
+    <link>/tags/%E8%8B%B9%E6%9E%9C/</link>
     <description>Recent content in 苹果 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 18 Jan 2024 10:08:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E8%8B%B9%E6%9E%9C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jan 2024 10:08:00 +0000</lastBuildDate><atom:link href="/tags/%E8%8B%B9%E6%9E%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>苹果危机</title>
-      <link>//localhost:1313/posts/92/</link>
+      <link>/posts/92/</link>
       <pubDate>Thu, 18 Jan 2024 10:08:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/92/</guid>
+      <guid>/posts/92/</guid>
       <description>今日天气阴，小雨。 寒假在家的习惯就是醒来打开B站，看到大耳朵TV的的最新视频“目前苹果的三大危机”，确实，最近刷到的一些手机测评整体对苹果呈现一种唱衰趋势，前段时间因为服役了接近4年的vivo x30p</description>
     </item>
     

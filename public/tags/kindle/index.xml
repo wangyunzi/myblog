@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kindle on 长街短梦</title>
-    <link>//localhost:1313/tags/kindle/</link>
+    <link>/tags/kindle/</link>
     <description>Recent content in Kindle on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 15 Jun 2023 12:23:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/kindle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2023 12:23:00 +0000</lastBuildDate><atom:link href="/tags/kindle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>心心念的阅读器</title>
-      <link>//localhost:1313/posts/76/</link>
+      <link>/posts/76/</link>
       <pubDate>Thu, 15 Jun 2023 12:23:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/76/</guid>
+      <guid>/posts/76/</guid>
       <description>缘起 因为一些莫名其妙的心情，想入手一个墨水屏阅读器，在内心深处的几经折磨之下，还是最终入手了两台。原先读高中的时候就已经有了一台，在网上淘到的一个德国牌子，到现在都还能用，那时候不了解墨水屏市场怎么样</description>
     </item>
     

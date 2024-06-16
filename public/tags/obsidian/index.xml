@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Obsidian on 长街短梦</title>
-    <link>//localhost:1313/tags/obsidian/</link>
+    <link>/tags/obsidian/</link>
     <description>Recent content in Obsidian on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 19 Apr 2024 23:45:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Apr 2024 23:45:00 +0000</lastBuildDate><atom:link href="/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我是如何重启obsidian工作流程的？</title>
-      <link>//localhost:1313/posts/115/</link>
+      <link>/posts/115/</link>
       <pubDate>Fri, 19 Apr 2024 23:45:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/115/</guid>
+      <guid>/posts/115/</guid>
       <description>前几天偶然间打开了我的obsidian临时保存文件，突然发现一个主题（也可以是插件）LifeOs，在一篇文章评论区了解到这个插件可以做到同步memos到obsidian本地，一下就心动不已，在阅读了作</description>
     </item>
     
     <item>
       <title>PC使用obsidian发布博客</title>
-      <link>//localhost:1313/posts/59/</link>
+      <link>/posts/59/</link>
       <pubDate>Tue, 11 Apr 2023 11:45:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/59/</guid>
+      <guid>/posts/59/</guid>
       <description>这是一篇obsidian发布的博客，会不会与qexo发布博客冲突呢？让我测试一下。 测试了一下，总之在obsidian上写博客之前必须pull一下，要不然会冲突，所以到底应不应该选择这两个作为移动端和电</description>
     </item>
     
     <item>
       <title>obsidian如何同步全平台</title>
-      <link>//localhost:1313/posts/45/</link>
+      <link>/posts/45/</link>
       <pubDate>Wed, 01 Mar 2023 17:09:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/45/</guid>
+      <guid>/posts/45/</guid>
       <description>目前我的设备是一台Windows、一个Ipad和一部安装vivo手机，我迫切希望这几个设备能够联动起来。众所周知，obsidian令广大用户头疼的一个问题就是全平台同步，在电脑端的obsidian无疑</description>
     </item>
     
     <item>
       <title>obsidian发布hugo博客</title>
-      <link>//localhost:1313/posts/44/</link>
+      <link>/posts/44/</link>
       <pubDate>Tue, 28 Feb 2023 21:53:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/44/</guid>
+      <guid>/posts/44/</guid>
       <description>首先非常感谢木木木木木和胡说大佬的教程和代码。 在刚开始使用hugo博客时候我就看到胡说大佬的这篇教程，只是当时折腾半天obsidian还没折腾明白在这上面就不了了之，今天偶然看到木木木木木的教程又开始</description>
     </item>
     

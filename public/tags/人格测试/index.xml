@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>人格测试 on 长街短梦</title>
-    <link>//localhost:1313/tags/%E4%BA%BA%E6%A0%BC%E6%B5%8B%E8%AF%95/</link>
+    <link>/tags/%E4%BA%BA%E6%A0%BC%E6%B5%8B%E8%AF%95/</link>
     <description>Recent content in 人格测试 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 08 Jun 2023 13:45:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E4%BA%BA%E6%A0%BC%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jun 2023 13:45:00 +0000</lastBuildDate><atom:link href="/tags/%E4%BA%BA%E6%A0%BC%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GPEG九型人格测试</title>
-      <link>//localhost:1313/posts/74/</link>
+      <link>/posts/74/</link>
       <pubDate>Thu, 08 Jun 2023 13:45:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/74/</guid>
+      <guid>/posts/74/</guid>
       <description>第四型喜欢标新立异，渴望与众不同。他们对自己和他人的情绪十分敏感，也十分在意。因此，他们身上具有很多艺术家的特质。往往情感丰富，习惯忠于自己的感受，凭感觉做事，追求心灵刺激，情绪变化无常，散发出独特的</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>国庆假期 on 长街短梦</title>
-    <link>//localhost:1313/tags/%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F/</link>
+    <link>/tags/%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F/</link>
     <description>Recent content in 国庆假期 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 30 Sep 2022 21:34:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Sep 2022 21:34:00 +0000</lastBuildDate><atom:link href="/tags/%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>国庆放假之回家历险记</title>
-      <link>//localhost:1313/posts/20/</link>
+      <link>/posts/20/</link>
       <pubDate>Fri, 30 Sep 2022 21:34:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/20/</guid>
+      <guid>/posts/20/</guid>
       <description>待笔者静心下来写这篇博客的时候已是月上柳梢头，故事从错过高铁开始。 高铁票是三天前就买好的，选票的时候根本没有选择，庆幸还能选到一张，但是发车时间却是在早上，这对于国庆出行高峰期的人算是不幸中的万幸，但</description>
     </item>
     

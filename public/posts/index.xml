@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on 长街短梦</title>
-    <link>//localhost:1313/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 21 Apr 2024 15:06:19 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Apr 2024 15:06:19 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我被挂在网上了？</title>
-      <link>//localhost:1313/posts/117/</link>
+      <link>/posts/117/</link>
       <pubDate>Sun, 21 Apr 2024 15:06:19 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/117/</guid>
+      <guid>/posts/117/</guid>
       <description>我被挂网上了？ 周末刚打开电脑就收到一封邮件，大概内容就是他们在通缉一个人，但是这个人的个人网站上将我我的域名列为了他的朋友板块，他们认为这个人应该认识我，所以希望我提供该人的个人信息。首先看到这种全英</description>
     </item>
     
     <item>
       <title>感谢Jdeal赠送的核酸检测U盘</title>
-      <link>//localhost:1313/posts/116/</link>
+      <link>/posts/116/</link>
       <pubDate>Sat, 20 Apr 2024 13:03:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/116/</guid>
+      <guid>/posts/116/</guid>
       <description>事件的起因在于我20多天前在jdeal大佬的废物重生之核酸检测试剂盒这篇文章留言，当时还只是感叹于大佬的惊奇操作，昨天依旧平常一样打开最新文章留言，没想到一下子就回复我是2000个评论，哈哈哈，真是小</description>
     </item>
     
     <item>
       <title>我是如何重启obsidian工作流程的？</title>
-      <link>//localhost:1313/posts/115/</link>
+      <link>/posts/115/</link>
       <pubDate>Fri, 19 Apr 2024 23:45:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/115/</guid>
+      <guid>/posts/115/</guid>
       <description>前几天偶然间打开了我的obsidian临时保存文件，突然发现一个主题（也可以是插件）LifeOs，在一篇文章评论区了解到这个插件可以做到同步memos到obsidian本地，一下就心动不已，在阅读了作</description>
     </item>
     
     <item>
       <title>我们一起开始RSS的生活吧！</title>
-      <link>//localhost:1313/posts/114/</link>
+      <link>/posts/114/</link>
       <pubDate>Tue, 16 Apr 2024 21:17:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/114/</guid>
+      <guid>/posts/114/</guid>
       <description>由上篇文可知，我搭建了一个Freshrss，为了将这个服务的利用率达到最大，所以我准备将其与Typecho等结合，但结果非如我所愿，走向了一个不一样的方向。如图所示，推荐NetNewsWire: RSS Re</description>
     </item>
     
     <item>
       <title>docker项目记录</title>
-      <link>//localhost:1313/posts/113/</link>
+      <link>/posts/113/</link>
       <pubDate>Mon, 15 Apr 2024 16:10:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/113/</guid>
+      <guid>/posts/113/</guid>
       <description>2024/4/17 问题再现 执行sudo docker compose up -d命令的时候出现这个报错： WARN[0000] /www/wwwroot/memos.wangyunzi.com/docker-compose.yml: `version` is obsolete 这个是说版本过期，因为最新版本的docker不支持版本这种（其实我也是因为一个报错才知道的，所以compose里面的代码第一样关于ve</description>
     </item>
     
     <item>
       <title>落花</title>
-      <link>//localhost:1313/posts/112/</link>
+      <link>/posts/112/</link>
       <pubDate>Sat, 13 Apr 2024 11:50:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/112/</guid>
+      <guid>/posts/112/</guid>
       <description>胭脂泪 黯然留人醉 独上西楼 人影消瘦 心憔悴 问良人 为何不倦归 终日苦盼 泪却空垂 梦里笑 醒来却是悲 无言以对 痴情却换得一身负累 问一江春水 却剪不断伤悲 流不尽爱恨离愁的是非 如这般滋味 在往事中挥泪 相思都早已成堆 ———— 摘</description>
     </item>
     
     <item>
       <title>Digital Paper</title>
-      <link>//localhost:1313/posts/111/</link>
+      <link>/posts/111/</link>
       <pubDate>Mon, 08 Apr 2024 21:28:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/111/</guid>
+      <guid>/posts/111/</guid>
       <description>在二手市场观察了几天终于入手了一款10寸以上的墨水屏，购入之前十分纠结，纠结的原因在于会不会像kindle放在角落里吃灰，所以犹豫了很久，而且需要一款能够满足自己日常看pdf文件且能够涂鸦画画写写不卡</description>
     </item>
     
     <item>
       <title>【Me Before You】</title>
-      <link>//localhost:1313/posts/110/</link>
+      <link>/posts/110/</link>
       <pubDate>Sun, 07 Apr 2024 22:38:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/110/</guid>
+      <guid>/posts/110/</guid>
       <description>看之前就已经知道结局——The Best Ending，认真的讲这部电影构思很巧妙，很多的场景都很唯美，一眼心动，配上恰到好处的背景音乐，一场温馨的邂逅就此开始。</description>
     </item>
     
     <item>
       <title>诈骗无处不在</title>
-      <link>//localhost:1313/posts/109/</link>
+      <link>/posts/109/</link>
       <pubDate>Sat, 06 Apr 2024 23:41:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/109/</guid>
+      <guid>/posts/109/</guid>
       <description>最近好久没登录zlibrary网站下载书了，以前习惯性谷歌搜索出来第一个就是官网，结果前不久直接点击Google搜索第一个网站（以为是官方网站）进去之后才发现所有的下载都需要钱才可以，那时候还以为是z</description>
     </item>
     
     <item>
       <title>分享音乐-青春的颜色</title>
-      <link>//localhost:1313/posts/108/</link>
+      <link>/posts/108/</link>
       <pubDate>Wed, 03 Apr 2024 21:59:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/108/</guid>
+      <guid>/posts/108/</guid>
       <description>作词 : 曾子岚 作曲 : 曾子岚 花儿流着泪 会枯萎 虽然美 时光飞逝悄然抹去了香味 我们不再追 追着谁 拖着谁 只是年少轻狂留下的疲惫 风儿伴着月 冷的夜 白的雪 饮着曾经沧海岁月酿的醉 你的那个谁 我的谁 靠着谁 如今天涯海角成了谁的谁</description>
     </item>
     

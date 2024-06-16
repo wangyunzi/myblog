@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Windows11 on 长街短梦</title>
-    <link>//localhost:1313/tags/windows11/</link>
+    <link>/tags/windows11/</link>
     <description>Recent content in Windows11 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 05 Apr 2023 14:20:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/windows11/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Apr 2023 14:20:00 +0000</lastBuildDate><atom:link href="/tags/windows11/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>白嫖党如何美化Windows桌面</title>
-      <link>//localhost:1313/posts/52/</link>
+      <link>/posts/52/</link>
       <pubDate>Wed, 05 Apr 2023 14:20:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/52/</guid>
+      <guid>/posts/52/</guid>
       <description>前段时间不知道怎么弄的，导致电脑崩坏黑屏了，只得重新安装新系统，这次没有找专业人员帮我安装那些乱七八糟的系统，有幸认识一位大佬（嗜血星空），有技术、有实力，远程教我安装系统，平时电脑有啥小毛病都是请教</description>
     </item>
     

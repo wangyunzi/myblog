@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>一日三餐 on 长街短梦</title>
-    <link>//localhost:1313/tags/%E4%B8%80%E6%97%A5%E4%B8%89%E9%A4%90/</link>
+    <link>/tags/%E4%B8%80%E6%97%A5%E4%B8%89%E9%A4%90/</link>
     <description>Recent content in 一日三餐 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Feb 2023 11:44:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E4%B8%80%E6%97%A5%E4%B8%89%E9%A4%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 11:44:00 +0000</lastBuildDate><atom:link href="/tags/%E4%B8%80%E6%97%A5%E4%B8%89%E9%A4%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一周三餐记录</title>
-      <link>//localhost:1313/posts/42/</link>
+      <link>/posts/42/</link>
       <pubDate>Sun, 26 Feb 2023 11:44:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/42/</guid>
+      <guid>/posts/42/</guid>
       <description>算作对这篇文章这些日子我都干了什么的填坑吧！记录自己一周的三餐（大部分在食堂），准确来说是两餐，不太爱吃早餐。 2023/02/20 周一 早餐：一个茶叶蛋、一个肉包 晚餐：麻辣烫 2023/02/21 周二 早餐：一个肉包、一个茶叶蛋 午餐：蛋羹和莴</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>趣事 on 长街短梦</title>
-    <link>//localhost:1313/tags/%E8%B6%A3%E4%BA%8B/</link>
+    <link>/tags/%E8%B6%A3%E4%BA%8B/</link>
     <description>Recent content in 趣事 on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 22 Mar 2024 20:20:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E8%B6%A3%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Mar 2024 20:20:00 +0000</lastBuildDate><atom:link href="/tags/%E8%B6%A3%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>谁翻了我的垃圾桶？</title>
-      <link>//localhost:1313/posts/103/</link>
+      <link>/posts/103/</link>
       <pubDate>Fri, 22 Mar 2024 20:20:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/103/</guid>
+      <guid>/posts/103/</guid>
       <description>今天下班回到宿舍就发现自己的垃圾桶被翻了一地，心理慌了一下，想着不会是进贼了吧，但是仔细观察一番却发现只有垃圾桶被翻过，其他都是好好的，于是心里升起一丝疑惑，主要是我们宿舍的安保十分不错，接着就看到连</description>
     </item>
     

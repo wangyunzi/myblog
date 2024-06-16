@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on 长街短梦</title>
-    <link>//localhost:1313/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on 长街短梦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 04 May 2024 09:15:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>博客</title>
-      <link>//localhost:1313/categories/%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Sat, 04 May 2024 09:15:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/categories/%E5%8D%9A%E5%AE%A2/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 15 Jun 2024 11:14:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>生活</title>
-      <link>//localhost:1313/categories/%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Mon, 29 Apr 2024 10:08:00 +0000</pubDate>
+      <link>/categories/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Sat, 15 Jun 2024 11:14:00 +0000</pubDate>
       
-      <guid>//localhost:1313/categories/%E7%94%9F%E6%B4%BB/</guid>
+      <guid>/categories/%E7%94%9F%E6%B4%BB/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>说说</title>
-      <link>//localhost:1313/categories/%E8%AF%B4%E8%AF%B4/</link>
-      <pubDate>Wed, 13 Mar 2024 21:35:34 +0000</pubDate>
+      <title>博客</title>
+      <link>/categories/%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Fri, 07 Jun 2024 15:34:00 +0000</pubDate>
       
-      <guid>//localhost:1313/categories/%E8%AF%B4%E8%AF%B4/</guid>
+      <guid>/categories/%E5%8D%9A%E5%AE%A2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>阅读</title>
-      <link>//localhost:1313/categories/%E9%98%85%E8%AF%BB/</link>
-      <pubDate>Sat, 07 Oct 2023 17:53:00 +0000</pubDate>
+      <link>/categories/%E9%98%85%E8%AF%BB/</link>
+      <pubDate>Mon, 13 May 2024 15:57:00 +0000</pubDate>
       
-      <guid>//localhost:1313/categories/%E9%98%85%E8%AF%BB/</guid>
+      <guid>/categories/%E9%98%85%E8%AF%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>说说</title>
+      <link>/categories/%E8%AF%B4%E8%AF%B4/</link>
+      <pubDate>Wed, 13 Mar 2024 21:35:34 +0000</pubDate>
+      
+      <guid>/categories/%E8%AF%B4%E8%AF%B4/</guid>
       <description></description>
     </item>
     
