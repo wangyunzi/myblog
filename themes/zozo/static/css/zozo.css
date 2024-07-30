@@ -743,3 +743,85 @@ a.back_to_top:hover span {
 }
 
 /*animation ends*/
+
+/*pocketbase 评论*/
+#comments {
+  font-size: 0.95rem;
+  margin-top: 3em;
+  overflow-wrap: break-word;
+  text-align: initial;
+}
+.comment-counter {
+  margin-left: 0.5em;
+}
+.comment-form {
+  margin-top: 1em;
+  border: 3px double var(--c-txt-alt);
+  padding: 0.5em;
+}
+.comment-form label {
+  display: inline-block;
+  width: 100%;
+  margin-top: 0.5em;
+  font-size: 0.9em;
+}
+.comment-form button {
+  width: 100%;
+  margin-top: 1em;
+  margin-bottom: 0.2em;
+  line-height: 2;
+}
+.comment-form .form-wrapper {
+  display: flex;
+  gap: 0.5em;
+}
+.comment-preview {
+  width: 100%;
+  min-height: 1em;
+  padding: 2px 6px;
+  border: 1px dashed var(--c-txt-alt);
+}
+.comment-group {
+  margin-top: 2em;
+}
+.comment-group article {
+  display: flex;
+  margin: 1em 0;
+  padding-top: 1em;
+  border-top: 1px solid var(--c-bg-alt);
+}
+.comment-avatar {
+  margin-right: 0.8em;
+}
+.comment-avatar > img {
+  width: 40px;
+  height: auto;
+  border-radius: 50%;
+}
+.comment-wrapper {
+  position: relative;
+  width: 100%;
+}
+.comment-wrapper > header {
+  font-size: 0.9em;
+}
+.comment-wrapper > header .comment-date {
+  color: var(--c-txt-alt);
+}
+.comment-wrapper > main {
+  margin: 1em 0;
+  overflow-wrap: anywhere;
+}
+.comment-wrapper img {
+  max-width: 100%;
+}
+.reply-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 0.8em;
+}
+.replies {
+  margin-left: calc(7% + 1em);
+}
+
