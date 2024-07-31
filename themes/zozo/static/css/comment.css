@@ -1,0 +1,341 @@
+/* 评论表单样式 */
+.comment-form {
+    margin-top: 1em;
+    border: 1px solid #ddd; /* 灰色边框 */
+    padding: 1em; /* 增加内边距 */
+    background-color: #f9f9f9; /* 更浅的背景色 */
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    border-radius: 8px; /* 添加圆角 */
+}
+
+.comment-form label {
+    display: block;
+    font-size: 90%;
+    color: #555; /* 深灰色 */
+}
+
+.comment-form input,
+.comment-form textarea {
+    width: 100%;
+    padding: 0.75em; /* 增加内边距 */
+    border: 1px solid #ddd; /* 灰色边框 */
+    background-color: #fff; /* 白色背景 */
+    color: #333; /* 深灰色文字 */
+    font-size: 90%;
+    border-radius: 4px; /* 圆角边框 */
+    box-sizing: border-box; /* 确保内边距和边框不影响宽度 */
+}
+
+.comment-form textarea {
+    min-height: 5em; /* 设置最小高度 */
+    resize: vertical; /* 允许垂直调整 */
+}
+
+.comment-form .form-buttons {
+    display: flex;
+    justify-content: flex-end; /* 右对齐按钮 */
+    gap: 0.5em;
+}
+
+.comment-form button {
+    border: 1px solid #ddd; /* 灰色边框 */
+    background-color: #f0f0f0; /* 浅灰色背景 */
+    color: #333; /* 深灰色文字 */
+    font-size: 90%;
+    cursor: pointer;
+    padding: 0.5em 1em; /* 增加内边距 */
+    border-radius: 4px; /* 圆角边框 */
+    transition: background-color 0.3s, border-color 0.3s; /* 平滑过渡 */
+}
+
+.comment-form button:hover {
+    border-color: #54bab9; /* 悬停时边框颜色 */
+    background-color: #e0e0e0; /* 悬停时背景颜色 */
+}
+
+.comment-form button:active {
+    border-style: dashed;
+}
+
+.comment-preview {
+    width: 100%;
+    min-height: 2em;
+    padding: 0.5em; /* 增加内边距 */
+    border: 1px dashed #ddd; /* 灰色虚线边框 */
+    background-color: #f9f9f9; /* 更浅的背景色 */
+    color: #333; /* 深灰色文字 */
+    border-radius: 4px; /* 圆角边框 */
+    box-sizing: border-box; /* 确保内边距和边框不影响宽度 */
+}
+
+/* 评论组样式 */
+.comment-group {
+    margin-top: 2em;
+    padding-right: 1.5rem; /* 增加右边距以避免遮挡 */
+    position: relative;
+}
+
+.comment-group article {
+    display: flex;
+    margin: 1em 0;
+    padding: 1em; /* 增加内边距 */
+    border-top: 1px solid #ddd; /* 灰色边框 */
+    background-color: #fff; /* 白色背景 */
+    border-radius: 8px; /* 圆角边框 */
+    box-shadow: none; /* 去掉阴影 */
+    box-sizing: border-box; /* 确保内边距和边框不影响宽度 */
+    overflow: hidden; /* 确保内容不会超出 */
+    position: relative;
+}
+
+/* 增加评论框右边距 */
+.comment-wrapper {
+    position: relative;
+    width: 100%;
+    overflow: hidden; /* 确保内容不会超出 */
+}
+
+.comment-avatar {
+    flex-shrink: 0; /* 防止头像缩小 */
+    margin-right: 1em; /* 增加间距 */
+}
+
+.comment-avatar img {
+    width: 50px; /* 增大头像 */
+    height: 50px; /* 增大头像 */
+    border-radius: 4px; /* 方形头像 */
+    border: 2px solid #ddd; /* 添加边框 */
+}
+
+.comment-wrapper {
+    flex: 1; /* 使评论内容占据剩余空间 */
+}
+
+.comment-wrapper > header {
+    font-size: 90%;
+    color: #555; /* 深灰色 */
+}
+
+.comment-wrapper > header .comment-date {
+    color: #888; /* 浅灰色日期 */
+}
+
+.comment-wrapper > main {
+    margin-top: 1em;
+    overflow-wrap: break-word; /* 自动换行 */
+    color: #333; /* 深灰色文字 */
+    line-height: 1.6; /* 增加行距 */
+}
+
+.comment-wrapper img {
+    max-width: 100%;
+    border-radius: 4px; /* 圆角边框 */
+    box-sizing: border-box; /* 确保内边距和边框不影响宽度 */
+}
+
+.reply-btn {
+    position: relative; /* 改为相对定位 */
+    margin-top: 0.5em; /* 在评论内容下方 */
+    background: none; /* 去掉背景 */
+    color: #0056b3; /* 蓝色文字 */
+    border: none; /* 去掉边框 */
+    cursor: pointer;
+    font-size: 0.85em; /* 调整字体大小 */
+    font-weight: bold; /* 加粗字体 */
+}
+
+.reply-btn:hover {
+    color: #0056b3; /* 悬停时更深的蓝色 */
+}
+
+.replies {
+    margin-left: calc(5% + 1rem);
+    padding-right: 1rem; /* 增加右边距以避免遮挡 */
+}
+
+
+/* twikoo 评论样式 */
+.twikoo {
+    overflow: visible !important;
+}
+
+.tk-extras,
+.tk-row.actions .tk-action-icon.__markdown,
+.tk-preview,
+.tk-content p a.at,
+.tk-tag.tk-tag-green {
+    display: none !important;
+}
+
+/* 使回复链接和评论内容在同一行，并始终在第一行 */
+.tk-content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    margin-top: 0 !important;
+}
+
+.tk-content span:first-child {
+    display: inline-block;
+    margin-right: 1em; /* 增加间距 */
+}
+
+.tk-content p {
+    margin: 0;
+    text-align: left;
+    flex: 1 1 auto;
+}
+
+.tk-content p a.at {
+    margin-left: 0 !important;
+}
+
+.tk-replies {
+    display: flex;
+    flex-direction: column;
+}
+
+.tk-replies .tk-content {
+    display: flex;
+    align-items: baseline; /* 垂直对齐 */
+}
+
+.tk-comment {
+    margin-top: 17px !important;
+}
+
+.tk-comments-container .tk-avatar {
+    margin-top: 10px;
+}
+
+/* 头像样式调整为正方形 */
+.tk-avatar img {
+    width: 50px; /* 设置宽度 */
+    height: 50px; /* 设置高度 */
+    border-radius: 0; /* 去掉圆角 */
+    border: 2px solid #ddd; /* 边框 */
+}
+
+.tk-expand {
+    border-radius: 0 0 5px 5px;
+    position: relative;
+    z-index: 99;
+    margin-top: -10px;
+    padding: 0 !important;
+}
+
+
+
+.el-button.tk-preview {
+    border: none;
+}
+
+.el-input.is-active .el-input__inner,
+.el-input__inner:focus,
+.el-textarea__inner {
+    border-color: #ccc !important;
+}
+
+.el-button--primary.is-disabled,
+.el-button--primary.is-disabled:active,
+.el-button--primary.is-disabled:focus,
+.el-button--primary.is-disabled:hover {
+    color: #FFF !important;
+    background-color: #252627 !important;
+    border-color: #4a4b50 !important;
+}
+
+.tk-action-icon svg {
+    fill: #434a56 !important;
+}
+
+.tk-comments-title .tk-icon svg {
+    fill: #ccc !important;
+}
+
+.tk-action-count {
+    color: #434a56 !important;
+}
+
+.el-loading-mask {
+    background-color: #fff !important;
+}
+
+.dark .el-loading-mask {
+    background-color: #292a2d !important;
+}
+
+.dark .tk-expand {
+    background: linear-gradient(rgba(38,42,56,0), #3b3d42) !important;
+}
+
+.dark .el-button,
+.dark .el-input__inner,
+.dark .el-textarea__inner {
+    color: silver !important;
+    background-color: #252627 !important;
+    border-color: #4a4b50 !important;
+}
+
+.dark .tk-meta-input .el-input .el-input-group__prepend {
+    color: silver !important;
+    background-color: #4a4b50 !important;
+    border-color: #4a4b50 !important;
+}
+
+.dark .el-button--primary.is-disabled,
+.dark .el-button--primary.is-disabled:active,
+.dark .el-button--primary.is-disabled:focus,
+.dark .el-button--primary.is-disabled:hover {
+    color: #FFF !important;
+    background-color: #252627 !important;
+    border-color: #4a4b50 !important;
+}
+
+.dark .tk-action-icon svg {
+    fill: #ccc !important;
+}
+
+.dark .tk-comments-title .tk-icon svg {
+    fill: #4a4b50 !important;
+}
+
+.dark .tk-action-count {
+    color: #ccc !important;
+}
+
+.OwO .OwO-body {
+    z-index: 99;
+}
+
+.OwO .OwO-body .OwO-items-emoji .OwO-item {
+    font-size: 23px !important;
+}
+
+.OwO .OwO-body .OwO-items-image .OwO-item {
+    max-width: calc(20% - 10px) !important;
+}
+
+.dark .OwO-body {
+    color: silver !important;
+    background-color: #252627 !important;
+    border-color: #4a4b50 !important;
+}
+
+.dark .OwO .OwO-body .OwO-bar {
+    border-top: 1px solid #4a4b50 !important;
+}
+
+.dark .OwO .OwO-body .OwO-items .OwO-item,
+.dark .OwO .OwO-body .OwO-bar {
+    background: #4a4b50 !important;
+    color: #ccc !important;
+}
+
+.dark .OwO .OwO-body .OwO-bar .OwO-packages li:hover,
+.dark .OwO .OwO-body .OwO-items-image .OwO-item:hover,
+.dark .OwO .OwO-body .OwO-bar .OwO-packages .OwO-package-active {
+    background-color: #252627 !important;
+}
